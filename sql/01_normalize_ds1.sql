@@ -1,0 +1,4 @@
+--CREATE TABLE ds1_clean;
+--WITH base AS (
+--SELECT custnmbr, addrcode, custname, sStreet1, sStreet2, sCity, sProvState, sCountry, sPostalZip
+--FROM dataset_1 )
