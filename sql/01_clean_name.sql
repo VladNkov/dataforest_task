@@ -14,10 +14,8 @@ SET name_1 = upper(trim(coalesce(custname, '')));
 ALTER TABLE ds1_name_clean ADD COLUMN name_2 TEXT;
 UPDATE ds1_name_clean
 SET name_2 =
-  replace(replace(replace(replace(replace(replace(replace(replace(
-    name_1,
-    '"',''
-  ), char(39), ''), '*',''), '#',''), '+',' '), '-',' '), ',',' '), '.',' ');
+  replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(name_1,
+    '"',''), char(39), ''), '*',''), '#',''), '+',''), '-',''), ',',''), '.',''), '_', ''), '%', ''), '/', ' ');
 
 -- обрезаю C/O если есть
   ALTER TABLE ds1_name_clean ADD COLUMN name_3 TEXT;
@@ -26,3 +24,26 @@ SET name_3 = CASE
   WHEN instr(name_2, ' C/O') > 0 THEN substr(name_2, 1, instr(name_2, ' C/O') - 1)
   ELSE name_2
 END;
+
+-- скобки заменяю на пробелы
+ALTER TABLE ds1_name_clean ADD COLUMN name_4 TEXT;
+UPDATE ds1_name_clean
+SET name_4 =
+  replace(replace(replace(replace(name_3,'(', ' '), ')',' '), '[',' '), ']',' ');
+
+-- обрезаб CORPORATION, INC, LTD и тд.
+ALTER TABLE ds1_name_clean ADD COLUMN name_5 TEXT;
+UPDATE ds1_name_clean
+SET name_5 =
+  trim(replace(replace(replace(replace(replace(replace(replace(replace(replace(
+  ' ' || name_4 || ' ',' INC ', ' '), ' LTD ', ' '),' LIMITED ', ' '),' LP ', ' '),' LLC ', ' '),
+  ' CORPORATION ', ' '),' CORP ', ' '),' CO ', ' '),' COMPANY ', ' '));
+
+
+ALTER TABLE ds1_name_clean ADD COLUMN name_6 TEXT;
+UPDATE ds1_name_clean
+SET name_6 =
+  trim(
+    replace(replace(replace(replace(name_5, '  ', ' '), '  ', ' '), '  ', ' '), '  ', ' ')
+  );
+
