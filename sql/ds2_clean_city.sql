@@ -7,22 +7,22 @@ SELECT
   city
 FROM dataset_2;
 
--- Шаг 1: UPPER + TRIM
+-- UPPER + TRIM
 ALTER TABLE ds2_city_clean ADD COLUMN city_1 TEXT;
 UPDATE ds2_city_clean
 SET city_1 = UPPER(TRIM(COALESCE(city, '')));
 
--- Шаг 2: убираю запятые, точки, кавычки
+-- убираю запятые, точки, кавычки
 ALTER TABLE ds2_city_clean ADD COLUMN city_2 TEXT;
 UPDATE ds2_city_clean
-SET city_2 = REPLACE(REPLACE(REPLACE(REPLACE(city_1, ',', ''), '.', ''), '"', ''), char(39), '');
+SET city_2 = replace(replace(replace(replace(city_1, ',', ''), '.', ''), '"', ''), char(39), '');
 
--- Шаг 3: заменяю тире на пробел для унификации
+-- заменяю тире на пробел для унификации
 ALTER TABLE ds2_city_clean ADD COLUMN city_3 TEXT;
 UPDATE ds2_city_clean
-SET city_3 = REPLACE(city_2, '-', ' ');
+SET city_3 = replace(city_2, '-', ' ');
 
--- Шаг 4: унифицирую ST / SAINT
+-- унифицирую ST / SAINT
 ALTER TABLE ds2_city_clean ADD COLUMN city_4 TEXT;
 UPDATE ds2_city_clean
 SET city_4 = CASE
@@ -31,16 +31,17 @@ SET city_4 = CASE
   ELSE city_3
 END;
 
--- Шаг 5: убираю акценты (основные французские)
+-- меняю французские буквы
 ALTER TABLE ds2_city_clean ADD COLUMN city_5 TEXT;
 UPDATE ds2_city_clean
 SET city_5 =
-  REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(
-    city_4,
-    'É', 'E'), 'È', 'E'), 'Ê', 'E'), 'Ë', 'E'),
-    'À', 'A'), 'Â', 'A'), 'Ô', 'O'), 'Î', 'I');
+  replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(
+  replace(replace(replace(replace(replace(replace(replace(replace(replace(
+  city_4,
+  'É', 'E'), 'È', 'E'), 'Ê', 'E'), 'Ë', 'E'),'À', 'A'), 'Â', 'A'), 'Ô', 'O'), 'Î', 'I'), 'é', 'E'), 'è', 'E'),
+  'ê', 'E'), 'ë', 'E'), 'à', 'A'), 'â', 'A'), 'ô', 'O'), 'î', 'I'), 'ù', 'U'), 'û', 'U'), 'ç', 'C');
 
--- Шаг 6: убираю множественные пробелы
+-- убираю пробелы
 ALTER TABLE ds2_city_clean ADD COLUMN city_clean TEXT;
 UPDATE ds2_city_clean
-SET city_clean = TRIM(REPLACE(REPLACE(REPLACE(city_5, '  ', ' '), '  ', ' '), '  ', ' '));
+SET city_clean = TRIM(replace(replace(replace(city_5, '  ', ' '), '  ', ' '), '  ', ' '));

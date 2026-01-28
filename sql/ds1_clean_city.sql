@@ -33,12 +33,14 @@ END;
 ALTER TABLE ds1_city_clean ADD COLUMN city_5 TEXT;
 UPDATE ds1_city_clean
 SET city_5 =
-  replace(replace(replace(replace(replace(replace(replace(replace(
+  replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(
+  replace(replace(replace(replace(replace(replace(replace(replace(replace(
   city_4,
-  'É', 'E'), 'È', 'E'), 'Ê', 'E'), 'Ë', 'E'),'À', 'A'), 'Â', 'A'), 'Ô', 'O'), 'Î', 'I');
+  'É', 'E'), 'È', 'E'), 'Ê', 'E'), 'Ë', 'E'),'À', 'A'), 'Â', 'A'), 'Ô', 'O'), 'Î', 'I'), 'é', 'E'), 'è', 'E'),
+  'ê', 'E'), 'ë', 'E'), 'à', 'A'), 'â', 'A'), 'ô', 'O'), 'î', 'I'), 'ù', 'U'), 'û', 'U'), 'ç', 'C');
 
 -- убираю пробелы
 ALTER TABLE ds1_city_clean ADD COLUMN city_clean TEXT;
 UPDATE ds1_city_clean
-SET city_clean = trim
-    replace(replace(replace(replace(name_5, '  ', ' '), '  ', ' '), '  ', ' '), '  ', ' ')
+SET city_clean = trim(
+    replace(replace(replace(replace(city_5, '  ', ' '), '  ', ' '), '  ', ' '), '  ', ' '));

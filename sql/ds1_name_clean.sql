@@ -1,9 +1,7 @@
 DROP TABLE IF EXISTS ds1_name_clean;
 CREATE TABLE ds1_name_clean AS
 SELECT
-  custnmbr,
-  addrcode,
-  custname
+  custnmbr, addrcode, custname
 FROM dataset_1;
 
 ALTER TABLE ds1_name_clean ADD COLUMN name_1 TEXT;
