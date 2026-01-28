@@ -1,17 +1,17 @@
-DROP TABLE IF EXISTS ds1_state_clean;
+DROP TABLE IF EXISTS ds2_state_clean;
 
-CREATE TABLE ds1_state_clean AS
+CREATE TABLE ds2_state_clean AS
 SELECT
-  custnmbr, addrcode, sProvState
-FROM dataset_1;
+  custnmbr, addrcode, state
+FROM dataset_2;
 
-ALTER TABLE ds1_state_clean ADD COLUMN state_1 TEXT;
-UPDATE ds1_state_clean
-SET state_1 = UPPER(TRIM(COALESCE(sProvState, '')));
+ALTER TABLE ds2_state_clean ADD COLUMN state_1 TEXT;
+UPDATE ds2_state_clean
+SET state_1 = UPPER(TRIM(COALESCE(state, '')));
 
 -- меняю французские буквы
-ALTER TABLE ds1_state_clean ADD COLUMN state_2 TEXT;
-UPDATE ds1_state_clean
+ALTER TABLE ds2_state_clean ADD COLUMN state_2 TEXT;
+UPDATE ds2_state_clean
 SET state_2 =
   replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(
   replace(replace(replace(replace(replace(replace(replace(replace(replace(
@@ -20,12 +20,12 @@ SET state_2 =
   'ê', 'E'), 'ë', 'E'), 'à', 'A'), 'â', 'A'), 'ô', 'O'), 'î', 'I'), 'ù', 'U'), 'û', 'U'), 'ç', 'C');
 
 -- привожу к 2-буквенным кодам
-ALTER TABLE ds1_state_clean ADD COLUMN state_clean TEXT;
-UPDATE ds1_state_clean
+ALTER TABLE ds2_state_clean ADD COLUMN state_clean TEXT;
+UPDATE ds2_state_clean
 SET state_clean = CASE
-  WHEN state_2 IN ('ONTARIO', 'ON', 'TORONTO', 'TORONTO, ON') THEN 'ON'
-  WHEN state_2 LIKE 'ON%' THEN 'ON'
-  WHEN state_2 IN ('QUEBEC', 'QC', 'MONTREAL') THEN 'QC'
+  WHEN state_2 IN ('ONTARIO', 'ON', 'TORONTO') THEN 'ON'
+  WHEN state_2 IN ('QUEBEC', 'QC') THEN 'QC'
+  WHEN state_2 LIKE 'QU%' THEN 'QC'
   WHEN state_2 IN ('BRITISH COLUMBIA', 'BC') THEN 'BC'
   WHEN state_2 IN ('ALBERTA', 'AB') THEN 'AB'
   WHEN state_2 IN ('MANITOBA', 'MB') THEN 'MB'
@@ -37,6 +37,6 @@ SET state_clean = CASE
   WHEN state_2 IN ('NORTHWEST TERRITORIES', 'NT') THEN 'NT'
   WHEN state_2 IN ('YUKON', 'YT') THEN 'YT'
   WHEN state_2 IN ('NUNAVUT', 'NU') THEN 'NU'
-  WHEN state_2 IN ('TEXAS') THEN 'TE'
+  WHEN state_2 IN ('MINNESOTA', 'MI') THEN 'MI'
   ELSE state_2
 END;
