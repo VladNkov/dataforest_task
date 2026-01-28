@@ -38,6 +38,7 @@ SET name_5 =
   ' ' || name_4 || ' ',' INC ', ' '), ' LTD ', ' '),' LIMITED ', ' '),' LP ', ' '),' LLC ', ' '),
   ' CORPORATION ', ' '),' CORP ', ' '),' CO ', ' '),' COMPANY ', ' '));
 
+-- меняю французские буквы
 ALTER TABLE ds2_name_clean ADD COLUMN name_6 TEXT;
 UPDATE ds1_name_clean
 SET name_6 =
