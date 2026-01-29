@@ -38,5 +38,12 @@ for script in sql_scripts:
     print(f"executed: {script}")
 
 conn.commit()
+
+pd.read_sql("SELECT * FROM matched_companies", conn).to_csv("data/merged_dataset.csv", index=False)
+print("exported: merged_dataset.csv")
+
+pd.read_sql("SELECT * FROM metrics", conn).to_csv("data/metrics.csv", index=False)
+print("exported: metrics.csv")
+
 conn.close()
 print("Done.")
