@@ -4,8 +4,8 @@ import pandas as pd
 DB_PATH = "data.db"
 
 csv_files = {
-    'dataset_1': 'company_dataset_1.csv',
-    'dataset_2': 'company_dataset_2.csv'
+    'dataset_1': 'data/company_dataset_1.csv',
+    'dataset_2': 'data/company_dataset_2.csv'
 }
 
 sql_scripts = [
