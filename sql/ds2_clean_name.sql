@@ -2,7 +2,7 @@ DROP TABLE IF EXISTS ds2_name_clean;
 CREATE TABLE ds2_name_clean AS
 SELECT
   custnmbr, addrcode, custname
-FROM dataset_1;
+FROM dataset_2;
 
 ALTER TABLE ds2_name_clean ADD COLUMN name_1 TEXT;
 UPDATE ds2_name_clean
@@ -40,7 +40,7 @@ SET name_5 =
 
 -- меняю французские буквы
 ALTER TABLE ds2_name_clean ADD COLUMN name_6 TEXT;
-UPDATE ds1_name_clean
+UPDATE ds2_name_clean
 SET name_6 =
   replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(
   replace(replace(replace(replace(replace(replace(replace(replace(replace(
