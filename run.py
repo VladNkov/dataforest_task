@@ -4,25 +4,25 @@ import pandas as pd
 DB_PATH = "data.db"
 
 csv_files = {
-    'dataset_1': 'data/company_dataset_1.csv',
-    'dataset_2': 'data/company_dataset_2.csv'
+    'dataset_1': 'data/input/company_dataset_1.csv',
+    'dataset_2': 'data/input/company_dataset_2.csv'
 }
 
 sql_scripts = [
-    "sql/ds1_clean_name.sql",
-    "sql/ds2_clean_name.sql",
-    "sql/ds1_clean_state.sql",
-    "sql/ds2_clean_state.sql",
-    "sql/ds1_clean_city.sql",
-    "sql/ds2_clean_city.sql",
-    "sql/ds1_clean_country.sql",
-    "sql/ds2_clean_country.sql",
-    "sql/ds1_clean_zip.sql",
-    "sql/ds2_clean_zip.sql",
-    "sql/ds1_clean_all.sql",
-    "sql/ds2_clean_all.sql",
-    "sql/matching.sql",
-    "sql/metrics.sql",
+    "sql/clean/ds1_clean_name.sql",
+    "sql/clean/ds2_clean_name.sql",
+    "sql/clean/ds1_clean_state.sql",
+    "sql/clean/ds2_clean_state.sql",
+    "sql/clean/ds1_clean_city.sql",
+    "sql/clean/ds2_clean_city.sql",
+    "sql/clean/ds1_clean_country.sql",
+    "sql/clean/ds2_clean_country.sql",
+    "sql/clean/ds1_clean_zip.sql",
+    "sql/clean/ds2_clean_zip.sql",
+    "sql/clean/ds1_clean_all.sql",
+    "sql/clean/ds2_clean_all.sql",
+    "sql/analytics/matching.sql",
+    "sql/analytics/metrics.sql",
 ]
 
 conn = sqlite3.connect(DB_PATH)
@@ -39,10 +39,10 @@ for script in sql_scripts:
 
 conn.commit()
 
-pd.read_sql("SELECT * FROM matched_companies", conn).to_csv("data/merged_dataset.csv", index=False)
+pd.read_sql("SELECT * FROM matched_companies", conn).to_csv("data/output/merged_dataset.csv", index=False)
 print("exported: merged_dataset.csv")
 
-pd.read_sql("SELECT * FROM metrics", conn).to_csv("data/metrics.csv", index=False)
+pd.read_sql("SELECT * FROM metrics", conn).to_csv("data/output/metrics.csv", index=False)
 print("exported: metrics.csv")
 
 conn.close()
