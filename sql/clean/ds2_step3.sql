@@ -1,8 +1,8 @@
-DROP TABLE IF EXISTS ds1_step3;
+DROP TABLE IF EXISTS ds2_step3;
 
-CREATE TABLE ds1_step3 AS
+CREATE TABLE ds2_step3 AS
 WITH a AS (
-  SELECT custnmbr, addrcode, custname, sStreet1, sStreet2, sCity, sProvState, sCountry, sPostalZip,
+  SELECT custnmbr, addrcode, custname, address1, address2, address3,  ccode, city, country, state, zip,
     -- обрезаю C/O в имени
     CASE
       WHEN instr(name_step2, ' C/O') > 0 THEN substr(name_step2, 1, instr(name_step2, ' C/O') - 1)
@@ -10,7 +10,7 @@ WITH a AS (
     END AS name_whithout_co,
 
     city_step2, state_step2, country_step1, zip_step1
-  FROM ds1_step2),
+  FROM ds2_step2),
 
 b AS (
   SELECT
@@ -57,7 +57,7 @@ b AS (
   FROM a
 )
 SELECT
-  custnmbr, addrcode, custname, sStreet1, sStreet2, sCity, sProvState, sCountry, sPostalZip,
+  custnmbr, addrcode, custname, address1, address2, address3, ccode, city, country, state, zip,
 
   -- финальная очистка
   trim(replace(replace(replace(replace(name_whithout_inc,'  ',' '),'  ',' '),'  ',' '),'  ',' ')) AS name_clean,

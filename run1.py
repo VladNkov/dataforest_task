@@ -3,7 +3,7 @@ import sqlite3
 DB_PATH = "data.db"
 
 
-sql_scripts = ["sql/clean/ds1_step3.sql"]
+sql_scripts = ["sql/clean/ds2_step3.sql"]
 
 
 conn = sqlite3.connect(DB_PATH)
