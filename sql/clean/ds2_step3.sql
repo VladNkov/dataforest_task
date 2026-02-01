@@ -13,7 +13,7 @@ WITH a AS (
   FROM ds2_step2),
 
 b AS (
-  SELECT
+SELECT
     *,
      -- обрезаю CORPORATION, INC, LTD и тд.
     trim(replace(replace(replace(replace(replace(replace(replace(replace(replace(
@@ -54,7 +54,7 @@ b AS (
       ELSE country_step1
     END AS country_clean
 
-  FROM a
+FROM a
 )
 SELECT
   custnmbr, addrcode, custname, address1, address2, address3, ccode, city, country, state, zip,

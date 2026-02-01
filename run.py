@@ -1,49 +1,41 @@
 import sqlite3
 import pandas as pd
+import glob
 
-DB_PATH = "data.db"
 
-csv_files = {
-    'dataset_1': 'data/input/company_dataset_1.csv',
-    'dataset_2': 'data/input/company_dataset_2.csv'
-}
+DB_PATH = 'data.db'
+csv_files = {'dataset_1': 'data/input/company_dataset_1.csv', 'dataset_2': 'data/input/company_dataset_2.csv'}
+clean = 'sql/clean/*.sql'
+analytics = 'sql/analytics/*.sql'
 
-sql_scripts = [
-    "sql/clean/ds1_clean_name.sql",
-    "sql/clean/ds2_clean_name.sql",
-    "sql/clean/ds1_clean_state.sql",
-    "sql/clean/ds2_clean_state.sql",
-    "sql/clean/ds1_clean_city.sql",
-    "sql/clean/ds2_clean_city.sql",
-    "sql/clean/ds1_clean_country.sql",
-    "sql/clean/ds2_clean_country.sql",
-    "sql/clean/ds1_clean_zip.sql",
-    "sql/clean/ds2_clean_zip.sql",
-    "sql/clean/ds1_clean_all.sql",
-    "sql/clean/ds2_clean_all.sql",
-    "sql/analytics/matching.sql",
-    "sql/analytics/metrics.sql",
-]
 
-conn = sqlite3.connect(DB_PATH)
+def load_csv(conn: sqlite3.Connection, csv_files: dict) -> None:
+    for table, csv_path in csv_files.items():
+        df = pd.read_csv(csv_path)
+        df.to_sql(table, conn, if_exists="replace", index=False)
 
-for table, csv_path in csv_files.items():
-    df = pd.read_csv(csv_path)
-    df.to_sql(table, conn, if_exists="replace", index=False)
-    print(f"Loaded {len(df)} rows into {table}")
 
-for script in sql_scripts:
-    with open(script, "r", encoding="utf-8") as f:
-        conn.executescript(f.read())
-    print(f"executed: {script}")
+def run_sql_file(conn: sqlite3.Connection, file_path: str) -> None:
+    with open(file_path, 'r', encoding='utf-8') as f:
+        sql = f.read()
+    conn.executescript(sql)
 
-conn.commit()
 
-pd.read_sql("SELECT * FROM matched_companies", conn).to_csv("data/output/merged_dataset.csv", index=False)
-print("exported: merged_dataset.csv")
+def run_folder(conn: sqlite3.Connection, pattern: str) -> None:
+    files = sorted(glob.glob(pattern))
+    print('SQL files:', files)
+    for fp in files:
+        run_sql_file(conn, fp)
+        print('running file:', fp)
 
-pd.read_sql("SELECT * FROM metrics", conn).to_csv("data/output/metrics.csv", index=False)
-print("exported: metrics.csv")
 
-conn.close()
-print("Done.")
+def main() -> None:
+    with sqlite3.connect(DB_PATH) as conn:
+        load_csv(conn, csv_files)
+        run_folder(conn, clean)
+
+
+if __name__ == "__main__":
+    main()
+
+
