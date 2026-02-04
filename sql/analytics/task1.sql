@@ -3,9 +3,9 @@
 --   - назви компанії
 --   - інформації про місцезнаходження
 
-DROP TABLE IF EXISTS matched_companies;
+DROP TABLE IF EXISTS task1;
 
-CREATE TABLE matched_companies AS
+CREATE TABLE task1 AS
 with united as(
 SELECT
        ds1.custnmbr as custnmbr_ds1,

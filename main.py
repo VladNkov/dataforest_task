@@ -42,7 +42,7 @@ def main():
         load_csv(conn, csv_files)
         run_folder(conn, clean)
         run_folder(conn, analytics)
-        export_table(conn, 'matched_companies', 'data/output/matched_companies.csv')
+        export_table(conn, 'task1', 'data/output/task1.csv')
 
 
 if __name__ == "__main__":
