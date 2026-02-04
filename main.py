@@ -31,10 +31,18 @@ def run_folder(conn: sqlite3.Connection, pattern: str):
         print('running file:', fp)
 
 
-def main() -> None:
+def export_table(conn: sqlite3.Connection, table: str, output_path: str):
+    df = pd.read_sql(f"SELECT * FROM {table}", conn)
+    df.to_csv(output_path, index=False)
+    print(f'exported {len(df)} rows to {output_path}')
+
+
+def main():
     with sqlite3.connect(DB_PATH) as conn:
         load_csv(conn, csv_files)
         run_folder(conn, clean)
+        run_folder(conn, analytics)
+        export_table(conn, 'matched_companies', 'data/output/matched_companies.csv')
 
 
 if __name__ == "__main__":
