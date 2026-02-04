@@ -24,5 +24,5 @@ docker run --rm -v $(pwd)/data:/app/data dataforest
 
 ```bash
 pip install -r requirements.txt
-python run.py
+python main.py
 ```
