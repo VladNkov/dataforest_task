@@ -1,12 +1,22 @@
 DROP TABLE IF EXISTS ds2_step1;
 
 CREATE TABLE ds2_step1 AS
-SELECT custnmbr, addrcode, custname, address1, address2, address3, ccode, city, country, state, zip,
+SELECT custnmbr,
+       addrcode,
+       custname,
+       address1,
+       address2,
+       address3,
+       ccode,
+       city,
+       country,
+       state,
+       zip,
 
 -- убираю мусорные символы и заменяю на пробелы
-  trim(replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(
+  trim(replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(
     upper(trim(coalesce(custname,''))),
-    '"',''), char(39), ''), '*',''), '#',''), '+',' '), '-',' '), ',',' '), '.',' '), '_',' '), '%',' ')
+    '"',''), char(39), ''), '*',''), '#',''), '+',' '), '-',' '), ',',' '), '.',' '), '_',' '), '%',' '), '/',' '), '&',' '), '(',' '), ')',' ')
   ) AS name_step1,
 
   trim(replace(replace(replace(replace(
