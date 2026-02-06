@@ -34,12 +34,12 @@ SELECT
 	        ds1.zip_clean = ds2.zip_clean THEN 1 ELSE 0 END AS match_zip
 
 from ds1_step3 AS ds1
-full join ds2_step3 AS ds2  on ds1.name_clean = ds2.name_clean),
+left join ds2_step3 AS ds2  on ds1.name_clean = ds2.name_clean),
 
 row_n AS (
 SELECT *,
        ROW_NUMBER() OVER (
-       PARTITION BY name_clean_ds1
+       PARTITION BY name_clean_ds1, custnmbr_ds1
        ORDER BY name_clean_ds1 DESC
        ) AS rn
 FROM united)
@@ -49,7 +49,8 @@ SELECT
     custnmbr_ds2,
     name_ds1,
     trim(replace(replace(replace(replace(name_ds2,'  ',' '),'  ',' '),'  ',' '),'  ',' ')) AS name_ds2_cl,
-    name_clean_ds1,
+    name_clean_ds1 AS name_clean,
+    (match_country+ match_country + match_state + match_city + match_zip) AS location_match,
     match_country,
     match_state,
     match_city,
@@ -62,5 +63,5 @@ SELECT
     zip_ds2
 FROM row_n
 WHERE rn = 1
-ORDER BY name_clean_ds1
+ORDER BY location_match DESC, name_clean_ds1
 
