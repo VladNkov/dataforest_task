@@ -11,22 +11,25 @@ WITH base AS (
     SELECT
         custnmbr_ds1,
         name_clean_ds1,
-        MAX(CASE WHEN name_ds2_cl IS NOT NULL THEN 1 ELSE 0 END) AS has_match
+        SUM (CASE WHEN name_ds2_cl IS NOT NULL THEN 1 ELSE 0 END) AS match_count
     FROM task1
     GROUP BY custnmbr_ds1, name_clean_ds1
 ),
 count_m AS (
     SELECT
-        SUM(has_match) AS count_match,
         COUNT(*) AS total_company,
-        SUM (CASE WHEN has_match = 0 THEN 1 ELSE 0 END) AS unmatch_company
+        SUM (CASE WHEN match_count = 0 THEN 1 ELSE 0 END) AS unmatch_company,
+        SUM (CASE WHEN match_count > 1 THEN 1 ELSE 0 END) AS one_to_many_company,
+        SUM (CASE WHEN match_count > 0 THEN 1 ELSE 0 END) AS match_company
     FROM base
 )
 SELECT
-    count_match,
+    match_company,
     unmatch_company,
     total_company,
-    ROUND(100.0 * count_match / total_company, 2) AS match_percent,
-    ROUND(100.0 * unmatch_company / total_company, 2) AS unmatch_percent
+    one_to_many_company,
+    ROUND(100.0 * match_company / total_company, 2) AS match_percent,
+    ROUND(100.0 * unmatch_company / total_company, 2) AS unmatch_percent,
+    ROUND(100.0 * one_to_many_company / total_company, 2) AS one_to_many_percent
 FROM count_m;
 

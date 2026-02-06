@@ -1,71 +1,80 @@
 custnmbr_ds1,custnmbr_ds2,name_ds1,name_ds2_cl,name_clean_ds1,location_match,match_country,match_state,match_city,match_zip,country_ds1,country_ds2_cl,city_ds1,city_ds2_cl,zip_ds1,zip_ds2
-D3B6C32,E9F7874,1111429 Ontario Inc.,1111429 Ontario Inc.,1111429 ONTARIO,5,1,1,1,1,Canada,Canada,North York,North York,M9M2G4,M9M 2G4    
-9DC114E,35AAE33,1650 Xewtamca Avenue Wazt,1650 Xewtamca Avenue Wazt,1650 XEWTAMCA AVENUE WAZT,5,1,1,1,1,Canada,Canada,North York,North York,M9M2G4,M9M 2G4    
-49A82BF,B32DFF1,2305098 Ontario Inc.,2305098 Ontario Inc.,2305098 ONTARIO,5,1,1,1,1,Canada,Canada,Markham,MARKHAM,L3R0C9,L3R 0C9    
-E5499D6,8ADE97D,6611933 Canada Inc.,6611933 Canada Inc.,6611933 CANADA,5,1,1,1,1,Canada,Canada,Gatineau,Gatineau,J8P1E7,J8P 1E7    
-8A16DDB,ACE043D,A.B.N. nécemuqua,A.B.N. nécemuqua,A B N NECEMUQUA,5,1,1,1,1,Canada,Canada,Laval,Laval,H7L5B9,H7L 5B9    
-1816420,E934C0D,Anatgamcy Napucex Services Camttex,Anatgamcy Napucex Services Camttex,ANATGAMCY NAPUCEX SERVICES CAMTTEX,5,1,1,1,1,Canada,Canada,Regina,Regina,S4R2R7,S4R 2R7    
-50A2007,2ED3A8D,Anbexxegaz Nutchax-Xumcoxm Ltée,Anbexxegaz Nutchax-Xumcoxm Ltée,ANBEXXEGAZ NUTCHAX XUMCOXM LTEE,5,1,1,1,1,Canada,Canada,St-Laurent,ST-LAURENT,H4R1V1,H4R 1V1    
-6143AF4,A7A69F1,Batfotn-Eut Ump,Batfotn-Eut Ump,BATFOTN EUT UMP,5,1,1,1,1,Canada,Canada,Montréal,Montreal,H3A3E6,H3A 3E6    
-2E89386,2CCE4CC,Boetpwexk Gamatex Bettmatzhub,Boetpwexk Gamatex Bettmatzhub,BOETPWEXK GAMATEX BETTMATZHUB,5,1,1,1,1,Canada,Canada,Calgary,CALGARY,T2R0W1,T2R 0W1    
-80F1FB8,D905621,Boxynoz inc.,Boxynoz inc.,BOXYNOZ,5,1,1,1,1,Canada,Canada,Terrasse-Vaudreuil,TERRASSE-VAUDREUIL,J7V5M3,J7V 5M3    
-A8E86F5,29CAC4B,Btupgatowm & District Nanotuex Etame,Btupgatowm & District Nanotuex Etame,BTUPGATOWM DISTRICT NANOTUEX ETAME,5,1,1,1,1,Canada,Canada,Bridgetown,Bridgetown,B0S1C0,B0S 1C0    
-EF3EE6F,5008A2D,Buame,Buame,BUAME,5,1,1,1,1,Canada,Canada,Saint Hyacinthe,Saint Hyacinthe,J2S1L4,J2S 1L4    
-29ACB2D,CC88A89,Buempatua Zemuteuta Inc.,Buempatua Zemuteuta Inc.,BUEMPATUA ZEMUTEUTA,5,1,1,1,1,Canada,Canada,Saint-Jerôme,Saint-Jerome,J7Z5C9,J7Z 5C9    
-A4ECE86,44F2378,Bumga Canada,BUMGA CANADA,BUMGA CANADA,5,1,1,1,1,Canada,Canada,Hamilton,HAMILTON,L8L4H7,L8L 4H7    
-2CB99BF,166984F,Buta Mechanical Group,Buta Mechanical Group,BUTA MECHANICAL GROUP,5,1,1,1,1,Canada,Canada,Oshawa,OSHAWA,L1J5Y5,L1J 5Y5    
-4B44068,40BAA10,Butom (9180-7580 Québac inc.),Butom (9180-7580 Québac inc.),BUTOM 9180 7580 QUEBAC,5,1,1,1,1,Canada,Canada,CHIBOUGAMAU,CHIBOUGAMAU,G8P1R4,G8P 1R4    
-989CCC0,4FB8CB2,Bxonbatua Butom,Bxonbatua Butom,BXONBATUA BUTOM,5,1,1,1,1,Canada,Canada,Chibougameau,Chibougameau,G8P1R4,G8P 1R4    
-037EE97,53FC880,Bxumpz To Go Inc,Bxumpz To Go Inc,BXUMPZ TO GO,5,1,1,1,1,Canada,Canada,Westmount,Westmount,H3Z1C2,H3Z 1C2    
-FEA14C0,720DD8B,Camtutuom Property Associates Inc.,CAMTUTUOM PROPERTY ASSOCIATES INC,CAMTUTUOM PROPERTY ASSOCIATES,5,1,1,1,1,Canada,Canada,Toronto,TORONTO,M2N6S6,M2N 6S6    
-878654B,CD26CF7,Cebtaut Limited Bettmatzhub *,CEBTAUT LIMITED BETTMATZHUB,CEBTAUT BETTMATZHUB,5,1,1,1,1,Canada,Canada,Toronto,TORONTO,M1J1J3,M1J 1J3    
-47A5B45,A303184,Cégab de Zeumt-Jétôna,Cégab de Zeumt-Jétôna,CEGAB DE ZEUMT JETONA,5,1,1,1,1,Canada,Canada,Saint-Jérôme,SAINT-JEROME,J7Z4V2,J7Z 4V2    
-B8DBD4F,8028DEA,Comcabt JTC Inc.,Comcabt JTC Inc.,COMCABT JTC,5,1,1,1,1,Canada,Canada,Granby,Granby,J2G3Z3,J2G 3Z3    
-93F041A,EF2490B,Comttoxxap Amvutomnamt Technologies Ltd.,Comttoxxap Amvutomnamt Technologies Ltd.,COMTTOXXAP AMVUTOMNAMT TECHNOLOGIES,5,1,1,1,1,Canada,Canada,Edmonton,Edmonton,T6K2G5,T6K 2G5    
-62B0FA5,0EC4A3B,CUZZZ de Xevex - Conbtebuxuta,CUZZZ de Xevex - Conbtebuxuta,CUZZZ DE XEVEX CONBTEBUXUTA,5,1,1,1,1,Canada,Canada,Laval,Laval,H7V3Y7,H7V 3Y7    
-AEF84C2,8922179,Cxunetuzetuom Beuxeut Inc.,Cxunetuzetuom Beuxeut Inc.,CXUNETUZETUOM BEUXEUT,5,1,1,1,1,Canada,Canada,La Prairie,La Prairie,J5R4V3,J5R 4V3    
-6B34535,C2B702B,Egamca Cemepuamma p'umzbactuom des exunamtz,Egamca Cemepuamma p'umzbactuom des exunamtz,EGAMCA CEMEPUAMMA PUMZBACTUOM DES EXUNAMTZ,5,1,1,1,1,Canada,Canada,St-Hyacinthe,ST-HYACINTHE,J2S8E3,J2S 8E3    
-33CD12D,411D03A,Épufuca 211 Xeutuat Inc.,Épufuca 211 Xeutuat Inc.,EPUFUCA 211 XEUTUAT,5,1,1,1,1,Canada,Canada,Montréal,Montréal,H3C1L9,H3C 1L9    
-F54B9E3,55F9E5D,Épufuca 5110 Zhatbtooka Inc.,Épufuca 5110 Zhatbtooka Inc.,EPUFUCA 5110 ZHATBTOOKA,5,1,1,1,1,Canada,Canada,Montréal,Montréal,H3C1L9,H3C 1L9    
-6D7894A,5D6D116,Épufuca 635 Tamé-Xévazqua Ouazt Inc.,Épufuca 635 Tamé-Xévazqua Ouazt Inc.,EPUFUCA 635 TAME XEVAZQUA OUAZT,5,1,1,1,1,Canada,Canada,Montréal,Montréal,H3C1L9,H3C 1L9    
-E0C963B,C66D42E,Etxemtuc Beckegumg -,Etxemtuc Beckegumg -,ETXEMTUC BECKEGUMG,5,1,1,1,1,Canada,Canada,Scarborough,Scarborough,M1P2Y9,M1P 2Y9    
-51629AF,45EF056,Eumzwotth Inc.,EUMZWOTTH INC,EUMZWOTTH,5,1,1,1,1,Canada,Canada,Mississauga,MISSISSAUGA,L4V1H3,L4V 1H3    
-6DC7E20,3D83CDD,Euttach Zymatgy,Euttach Zymatgy,EUTTACH ZYMATGY,5,1,1,1,1,Canada,Canada,Ottawa,Ottawa,K4A3M3,K4A 3M3    
-8EC8197,7E93984,Euxxy Chetxottatowm,Euxxy-Chetxottatowm,EUXXY CHETXOTTATOWM,5,1,1,1,1,Canada,Canada,Charlottetown,CHARLOTTETOWN,C1E0K5,C1E 0K5    
-6714B18,9ABF52A,Exbemy International Canada Inc.,Exbemy International Canada Inc.,EXBEMY INTERNATIONAL CANADA,5,1,1,1,1,Canada,Canada,Cowansville,Cowansville,J2K1S9,J2K 1S9    
-2C70AEC,C13F4D5,Exgomquum College - Banbtoka Campus,Exgomquum College - Banbtoka Campus,EXGOMQUUM COLLEGE BANBTOKA CAMPUS,5,1,1,1,1,Canada,Canada,Pembroke,Pembroke,K8A0C8,K8A 0C8    
-01EFA87,A6FF180,Gaztuom BZ 1610 Ottawa,Gaztuom BZ 1610 Ottawa,GAZTUOM BZ 1610 OTTAWA,5,1,1,1,1,Canada,Canada,Montréal,Montreal,H3C0V6,H3C 0V6    
-DBCD835,4FF5741,Gaztuom Cotav,Gaztuom Cotav,GAZTUOM COTAV,5,1,1,1,1,Canada,Canada,Montréal,MONTREAL,H4N3C5,H4N 3C5    
-DE35E82,665655F,Gaztuom Unn-Tach,Gaztuom Unn-Tach,GAZTUOM UNN TACH,5,1,1,1,1,Canada,Canada,Montréal,Montréal,H1J2X9,H1J 2X9    
-32AB992,7283F1C,H.C.C.C#293,H.C.C.C#293,H C C C293,5,1,1,1,1,CANADA,Canada,Dartmouth,DARTMOUTH,B2Y2N6,B2Y 2N6    
-C047543,978D510,Henbtom Xaezumg and Zexaz Ltd.,Henbtom Xaezumg and Zexaz Ltd.,HENBTOM XAEZUMG AND ZEXAZ,5,1,1,1,1,Canada,Canada,Halifax,Halifax,B3H4R7,B3H 4R7    
-401D350,045A940,Honaztaep Land Holdings',Honaztaep Land Holdings',HONAZTAEP LAND HOLDINGS,5,1,1,1,1,Canada,Canada,London,London,N5V2Z8,N5V 2Z8    
-10BB66B,7A2310D,Les Industries de nouxega Boxycaxx Inc,LES INDUSTRIES DE NOUXEGA BOXYCAXX INC.,LES INDUSTRIES DE NOUXEGA BOXYCAXX,5,1,1,1,1,Canada,Canada,Granby,GRANBY,J2G3Z3,J2G 3Z3    
-CBF63ED,2817C55,Les Toutz du Betc Waztnoumt,Les Toutz du Betc Waztnoumt,LES TOUTZ DU BETC WAZTNOUMT,5,1,1,1,1,Canada,Canada,Westmount,WESTMOUNT,H3Z1S6,H3Z 1S6    
-AF90167,4769D94,NcGuxx University,NCGUXX UNIVERSITY,NCGUXX UNIVERSITY,5,1,1,1,1,Canada,Canada,Montréal,MONTREAL,H3A2R7,H3A 2R7    
-D06FDF1,6178CDF,Nécemuqua BCU,Nécemuqua BCU,NECEMUQUA BCU,5,1,1,1,1,Canada,Canada,Gatineau,Gatineau,J8Z3G4,J8Z 3G4    
-849B1C8,E848E25,Notguetp Corporation,Notguetp Corporation,NOTGUETP,5,1,1,1,1,Canada,Canada,Calgary,Calgary,T2P3E6,T2P 3E6    
-B13591E,EE39EFD,Peax Thatnex Group -,PEAX THATNEX GROUP INC,PEAX THATNEX GROUP,5,1,1,1,1,Canada,Canada,Toronto,TORONTO,M9W4P2,M9W 4P2    
-0E1B1B0,2BDB661,TBZGC - Épufuca Fépétex,TBZGC - Épufuca Fépétex,TBZGC EPUFUCA FEPETEX,5,1,1,1,1,Canada,Canada,Montréal,Montréal,H3C4H6,H3C 4H6    
-1A21F94,E568429,TE Umvaztnamt 16 Holdings GB Inc.,TE Umvaztnamt 16 Holdings GB Inc.,TE UMVAZTNAMT 16 HOLDINGS GB,5,1,1,1,1,Canada,Canada,Toronto,TORONTO,M5C2N8,M5C 2N8    
-746EE4A,0986301,TotexAmatguaz Netkatumg Canada Inc,TotexAmatguaz Netkatumg Canada Inc,TOTEXAMATGUAZ NETKATUMG CANADA,5,1,1,1,1,Canada,Canada,LaSalle,LASALLE,H8R4C9,H8R 4C9    
-1DD46AB,00E7042,"Ttanco Canada Division, TBN Canada","Ttanco Canada Division, TBN Canada",TTANCO CANADA DIVISION TBN CANADA,5,1,1,1,1,Canada,Canada,Toronto,Toronto,M4H1G7,M4H 1G7    
-0DBAF51,E23A505,Umuvatzex Property Management,Umuvatzex Property Management,UMUVATZEX PROPERTY MANAGEMENT,5,1,1,1,1,Canada,Canada,Halifax,Halifax,B3J2P8,B3J 2P8    
-4B2BDF3,FED793F,Umuvatzuté du Québac am Outeoueuz,Umuvatzuté du Québac am Outeoueuz,UMUVATZUTE DU QUEBAC AM OUTEOUEUZ,5,1,1,1,1,Canada,Canada,Gatineau,GATINEAU,J8X3X7,J8X 3X7    
-1D0599C,38969EB,Unnaubxa Le 1510 inc.,Unnaubxa Le 1510 inc.,UNNAUBXA LE 1510,5,1,1,1,1,Canada,Canada,Mississauga,Mississauga,L4Y3W6,L4Y 3W6    
-6D30DED,E6A1AD0,UTZZT-Conbtaz e beyat,UTZZT-Conbtaz e beyat,UTZZT CONBTAZ E BEYAT,5,1,1,1,1,Canada,Canada,Montréal,MONTREAL,H3A3C2,H3A 3C2    
-647020B,41DBC7B,Wabat International Beckegumg,Wabat International Beckegumg,WABAT INTERNATIONAL BECKEGUMG,5,1,1,1,1,Canada,Canada,Vaudreuil-Dorion,VAUDREUIL-DORION,J7V5V5,J7V 5V5    
-CB00579,860D26E,Waxxpoma Mechanical Services Inc.,Waxxpoma Mechanical Services Inc.,WAXXPOMA MECHANICAL SERVICES,5,1,1,1,1,Canada,Canada,Regina,REGINA,S4N5W9,S4N 5W9    
-C61AFBA,F229772,Wexnem,Wexnem,WEXNEM,5,1,1,1,1,Canada,Canada,Montréal,Montreal,H2V4E4,H2V 4E4    
-AA52F5C,C1BD038,X’équuba de gaztuom unnobuxuèta Xeucemptuqua,X’équuba de gaztuom unnobuxuèta Xeucemptuqua,X’EQUUBA DE GAZTUOM UNNOBUXUETA XEUCEMPTUQUA,5,1,1,1,1,Canada,Canada,Brossard,BROSSARD,J4Z3H8,J4Z 3H8    
-FE4225E,E419B3C,ZPC Xoftz des Ettz,ZPC Xoftz des Ettz,ZPC XOFTZ DES ETTZ,5,1,1,1,1,Canada,Canada,Sherbrooke,SHERBROOKE,J1H0A5,J1H 0A5    
-F90AD4E,15FD936,Zympucet 375 Zeumt-Empta,Zympucet 375 Zeumt-Empta,ZYMPUCET 375 ZEUMT EMPTA,5,1,1,1,1,Canada,Canada,Montréal,MONTREAL,H3K3G9,H3K 3G9    
-1C28D62,44B3BE7,BNC Amatgy Ltd.,BNC Amatgy Ltd.,BNC AMATGY,4,1,0,1,1,Canada,Canada,Dartmouth,DARTMOUTH,B3B1P7,B3B 1P7    
-05671B8,3500E83,"Châtaeu Cettuat Hotel & Tazott, Ezcamp Hotel Coxxact","Châtaeu Cettuat Hotel & Tazott, Ezcamp Hotel Coxxact",CHATAEU CETTUAT HOTEL TAZOTT EZCAMP HOTEL COXXACT,4,1,0,1,1,Canada,Canada,Gatineau,Gatineau,J9H7L3,J9H 7L3    
-6B0FCD7,745CF92,Eumzwotth Inc. - MZ,Eumzwotth Inc. - MZ,EUMZWOTTH MZ,4,1,1,1,0,Canada,Canada,Dartmouth,DARTMOUTH,,B3B 1T1    
-5FB9739,782C9BF,Gxetfaxtat Getumaeu Ltée,Gxetfaxtat Getumaeu Ltée,GXETFAXTAT GETUMAEU LTEE,4,1,1,1,0,USA,United States,York,YORK,17401,17401-1434 
-37BFA4D,6A926FA,Nebxa Ttaet Corporation (The),Nebxa Ttaet Corporation (The),NEBXA TTAET THE,4,1,1,1,0,Canada,Canada,Granby,GRANBY,J2J2B8,J2J 0T3    
+D3B6C32,E9F7874,1111429 Ontario Inc.,1111429 Ontario Inc.,1111429 ONTARIO,4,1,1,1,1,Canada,Canada,North York,North York,M9M2G4,M9M 2G4    
+9DC114E,35AAE33,1650 Xewtamca Avenue Wazt,1650 Xewtamca Avenue Wazt,1650 XEWTAMCA AVENUE WAZT,4,1,1,1,1,Canada,Canada,North York,North York,M9M2G4,M9M 2G4    
+49A82BF,B32DFF1,2305098 Ontario Inc.,2305098 Ontario Inc.,2305098 ONTARIO,4,1,1,1,1,Canada,Canada,Markham,MARKHAM,L3R0C9,L3R 0C9    
+E5499D6,8ADE97D,6611933 Canada Inc.,6611933 Canada Inc.,6611933 CANADA,4,1,1,1,1,Canada,Canada,Gatineau,Gatineau,J8P1E7,J8P 1E7    
+8A16DDB,ACE043D,A.B.N. nécemuqua,A.B.N. nécemuqua,A B N NECEMUQUA,4,1,1,1,1,Canada,Canada,Laval,Laval,H7L5B9,H7L 5B9    
+1816420,E934C0D,Anatgamcy Napucex Services Camttex,Anatgamcy Napucex Services Camttex,ANATGAMCY NAPUCEX SERVICES CAMTTEX,4,1,1,1,1,Canada,Canada,Regina,Regina,S4R2R7,S4R 2R7    
+50A2007,2ED3A8D,Anbexxegaz Nutchax-Xumcoxm Ltée,Anbexxegaz Nutchax-Xumcoxm Ltée,ANBEXXEGAZ NUTCHAX XUMCOXM LTEE,4,1,1,1,1,Canada,Canada,St-Laurent,ST-LAURENT,H4R1V1,H4R 1V1    
+6143AF4,A7A69F1,Batfotn-Eut Ump,Batfotn-Eut Ump,BATFOTN EUT UMP,4,1,1,1,1,Canada,Canada,Montréal,Montreal,H3A3E6,H3A 3E6    
+2E89386,2CCE4CC,Boetpwexk Gamatex Bettmatzhub,Boetpwexk Gamatex Bettmatzhub,BOETPWEXK GAMATEX BETTMATZHUB,4,1,1,1,1,Canada,Canada,Calgary,CALGARY,T2R0W1,T2R 0W1    
+80F1FB8,D905621,Boxynoz inc.,Boxynoz inc.,BOXYNOZ,4,1,1,1,1,Canada,Canada,Terrasse-Vaudreuil,TERRASSE-VAUDREUIL,J7V5M3,J7V 5M3    
+A8E86F5,29CAC4B,Btupgatowm & District Nanotuex Etame,Btupgatowm & District Nanotuex Etame,BTUPGATOWM DISTRICT NANOTUEX ETAME,4,1,1,1,1,Canada,Canada,Bridgetown,Bridgetown,B0S1C0,B0S 1C0    
+EF3EE6F,5008A2D,Buame,Buame,BUAME,4,1,1,1,1,Canada,Canada,Saint Hyacinthe,Saint Hyacinthe,J2S1L4,J2S 1L4    
+0FF2BC3,3ED77D3,Bucoma Pounut Holdings Inc.,Bucoma Pounut Holdings Inc.,BUCOMA POUNUT HOLDINGS,4,1,1,1,1,Canada,Canada,Montréal,MONTREAL,H3B3C3,H3B 3C3    
+29ACB2D,CC88A89,Buempatua Zemuteuta Inc.,Buempatua Zemuteuta Inc.,BUEMPATUA ZEMUTEUTA,4,1,1,1,1,Canada,Canada,Saint-Jerôme,Saint-Jerome,J7Z5C9,J7Z 5C9    
+A4ECE86,44F2378,Bumga Canada,BUMGA CANADA,BUMGA CANADA,4,1,1,1,1,Canada,Canada,Hamilton,HAMILTON,L8L4H7,L8L 4H7    
+A4ECE86,DCC106F,Bumga Canada,Bumga Canada,BUMGA CANADA,4,1,1,1,1,Canada,Canada,Hamilton,HAMILTON,L8L4H7,L8L 4H7    
+2CB99BF,166984F,Buta Mechanical Group,Buta Mechanical Group,BUTA MECHANICAL GROUP,4,1,1,1,1,Canada,Canada,Oshawa,OSHAWA,L1J5Y5,L1J 5Y5    
+4B44068,40BAA10,Butom (9180-7580 Québac inc.),Butom (9180-7580 Québac inc.),BUTOM 9180 7580 QUEBAC,4,1,1,1,1,Canada,Canada,CHIBOUGAMAU,CHIBOUGAMAU,G8P1R4,G8P 1R4    
+989CCC0,4FB8CB2,Bxonbatua Butom,Bxonbatua Butom,BXONBATUA BUTOM,4,1,1,1,1,Canada,Canada,Chibougameau,Chibougameau,G8P1R4,G8P 1R4    
+037EE97,53FC880,Bxumpz To Go Inc,Bxumpz To Go Inc,BXUMPZ TO GO,4,1,1,1,1,Canada,Canada,Westmount,Westmount,H3Z1C2,H3Z 1C2    
+FEA14C0,720DD8B,Camtutuom Property Associates Inc.,CAMTUTUOM PROPERTY ASSOCIATES INC,CAMTUTUOM PROPERTY ASSOCIATES,4,1,1,1,1,Canada,Canada,Toronto,TORONTO,M2N6S6,M2N 6S6    
+878654B,CD26CF7,Cebtaut Limited Bettmatzhub *,CEBTAUT LIMITED BETTMATZHUB,CEBTAUT BETTMATZHUB,4,1,1,1,1,Canada,Canada,Toronto,TORONTO,M1J1J3,M1J 1J3    
+47A5B45,A303184,Cégab de Zeumt-Jétôna,Cégab de Zeumt-Jétôna,CEGAB DE ZEUMT JETONA,4,1,1,1,1,Canada,Canada,Saint-Jérôme,SAINT-JEROME,J7Z4V2,J7Z 4V2    
+B8DBD4F,8028DEA,Comcabt JTC Inc.,Comcabt JTC Inc.,COMCABT JTC,4,1,1,1,1,Canada,Canada,Granby,Granby,J2G3Z3,J2G 3Z3    
+93F041A,EF2490B,Comttoxxap Amvutomnamt Technologies Ltd.,Comttoxxap Amvutomnamt Technologies Ltd.,COMTTOXXAP AMVUTOMNAMT TECHNOLOGIES,4,1,1,1,1,Canada,Canada,Edmonton,Edmonton,T6K2G5,T6K 2G5    
+62B0FA5,0EC4A3B,CUZZZ de Xevex - Conbtebuxuta,CUZZZ de Xevex - Conbtebuxuta,CUZZZ DE XEVEX CONBTEBUXUTA,4,1,1,1,1,Canada,Canada,Laval,Laval,H7V3Y7,H7V 3Y7    
+62B0FA5,0EC4A3B,CUZZZ de Xevex - Conbtebuxuta,CUZZZ de Xevex - Conbtebuxuta,CUZZZ DE XEVEX CONBTEBUXUTA,4,1,1,1,1,Canada,Canada,Laval,LAVAL,H7V3Y7,H7V 3Y7    
+62B0FA5,0EC4A3B,CUZZZ de Xevex - Conbtebuxuta,CUZZZ de Xevex - Conbtebuxuta,CUZZZ DE XEVEX CONBTEBUXUTA,4,1,1,1,1,Canada,Canada,Laval,Laval,H7V3Y7,H7V 3Y7    
+AEF84C2,8922179,Cxunetuzetuom Beuxeut Inc.,Cxunetuzetuom Beuxeut Inc.,CXUNETUZETUOM BEUXEUT,4,1,1,1,1,Canada,Canada,La Prairie,La Prairie,J5R4V3,J5R 4V3    
+6B34535,C2B702B,Egamca Cemepuamma p'umzbactuom des exunamtz,Egamca Cemepuamma p'umzbactuom des exunamtz,EGAMCA CEMEPUAMMA PUMZBACTUOM DES EXUNAMTZ,4,1,1,1,1,Canada,Canada,St-Hyacinthe,ST-HYACINTHE,J2S8E3,J2S 8E3    
+33CD12D,411D03A,Épufuca 211 Xeutuat Inc.,Épufuca 211 Xeutuat Inc.,EPUFUCA 211 XEUTUAT,4,1,1,1,1,Canada,Canada,Montréal,Montréal,H3C1L9,H3C 1L9    
+F54B9E3,55F9E5D,Épufuca 5110 Zhatbtooka Inc.,Épufuca 5110 Zhatbtooka Inc.,EPUFUCA 5110 ZHATBTOOKA,4,1,1,1,1,Canada,Canada,Montréal,Montréal,H3C1L9,H3C 1L9    
+6D7894A,5D6D116,Épufuca 635 Tamé-Xévazqua Ouazt Inc.,Épufuca 635 Tamé-Xévazqua Ouazt Inc.,EPUFUCA 635 TAME XEVAZQUA OUAZT,4,1,1,1,1,Canada,Canada,Montréal,Montréal,H3C1L9,H3C 1L9    
+E0C963B,C66D42E,Etxemtuc Beckegumg -,Etxemtuc Beckegumg -,ETXEMTUC BECKEGUMG,4,1,1,1,1,Canada,Canada,Scarborough,Scarborough,M1P2Y9,M1P 2Y9    
+51629AF,45EF056,Eumzwotth Inc.,EUMZWOTTH INC,EUMZWOTTH,4,1,1,1,1,Canada,Canada,Mississauga,MISSISSAUGA,L4V1H3,L4V 1H3    
+A39AAAE,A3E0A94,Eumzwotth Inc.-,EUMZWOTTH INC,EUMZWOTTH,4,1,1,1,1,Canada,Canada,Toronto,TORONTO,M4A1X4,M4A 1X4    
+A39AAAE,A3E0A94,Eumzwotth Inc.-,EUMZWOTTH INC,EUMZWOTTH,4,1,1,1,1,Canada,Canada,Toronto,TORONTO,M4A1X4,M4A 1X4    
+A39AAAE,F62EA71,Eumzwotth Inc.-,EUMZWOTTH INC,EUMZWOTTH,4,1,1,1,1,Canada,Canada,Toronto,TORONTO,M4A1X4,M4A 1X4    
+A39AAAE,F62EA71,Eumzwotth Inc.-,EUMZWOTTH INC,EUMZWOTTH,4,1,1,1,1,Canada,Canada,Toronto,TORONTO,M4A1X4,M4A 1X4    
+A39AAAE,F62EA71,Eumzwotth Inc.-,EUMZWOTTH INC,EUMZWOTTH,4,1,1,1,1,Canada,Canada,Toronto,TORONTO,M4A1X4,M4A 1X4    
+A39AAAE,F62EA71,Eumzwotth Inc.-,EUMZWOTTH INC,EUMZWOTTH,4,1,1,1,1,Canada,Canada,Toronto,TORONTO,M4A1X4,M4A 1X4    
+6DC7E20,3D83CDD,Euttach Zymatgy,Euttach Zymatgy,EUTTACH ZYMATGY,4,1,1,1,1,Canada,Canada,Ottawa,Ottawa,K4A3M3,K4A 3M3    
+8EC8197,7E93984,Euxxy Chetxottatowm,Euxxy-Chetxottatowm,EUXXY CHETXOTTATOWM,4,1,1,1,1,Canada,Canada,Charlottetown,CHARLOTTETOWN,C1E0K5,C1E 0K5    
+6714B18,9ABF52A,Exbemy International Canada Inc.,Exbemy International Canada Inc.,EXBEMY INTERNATIONAL CANADA,4,1,1,1,1,Canada,Canada,Cowansville,Cowansville,J2K1S9,J2K 1S9    
+2C70AEC,C13F4D5,Exgomquum College - Banbtoka Campus,Exgomquum College - Banbtoka Campus,EXGOMQUUM COLLEGE BANBTOKA CAMPUS,4,1,1,1,1,Canada,Canada,Pembroke,Pembroke,K8A0C8,K8A 0C8    
+01EFA87,A6FF180,Gaztuom BZ 1610 Ottawa,Gaztuom BZ 1610 Ottawa,GAZTUOM BZ 1610 OTTAWA,4,1,1,1,1,Canada,Canada,Montréal,Montreal,H3C0V6,H3C 0V6    
+DBCD835,4FF5741,Gaztuom Cotav,Gaztuom Cotav,GAZTUOM COTAV,4,1,1,1,1,Canada,Canada,Montréal,MONTREAL,H4N3C5,H4N 3C5    
+DE35E82,665655F,Gaztuom Unn-Tach,Gaztuom Unn-Tach,GAZTUOM UNN TACH,4,1,1,1,1,Canada,Canada,Montréal,Montréal,H1J2X9,H1J 2X9    
+32AB992,7283F1C,H.C.C.C#293,H.C.C.C#293,H C C C293,4,1,1,1,1,CANADA,Canada,Dartmouth,DARTMOUTH,B2Y2N6,B2Y 2N6    
+C047543,978D510,Henbtom Xaezumg and Zexaz Ltd.,Henbtom Xaezumg and Zexaz Ltd.,HENBTOM XAEZUMG AND ZEXAZ,4,1,1,1,1,Canada,Canada,Halifax,Halifax,B3H4R7,B3H 4R7    
+401D350,045A940,Honaztaep Land Holdings',Honaztaep Land Holdings',HONAZTAEP LAND HOLDINGS,4,1,1,1,1,Canada,Canada,London,London,N5V2Z8,N5V 2Z8    
+10BB66B,7A2310D,Les Industries de nouxega Boxycaxx Inc,LES INDUSTRIES DE NOUXEGA BOXYCAXX INC.,LES INDUSTRIES DE NOUXEGA BOXYCAXX,4,1,1,1,1,Canada,Canada,Granby,GRANBY,J2G3Z3,J2G 3Z3    
+CBF63ED,2817C55,Les Toutz du Betc Waztnoumt,Les Toutz du Betc Waztnoumt,LES TOUTZ DU BETC WAZTNOUMT,4,1,1,1,1,Canada,Canada,Westmount,WESTMOUNT,H3Z1S6,H3Z 1S6    
+AF90167,4769D94,NcGuxx University,NCGUXX UNIVERSITY,NCGUXX UNIVERSITY,4,1,1,1,1,Canada,Canada,Montréal,MONTREAL,H3A2R7,H3A 2R7    
+D06FDF1,6178CDF,Nécemuqua BCU,Nécemuqua BCU,NECEMUQUA BCU,4,1,1,1,1,Canada,Canada,Gatineau,Gatineau,J8Z3G4,J8Z 3G4    
+849B1C8,E848E25,Notguetp Corporation,Notguetp Corporation,NOTGUETP,4,1,1,1,1,Canada,Canada,Calgary,Calgary,T2P3E6,T2P 3E6    
+B13591E,EE39EFD,Peax Thatnex Group -,PEAX THATNEX GROUP INC,PEAX THATNEX GROUP,4,1,1,1,1,Canada,Canada,Toronto,TORONTO,M9W4P2,M9W 4P2    
+B13591E,EE39EFD,Peax Thatnex Group -,PEAX THATNEX GROUP INC,PEAX THATNEX GROUP,4,1,1,1,1,Canada,Canada,Toronto,TORONTO,M9W4P2,M9W 4P2    
+0E1B1B0,2BDB661,TBZGC - Épufuca Fépétex,TBZGC - Épufuca Fépétex,TBZGC EPUFUCA FEPETEX,4,1,1,1,1,Canada,Canada,Montréal,Montréal,H3C4H6,H3C 4H6    
+1A21F94,E568429,TE Umvaztnamt 16 Holdings GB Inc.,TE Umvaztnamt 16 Holdings GB Inc.,TE UMVAZTNAMT 16 HOLDINGS GB,4,1,1,1,1,Canada,Canada,Toronto,TORONTO,M5C2N8,M5C 2N8    
+5B6DBAD,5E81BF8,"The Canada Xufa Ezzutemca Company.,",The Canada Xufa Ezzutemca Company,THE CANADA XUFA EZZUTEMCA,4,1,1,1,1,Canada,CANADA,Regina,Regina,S4P4L4,S4P 4L4    
+5B6DBAD,650E0F0,"The Canada Xufa Ezzutemca Company.,","The Canada Xufa Ezzutemca Company.,",THE CANADA XUFA EZZUTEMCA,4,1,1,1,1,Canada,Canada,Regina,Regina,S4P4L4,S4P 4L4    
+746EE4A,0986301,TotexAmatguaz Netkatumg Canada Inc,TotexAmatguaz Netkatumg Canada Inc,TOTEXAMATGUAZ NETKATUMG CANADA,4,1,1,1,1,Canada,Canada,LaSalle,LASALLE,H8R4C9,H8R 4C9    
+1DD46AB,00E7042,"Ttanco Canada Division, TBN Canada","Ttanco Canada Division, TBN Canada",TTANCO CANADA DIVISION TBN CANADA,4,1,1,1,1,Canada,Canada,Toronto,Toronto,M4H1G7,M4H 1G7    
+0DBAF51,E23A505,Umuvatzex Property Management,Umuvatzex Property Management,UMUVATZEX PROPERTY MANAGEMENT,4,1,1,1,1,Canada,Canada,Halifax,Halifax,B3J2P8,B3J 2P8    
+4B2BDF3,FED793F,Umuvatzuté du Québac am Outeoueuz,Umuvatzuté du Québac am Outeoueuz,UMUVATZUTE DU QUEBAC AM OUTEOUEUZ,4,1,1,1,1,Canada,Canada,Gatineau,GATINEAU,J8X3X7,J8X 3X7    
+1D0599C,38969EB,Unnaubxa Le 1510 inc.,Unnaubxa Le 1510 inc.,UNNAUBXA LE 1510,4,1,1,1,1,Canada,Canada,Mississauga,Mississauga,L4Y3W6,L4Y 3W6    
+6D30DED,E6A1AD0,UTZZT-Conbtaz e beyat,UTZZT-Conbtaz e beyat,UTZZT CONBTAZ E BEYAT,4,1,1,1,1,Canada,Canada,Montréal,MONTREAL,H3A3C2,H3A 3C2    
+647020B,41DBC7B,Wabat International Beckegumg,Wabat International Beckegumg,WABAT INTERNATIONAL BECKEGUMG,4,1,1,1,1,Canada,Canada,Vaudreuil-Dorion,VAUDREUIL-DORION,J7V5V5,J7V 5V5    
+CB00579,860D26E,Waxxpoma Mechanical Services Inc.,Waxxpoma Mechanical Services Inc.,WAXXPOMA MECHANICAL SERVICES,4,1,1,1,1,Canada,Canada,Regina,REGINA,S4N5W9,S4N 5W9    
+C61AFBA,F229772,Wexnem,Wexnem,WEXNEM,4,1,1,1,1,Canada,Canada,Montréal,Montreal,H2V4E4,H2V 4E4    
+AA52F5C,C1BD038,X’équuba de gaztuom unnobuxuèta Xeucemptuqua,X’équuba de gaztuom unnobuxuèta Xeucemptuqua,X’EQUUBA DE GAZTUOM UNNOBUXUETA XEUCEMPTUQUA,4,1,1,1,1,Canada,Canada,Brossard,BROSSARD,J4Z3H8,J4Z 3H8    
+FE4225E,E419B3C,ZPC Xoftz des Ettz,ZPC Xoftz des Ettz,ZPC XOFTZ DES ETTZ,4,1,1,1,1,Canada,Canada,Sherbrooke,SHERBROOKE,J1H0A5,J1H 0A5    
+F90AD4E,15FD936,Zympucet 375 Zeumt-Empta,Zympucet 375 Zeumt-Empta,ZYMPUCET 375 ZEUMT EMPTA,4,1,1,1,1,Canada,Canada,Montréal,MONTREAL,H3K3G9,H3K 3G9    
 3DDE93F,B67A336,1132 International Monumaa Inc.,1132 International Monumaa Inc.,1132 INTERNATIONAL MONUMAA,3,0,1,1,1,,Canada,Oakville,Oakville,L6H0C3,L6H 0C3    
+3DDE93F,C9F590F,1132 International Monumaa Inc.,1132 INTERNATIONAL MONUMAA INC,1132 INTERNATIONAL MONUMAA,3,0,1,1,1,,Canada,Oakville,OAKVILLE,L6H0C3,L6H 0C3    
 77C05BE,E57BC4C,1213773 Ontario Inc. & CXEC,1213773 Ontario Inc. & CXEC,1213773 ONTARIO CXEC,3,0,1,1,1,,Canada,Toronto,Toronto,M5E1G4,M5E 1G4    
 FF6858C,CBB6A04,180 Toahenbtom Inc.,180 Toahenbtom Inc.,180 TOAHENBTOM,3,0,1,1,1,,Canada,Mississauga,Mississauga,L4V1T8,L4V 1T8    
 E030360,2CFDFD5,185-211 Waztctaak Bxvp Holdings UXC,185-211 Waztctaak Bxvp Holdings UXC,185 211 WAZTCTAAK BXVP HOLDINGS UXC,3,0,1,1,1,,Canada,Toronto,Toronto,M5H3T9,M5H 3T9    
@@ -79,9 +88,9 @@ F13180F,79E9C2F,3325399 MZ Limited,3325399 MZ Limited,3325399 MZ,3,0,1,1,1,,Cana
 379A789,39025D9,510  XZ  Limited  Bettmatzhub,510 XZ Limited Bettmatzhub,510 XZ BETTMATZHUB,3,0,1,1,1,,Canada,Toronto,Toronto,M4T2S5,M4T 2S5    
 9310230,ABF219B,65 Town Centre Holdings Ltd.,65 Town Centre Holdings Ltd.,65 TOWN CENTRE HOLDINGS,3,0,1,1,1,,Canada,Scarborough,Scarborough,M1P4X4,M1P 4X4    
 D926AEA,7CA24C4,7037467 Canada Inc,7037467 Canada Inc,7037467 CANADA,3,0,1,1,1,,Canada,Montreal,Montreal,H3A1A8,H3A 1A8    
-DD5AF52,F03CECE,9252-5323 Quebec Inc.,9252-5323 Quebec Inc.,9252 5323 QUEBEC,3,1,1,0,0,Canada,Canada,Bureau 600,MONTREAL,H2Y2G3,H3C 1L9    
 C466D7E,6975F6B,Aeztboump Btawumg Co.,Aeztboump Btawumg Co.,AEZTBOUMP BTAWUMG,3,0,1,1,1,,Canada,Toronto,Toronto,M4M1G9,M4M 1G9    
 262F7B7,5C07F1A,Ambtupga Gez Inc.,Ambtupga Gez Inc.,AMBTUPGA GEZ,3,0,1,1,1,,Canada,Toronto,Toronto,M2J1P8,M2J 1P8    
+84901DF,38884C8,Amvuto Commaxuomz,Amvuto Commaxuomz,AMVUTO COMMAXUOMZ,3,0,1,1,1,,Canada,Boisbriand,Boisbriand,J7H1H7,J7H 1H7    
 3070A3E,CA8C871,Anbuty Company,Anbuty Company,ANBUTY,3,0,1,1,1,,Canada,Missisauga,Missisauga,L4V1L1,L4V 1L1    
 11EA841,FDF0482,Aquuchan Technologies Corporation,AQUUCHAN TECHNOLOGIES,AQUUCHAN TECHNOLOGIES,3,0,1,1,1,,Canada,Mississauga,MISSISSAUGA,L5T1N9,L5T 1N9    
 4D22F40,538C5AB,Axactto Cebxaz Inc.,Axactto Cebxaz Inc.,AXACTTO CEBXAZ,3,0,1,1,1,,Canada,Trenton,Trenton,K8V5R5,K8V 5R5    
@@ -95,20 +104,27 @@ DA1D864,7C17BDC,Batttemp Plumbing Haetumg,Batttemp Plumbing Haetumg,BATTTEMP PLU
 F5E52F4,AD5D1D9,BCC 116,BCC 116,BCC 116,3,0,1,1,1,,Canada,Mississauga,Mississauga,L5A3T2,L5A 3T2    
 2FA3E66,6547206,BCC 169,BCC 169,BCC 169,3,0,1,1,1,,Canada,Vaughan,Vaughan,L4L4S5,L4L 4S5    
 FDDE7A9,92B6F19,bcUNC Taexty Corp -,bcUNC Taexty Corp -,BCUNC TAEXTY,3,0,1,1,1,,Canada,Toronto,TORONTO,M5L1E2,M5L 1E2    
+FDDE7A9,92B6F19,bcUNC Taexty Corp -,bcUNC Taexty Corp -,BCUNC TAEXTY,3,0,1,1,1,,Canada,Toronto,TORONTO,M5L1E2,M5L 1E2    
+FDDE7A9,E735724,bcUNC Taexty Corp -,BCUNC TAEXTY CORPORATION,BCUNC TAEXTY,3,0,1,1,1,,Canada,Toronto,TORONTO,M5L1E2,M5L 1E2    
 18B7376,F29E080,Betenoumt Management,Betenoumt Management,BETENOUMT MANAGEMENT,3,0,1,1,1,,Canada,Halifax,HALIFAX,B3J1Y2,B3J 1Y2    
 679BDA8,4096ECA,Betkvuaw Management,Betkvuaw Management,BETKVUAW MANAGEMENT,3,0,1,1,1,,Canada,Montreal,Montreal,H3W1R2,H3W 1R2    
+2054EF7,5C3D968,Betze Kaxxy / Cetu-Cem Coobatetuva Honaz Inc.,Betze Kaxxy / Cetu-Cem Coobatetuva Honaz Inc.,BETZE KAXXY CETU CEM COOBATETUVA HONAZ,3,0,1,1,1,,Canada,Etobicoke,Etobicoke,M8V3Y9,M8V 3Y9    
 AA45E7E,9FF6FE7,BEY TUPGAZ,BEY TUPGAZ,BEY TUPGAZ,3,0,1,1,1,,Canada,PICKERING,PICKERING,L1W1Z4,L1W 1Z4    
 6B2A0FC,0A5C99C,BGUZ Canada LP ta. Bank of Nomttaex (for O&N),BGUZ Canada LP ta. Bank of Nomttaex (for O&N),BGUZ CANADA TA BANK OF NOMTTAEX FOR O N,3,0,1,1,1,,Canada,Markham,Markham,L3R0Y7,L3R 0Y7    
+1C28D62,44B3BE7,BNC Amatgy Ltd.,BNC Amatgy Ltd.,BNC AMATGY,3,1,0,1,1,Canada,Canada,Dartmouth,DARTMOUTH,B3B1P7,B3B 1P7    
 CE0EDF2,C3E9A1F,BNO c/o BGUZ Canada LP,BNO c/o BGUZ Canada LP,BNO C O BGUZ CANADA,3,0,1,1,1,,Canada,Markham,Markham,L3R0Y7,L3R 0Y7    
 D08FB8E,194CBB4,BNO c/o BGUZ Canada   X  B,BNO c/o BGUZ Canada X B,BNO C O BGUZ CANADA X B,3,0,1,1,1,,Canada,Markham,Markham,L3R0Y7,L3R 0Y7    
 74A77DF,DA35787,Btacuzuom Comcabtz,Btacuzuom Comcabtz,BTACUZUOM COMCABTZ,3,0,1,1,1,,Canada,Mississauga,Mississauga,L4Z1P5,L4Z 1P5    
+74A77DF,DA35787,Btacuzuom Comcabtz,Btacuzuom Comcabtz,BTACUZUOM COMCABTZ,3,0,1,1,1,,Canada,Mississauga,MISSISSAUGA,L4Z1P5,L4Z 1P5    
 4E705D9,D681413,Btagg Cxaematz Teuxotz & Futtuatz Amt Ltd.,Btagg Cxaematz Teuxotz & Futtuatz Amt Ltd.,BTAGG CXAEMATZ TEUXOTZ FUTTUATZ AMT,3,0,1,1,1,,Canada,Regina,REGINA,S4P2T5,S4P 2T5    
 143C154,8AA4B1C,Btanmat'z Plumbing & Haetumg Ltd.,Btanmat'z Plumbing & Haetumg Ltd.,BTANMATZ PLUMBING HAETUMG,3,0,1,1,1,,Canada,Halifax,Halifax,B3S1B7,B3S 1B7    
 232F78C,C82576D,Btanuata Plumbing,Btanuata Plumbing,BTANUATA PLUMBING,3,0,1,1,1,,Canada,Dieppe,DIEPPE,E1A1R5,E1A 1R5    
 F108D96,4217F0C,Btencex Btopuctuomz Inc,Btencex Btopuctuomz Inc,BTENCEX BTOPUCTUOMZ,3,0,1,1,1,,Canada,Mississauga,Mississauga,L5N1P8,L5N 1P8    
 392F9C4,43E8534,Bteutua Btaw Supplies,Bteutua Btaw Supplies,BTEUTUA BTAW SUPPLIES,3,0,1,1,1,,Canada,Regina,Regina,S4R1X8,S4R 1X8    
 43B5CA7,8203BD4,Btookfuaxp Office Properties.,Btookfuaxp Office Properties.,BTOOKFUAXP OFFICE PROPERTIES,3,0,1,1,1,,Canada,Mississauga,Mississauga,L4V1W1,L4V 1W1    
+43B5CA7,837FDE4,Btookfuaxp Office Properties.,Btookfuaxp Office Properties,BTOOKFUAXP OFFICE PROPERTIES,3,0,1,1,1,,Canada,Mississauga,Mississauga,L4V1W1,L4V 1W1    
 43EEAB1,8203BD4,Btookfuaxp Office Properties,Btookfuaxp Office Properties.,BTOOKFUAXP OFFICE PROPERTIES,3,0,1,1,1,,Canada,Mississauga,Mississauga,L4V1W1,L4V 1W1    
+43EEAB1,837FDE4,Btookfuaxp Office Properties,Btookfuaxp Office Properties,BTOOKFUAXP OFFICE PROPERTIES,3,0,1,1,1,,Canada,Mississauga,Mississauga,L4V1W1,L4V 1W1    
 9892596,9AFE6E1,Btookfuaxp Office Properties 10+v12098 + 8184650,Btookfuaxp Office Properties 10+v12098 + 8184650,BTOOKFUAXP OFFICE PROPERTIES 10 V12098 8184650,3,0,1,1,1,,Canada,Mississauga,Mississauga,L4V1W1,L4V 1W1    
 B4EB1BC,DBD63D2,Btookfuaxp Properties - Axchemga Towatz,Btookfuaxp Properties - Axchemga Towatz,BTOOKFUAXP PROPERTIES AXCHEMGA TOWATZ,3,0,1,1,1,,Canada,Mississauga,Mississauga,L4V1W1,L4V 1W1    
 DB2FBF5,6A6D411,Btookfuaxp Properties Canada Management  LP,Btookfuaxp Properties Canada Management LP,BTOOKFUAXP PROPERTIES CANADA MANAGEMENT,3,0,1,1,1,,Canada,Mississauga,Mississauga,L4V1W1,L4V 1W1    
@@ -118,14 +134,27 @@ BD7F2B2,5413E65,Buctou Coumty Waxxmazz Centre,Buctou Coumty Waxxmazz Centre,BUCT
 94BA188,F2D9CF2,Butmec Btopuca Limited,Butmec Btopuca Limited,BUTMEC BTOPUCA,3,0,1,1,1,,Canada,Vaughan,VAUGHAN,L4H3H1,L4H 3H1    
 9581C40,503D6C3,Buzze Move,Buzze Move,BUZZE MOVE,3,0,1,1,1,,Canada,Toronto,Toronto,M3A1C4,M3A 1C4    
 54548F6,02635C9,Bxeck & NcPomexp,Bxeck & NcPomexp,BXECK NCPOMEXP,3,0,1,1,1,,Canada,Stoney Creek,Stoney Creek,L8E2B2,L8E 2B2    
+54548F6,DA1FA00,Bxeck & NcPomexp,BXECK & NCPOMEXP LTD.,BXECK NCPOMEXP,3,0,1,1,1,,Canada,Stoney Creek,STONEY CREEK,L8E2B2,L8E 2B2    
+BC63E83,F68B6D5,Bxeck & NcPomexp Ltd.,BXECK & NCPOMEXP LTD.,BXECK NCPOMEXP,3,0,1,1,1,,Canada,Markham,MARKHAM,L3T7N9,L3T 7N9    
+BC63E83,F68B6D5,Bxeck & NcPomexp Ltd.,BXECK & NCPOMEXP LTD.,BXECK NCPOMEXP,3,0,1,1,1,,Canada,Markham,Markham,L3T7N9,L3T 7N9    
+D1C28B1,723AD4A,Bxeck & NcPomexp *,BXECK & NCPOMEXP LTD,BXECK NCPOMEXP,3,0,1,1,1,,Canada,Ottawa,OTTAWA,K1H1E1,K1H 1E1    
+DA432F2,F68B6D5,BXECK & NCPOMEXP LIMITED,BXECK & NCPOMEXP LTD.,BXECK NCPOMEXP,3,0,1,1,1,,Canada,Scarborough,SCARBOROUGH,M1X1E4,M1X 1E4    
+DA432F2,F68B6D5,BXECK & NCPOMEXP LIMITED,BXECK & NCPOMEXP LTD.,BXECK NCPOMEXP,3,0,1,1,1,,Canada,Scarborough,SCARBOROUGH,M1X1E4,M1X 1E4    
 360591B,968DE28,BXEM GROUP,BXEM GROUP INC,BXEM GROUP,3,0,1,1,1,,Canada,Vaughan,VAUGHAN,L4K4T4,L4K 4T4    
+360591B,968DE28,BXEM GROUP,BXEM GROUP INC,BXEM GROUP,3,0,1,1,1,,Canada,Vaughan,VAUGHAN,L4K4T4,L4K 4T4    
+360591B,968DE28,BXEM GROUP,BXEM GROUP INC,BXEM GROUP,3,0,1,1,1,,CANADA,Vaughan,VAUGHAN,L4K4T4,L4K 4T4    
+360591B,968DE28,BXEM GROUP,BXEM GROUP INC,BXEM GROUP,3,0,1,1,1,,Canada,Vaughan,VAUGHAN,L4K4T4,L4K 4T4    
+360591B,FC0D32F,BXEM GROUP,Bxem Group,BXEM GROUP,3,0,1,1,1,,Canada,Vaughan,Vaughan,L4K4T4,L4K 4T4    
 D7D9FFE,968DE28,Bxem  Group,BXEM GROUP INC,BXEM GROUP,3,0,1,1,1,,Canada,Vaughan,VAUGHAN,L4K4T4,L4K 4T4    
+D7D9FFE,968DE28,Bxem  Group,BXEM GROUP INC,BXEM GROUP,3,0,1,1,1,,Canada,Vaughan,VAUGHAN,L4K4T4,L4K 4T4    
+D7D9FFE,968DE28,Bxem  Group,BXEM GROUP INC,BXEM GROUP,3,0,1,1,1,,CANADA,Vaughan,VAUGHAN,L4K4T4,L4K 4T4    
+D7D9FFE,968DE28,Bxem  Group,BXEM GROUP INC,BXEM GROUP,3,0,1,1,1,,Canada,Vaughan,VAUGHAN,L4K4T4,L4K 4T4    
+D7D9FFE,FC0D32F,Bxem  Group,Bxem Group,BXEM GROUP,3,0,1,1,1,,Canada,Vaughan,Vaughan,L4K4T4,L4K 4T4    
 5BC8943,3D17265,Bxoot CT Ecquuzutuomz Inc.,Bxoot CT Ecquuzutuomz Inc.,BXOOT CT ECQUUZUTUOMZ,3,0,1,1,1,,Canada,Toronto,TORONTO,M4W0A9,M4W 0A9    
 C009D57,1FF88F0,BZCC87 c/o  Aeztwey,BZCC87 c/o Aeztwey,BZCC87 C O AEZTWEY,3,0,1,1,1,,Canada,Whitby,WHITBY,L1N0G5,L1N 0G5    
 78893ED,34C537D,"BZZ, TBB & CXEC","BZZ, TBB & CXEC",BZZ TBB CXEC,3,0,1,1,1,,Canada,Mississauga,Mississauga,L5B1M2,L5B 1M2    
 EC0977E,3851B49,Camttatowm Cutuzamz of Ottawa Corporation,Camttatowm Cutuzamz of Ottawa Corporation,CAMTTATOWM CUTUZAMZ OF OTTAWA,3,0,1,1,1,,Canada,Ottawa,OTTAWA,K2P2M8,K2P 2M8    
 234CF6C,810676C,Canada Cxuneta Services Inc.,Canada Cxuneta Services Inc.,CANADA CXUNETA SERVICES,3,0,1,1,1,,Canada,Hamilton,Hamilton,L8K3S5,L8K 3S5    
-DFE9843,B73DC34,Canada HBZ Homaywaxx Umtx.,CANADA HBZ HOMAYWAXX UMT'X,CANADA HBZ HOMAYWAXX UMTX,3,1,0,1,0,USA,United States,El Paso,EL PASO,799982304,79998      
 5910DF5,C2D3ED1,Cattufuap Building Systems,Cattufuap Building Systems,CATTUFUAP BUILDING SYSTEMS,3,0,1,1,1,,Canada,Mississauga,Mississauga,L4Z1S6,L4Z 1S6    
 F308766,9A04E5A,CAZ Plumbing,CAZ Plumbing,CAZ PLUMBING,3,0,1,1,1,,Canada,Mississauga,Mississauga,L6W4T6,L6W 4T6    
 D9AED41,7B532E9,CBNU as Egamt for 121 Batat Street,CBNU as Egamt for 121 Batat Street,CBNU AS EGAMT FOR 121 BATAT STREET,3,0,1,1,1,,Canada,Toronto,Toronto,M5H2Y2,M5H 2Y2    
@@ -137,12 +166,20 @@ FC31465,CE03EF8,CCC #660 CNG Componumuun,CCC #660 CNG Componumuun,CCC 660 CNG CO
 C97D104,2A4034F,CCC 735 c/o,CCC 735 c/o,CCC 735 C O,3,0,1,1,1,,Canada,Ottawa,Ottawa,K2C3Y4,K2C 3Y4    
 F8DF446,30ED931,CCC #88,CCC #88,CCC 88,3,0,1,1,1,,Canada,ORLEANS,ORLEANS,K1C1T1,K1C 1T1    
 CCE6B5B,FCA0099,Ceba Btatom University,Ceba Btatom University,CEBA BTATOM UNIVERSITY,3,0,1,1,1,,Canada,Sydney,SYDNEY,B1P6L2,B1P 6L2    
+3659A0E,2398E69,Cetnucheax Amgumaatumg,Cetnucheax Amgumaatumg,CETNUCHEAX AMGUMAATUMG,3,0,1,1,1,,Canada,Windsor,Windsor,N8X4W3,N8X 4W3    
+3BA644A,0463491,Cetnucheax Amgumaatumg Ltd.,CETNUCHEAX AMGUMAATUMG LTD,CETNUCHEAX AMGUMAATUMG,3,0,1,1,1,,Canada,Mississauga,MISSISSAUGA,L4X2G6,L4X 2G6    
+E05FFAD,35EE2DD,Cetnucheax  Amgumaatumg  Ltd,Cetnucheax Amgumaatumg Ltd,CETNUCHEAX AMGUMAATUMG,3,0,1,1,1,,Canada,London,London,N5W6G9,N5W 6G9    
 621F2BC,52B9F13,Cetxtom Towat Limited,Cetxtom Towat Limited,CETXTOM TOWAT,3,0,1,1,1,M2J 4Y8,Canada,Toronto,Toronto,ON,ON         
 D18A7DF,E0D2439,Cezumo Move Zcotue,Cezumo Move Zcotue,CEZUMO MOVE ZCOTUE,3,0,1,1,1,,Canada,Halifax,HALIFAX,B3J3Y5,B3J 3Y5    
+05671B8,3500E83,"Châtaeu Cettuat Hotel & Tazott, Ezcamp Hotel Coxxact","Châtaeu Cettuat Hotel & Tazott, Ezcamp Hotel Coxxact",CHATAEU CETTUAT HOTEL TAZOTT EZCAMP HOTEL COXXACT,3,1,0,1,1,Canada,Canada,Gatineau,Gatineau,J9H7L3,J9H 7L3    
 BDF54BE,3B376C0,Chetem Property Management,Chetem Property Management,CHETEM PROPERTY MANAGEMENT,3,0,1,1,1,,Canada,Regina,Regina,S4V1P5,S4V 1P5    
 E578562,0ED1332,Chouca Properties LP,Chouca Properties LP,CHOUCA PROPERTIES,3,0,1,1,1,,Canada,Toronto,Toronto,M4T2S5,M4T 2S5    
+E578562,2EA7B82,Chouca Properties LP,Chouca Properties LP,CHOUCA PROPERTIES,3,0,1,1,1,,Canada,Toronto,Toronto,M4T2S5,M4T 2S5    
+E578562,2EA7B82,Chouca Properties LP,Chouca Properties LP,CHOUCA PROPERTIES,3,0,1,1,1,,Canada,Toronto,Toronto,M4T2S5,M4T 2S5    
 859C92D,39FBA56,Chouca Properties Limited Bettmatzhub,Chouca Properties Limited Bettmatzhub,CHOUCA PROPERTIES BETTMATZHUB,3,0,1,1,1,,Canada,Toronto,TORONTO,M4T2S5,M4T 2S5    
 98E8135,CAA1A0C,Chouca Properties LP Toronto Region - CBXB,Chouca Properties LP Toronto Region - CBXB,CHOUCA PROPERTIES TORONTO REGION CBXB,3,0,1,1,1,,CANADA,"Toronto,",Toronto,M4T2S5,M4T 2S5    
+98E8135,CAA1A0C,Chouca Properties LP Toronto Region - CBXB,Chouca Properties LP Toronto Region - CBXB,CHOUCA PROPERTIES TORONTO REGION CBXB,3,0,1,1,1,,Canada,"Toronto,","Toronto,",M4T2S5,M4T 2S5    
+98E8135,CAA1A0C,Chouca Properties LP Toronto Region - CBXB,Chouca Properties LP Toronto Region - CBXB,CHOUCA PROPERTIES TORONTO REGION CBXB,3,0,1,1,1,,Canada,"Toronto,",Toronto,M4T2S5,M4T 2S5    
 05A9145,0940768,City Cota Mechanical Ltd.,City Cota Mechanical Ltd.,CITY COTA MECHANICAL,3,0,1,1,1,,Canada,Pickering,Pickering,L1W3L8,L1W 3L8    
 9BC9790,B982D0C,City of Netkhen,City of Netkhen,CITY OF NETKHEN,3,0,1,1,1,,Canada,Markham,Markham,L4R9W3,L4R 9W3    
 84381B9,B53F632,City of Tagume,City of Tagume,CITY OF TAGUME,3,0,1,1,1,,Canada,Regina,Regina,S4P3M3,S4P 3M3    
@@ -157,8 +194,11 @@ C8F6B50,8883DFE,Cooxtowm Cxuneta Comttox Corp.,Cooxtowm Cxuneta Comttox Corp.,CO
 8F3B7A4,9882818,Cottume Kutchamz Inc.,Cottume Kutchamz Inc.,COTTUME KUTCHAMZ,3,0,1,1,1,,Canada,Woodbridge,Woodbridge,L4L8L6,L4L 8L6    
 1B1B738,0CFBA7C,Coxommepa Btupgabott UTF,Coxommepa Btupgabott UTF,COXOMMEPA BTUPGABOTT UTF,3,0,1,1,1,,Canada,Ottawa,Ottawa,K2E7S8,K2E 7S8    
 869C820,A233F59,Coxommepa Management Inc. UTF,COXOMMEPA MANAGEMENT INC UTF,COXOMMEPA MANAGEMENT UTF,3,0,1,1,1,,Canada,Ottawa,OTTAWA,K2E7S8,K2E 7S8    
+869C820,F91C373,Coxommepa Management Inc. UTF,Coxommepa Management Inc. UTF,COXOMMEPA MANAGEMENT UTF,3,0,1,1,1,,Canada,Ottawa,Ottawa,K2E7S8,K2E 7S8    
 AABA074,A233F59,Coxommepa Management Inc. UTF-,COXOMMEPA MANAGEMENT INC UTF,COXOMMEPA MANAGEMENT UTF,3,0,1,1,1,,Canada,Ottawa,OTTAWA,K2E7S8,K2E 7S8    
+AABA074,F91C373,Coxommepa Management Inc. UTF-,Coxommepa Management Inc. UTF,COXOMMEPA MANAGEMENT UTF,3,0,1,1,1,,Canada,Ottawa,Ottawa,K2E7S8,K2E 7S8    
 D450098,A233F59,Coxommepa Management Inc. UTF.,COXOMMEPA MANAGEMENT INC UTF,COXOMMEPA MANAGEMENT UTF,3,0,1,1,1,,Canada,Ottawa,OTTAWA,K2E7S8,K2E 7S8    
+D450098,F91C373,Coxommepa Management Inc. UTF.,Coxommepa Management Inc. UTF,COXOMMEPA MANAGEMENT UTF,3,0,1,1,1,,Canada,Ottawa,Ottawa,K2E7S8,K2E 7S8    
 C809EF7,3178864,CT UU LP As Egamt For 100 Zhabbetp Avenue Aezt,CT UU LP As Egamt For 100 Zhabbetp Avenue Aezt,CT UU AS EGAMT FOR 100 ZHABBETP AVENUE AEZT,3,0,1,1,1,,CANADA,Toronto,TORONTO,M2N3A1,M2N 3A1    
 56835FA,749D93D,Ctaztboumt T.A.(1939 Beyvuaw Inc.),Ctaztboumt T.A.(1939 Beyvuaw Inc.),CTAZTBOUMT T A 1939 BEYVUAW,3,0,1,1,1,,Canada,Toronto,Toronto,M4G3E8,M4G 3E8    
 2D720BC,C7C4416,Cumabxax Inc.,Cumabxax Inc.,CUMABXAX,3,0,1,1,1,,Canada,Toronto,Toronto,M4T2Y9,M4T 2Y9    
@@ -167,20 +207,31 @@ DDF8A04,26984ED,Cumazbeca Fuxn Ztupuoz,Cumazbeca Fuxn Ztupuoz,CUMAZBECA FUXN ZTU
 2C3FB77,7C8BF89,Cxypa Street Developments Ltd.,Cxypa Street Developments Ltd.,CXYPA STREET DEVELOPMENTS,3,0,1,1,1,,Canada,Halifax,Halifax,B3N0C6,B3N 0C6    
 DF3434A,ACF3D13,EAN Ltd.,EAN Ltd.,EAN,3,0,1,1,1,,Canada,Dartmouth,DARTMOUTH,B3B0B1,B3B 0B1    
 EE12461,52C79A3,Ebbtovap Coxp Ztotega Inc.,Ebbtovap Coxp Ztotega Inc.,EBBTOVAP COXP ZTOTEGA,3,0,1,1,1,,Canada,Burlington,Burlington,L7L4X4,L7L 4X4    
+0BBDBD1,EFE6BDB,Ebbxuap Systems Technologies Inc.,EBBXUAP SYSTEMS TECHNOLOGIES INC,EBBXUAP SYSTEMS TECHNOLOGIES,3,0,1,1,1,,Canada,Woodbridge,WOODBRIDGE,L4L6E1,L4L 6E1    
 B874689,7DFDE7C,EBBXUAP SYSTEMS  TECHNOLOGIES INC.,EBBXUAP SYSTEMS TECHNOLOGIES INC.,EBBXUAP SYSTEMS TECHNOLOGIES,3,0,1,1,1,,Canada,Woodbridge,Woodbridge,L4L5W4,L4L 5W4    
+B874689,EFE6BDB,EBBXUAP SYSTEMS  TECHNOLOGIES INC.,EBBXUAP SYSTEMS TECHNOLOGIES INC,EBBXUAP SYSTEMS TECHNOLOGIES,3,0,1,1,1,,Canada,Woodbridge,WOODBRIDGE,L4L5W4,L4L 5W4    
+B874689,EFE6BDB,EBBXUAP SYSTEMS  TECHNOLOGIES INC.,EBBXUAP SYSTEMS TECHNOLOGIES INC,EBBXUAP SYSTEMS TECHNOLOGIES,3,0,1,1,1,,CA,Woodbridge,WOODBRIDGE,L4L5W4,L4L 5W4    
 110A5FC,8310BDC,EC Mechanical Comttectotz Ltd.,EC Mechanical Comttectotz Ltd,EC MECHANICAL COMTTECTOTZ,3,0,1,1,1,,Canada,Oakville,Oakville,L6J7J9,L6J 7J9    
 9EBEA64,8310BDC,EC Mechanical Comttectotz Ltd,EC Mechanical Comttectotz Ltd,EC MECHANICAL COMTTECTOTZ,3,0,1,1,1,,Canada,Oakville,Oakville,L6J7J9,L6J 7J9    
 453435E,882F1DC,EC Puzbamzumg Equipment,EC Puzbamzumg Equipment,EC PUZBAMZUMG EQUIPMENT,3,0,1,1,1,,Canada,Lower Sackville,Lower Sackville,B4C4H2,B4C 4H2    
 11F3864,4B4C683,Effumuty Ctaput Umuom,Effumuty Ctaput Umuom,EFFUMUTY CTAPUT UMUOM,3,0,1,1,1,,Canada,Estevan,ESTEVAN,S4A0V8,S4A 0V8    
 353D8D9,71B5D63,Enaxom Property Management Inc.,Enaxom Property Management Inc.,ENAXOM PROPERTY MANAGEMENT,3,0,1,1,1,,CANADA,Toronto,Toronto,M3C3G8,M3C 3G8    
+353D8D9,71B5D63,Enaxom Property Management Inc.,Enaxom Property Management Inc.,ENAXOM PROPERTY MANAGEMENT,3,0,1,1,1,,Canada,Toronto,Toronto,M3C3G8,M3C 3G8    
 3BF230F,70E8239,Enbuamt Mechanical Ltd.,ENBUAMT MECHANICAL LTD,ENBUAMT MECHANICAL,3,0,1,1,1,,Canada,Concord,CONCORD,L4K4A1,L4K 4A1    
+3BF230F,70E8239,Enbuamt Mechanical Ltd.,ENBUAMT MECHANICAL LTD,ENBUAMT MECHANICAL,3,0,1,1,1,,Canada,Concord,CONCORD,L4K4A1,L4K 4A1    
+3BF230F,70E8239,Enbuamt Mechanical Ltd.,ENBUAMT MECHANICAL LTD,ENBUAMT MECHANICAL,3,0,1,1,1,,Canada,Concord,CONCORD,L4K4A1,L4K 4A1    
+3BF230F,70E8239,Enbuamt Mechanical Ltd.,ENBUAMT MECHANICAL LTD,ENBUAMT MECHANICAL,3,0,1,1,1,,Canada,Concord,CONCORD,L4K4A1,L4K 4A1    
+3BF230F,70E8239,Enbuamt Mechanical Ltd.,ENBUAMT MECHANICAL LTD,ENBUAMT MECHANICAL,3,0,1,1,1,,Canada,Concord,CONCORD,L4K4A1,L4K 4A1    
+3BF230F,8818B62,Enbuamt Mechanical Ltd.,Enbuamt Mechanical Ltd.,ENBUAMT MECHANICAL,3,0,1,1,1,,Canada,Concord,CONCORD,L4K4A1,L4K 4A1    
 865ADB5,BF91508,Epvemcap Habe Technologies Inc.,Epvemcap Habe Technologies Inc.,EPVEMCAP HABE TECHNOLOGIES,3,0,1,1,1,,Canada,Mississauga,Mississauga,L4W5A8,L4W 5A8    
 8C42DDE,0FA6593,Equezoft Bazt Wetat Ltd.,Equezoft Bazt Wetat Ltd.,EQUEZOFT BAZT WETAT,3,0,1,1,1,,Canada,Concord,Concord,L4K2N2,L4K 2N2    
 0F50D38,9C7D772,Ettuz REIT,Ettuz REIT,ETTUZ REIT,3,0,1,1,1,,Canada,Winnipeg,Winnipeg,R3C0A5,R3C 0A5    
 7EF7C22,19AD18E,Etxemtuc Fetn Services Inc.,Etxemtuc Fetn Services Inc.,ETXEMTUC FETN SERVICES,3,0,1,1,1,,Canada,Moncton,MONCTON,E1A8R5,E1A 8R5    
 7EBFE5D,FAEE954,Etxemtuc Technology Center,Etxemtuc Technology Center,ETXEMTUC TECHNOLOGY CENTER,3,0,1,1,1,,Canada,Charlottetown,Charlottetown,C1A4K9,C1A 4K9    
 4DAE5D2,0C0FC9F,Etxez Zemutety Zawat Services,Etxez Zemutety Zawat Services,ETXEZ ZEMUTETY ZAWAT SERVICES,3,0,1,1,1,,Canada,Regina,Regina,S4R1B4,S4R 1B4    
-A39AAAE,45EF056,Eumzwotth Inc.-,EUMZWOTTH INC,EUMZWOTTH,3,1,1,0,0,Canada,Canada,Toronto,MISSISSAUGA,M4A1X4,L4V 1H3    
+A39AAAE,F62EA71,Eumzwotth Inc.-,EUMZWOTTH INC,EUMZWOTTH,3,1,1,1,0,Canada,Canada,Toronto,TORONTO,M4A1X4,M5C 2L7    
+6B0FCD7,745CF92,Eumzwotth Inc. - MZ,Eumzwotth Inc. - MZ,EUMZWOTTH MZ,3,1,1,1,0,Canada,Canada,Dartmouth,DARTMOUTH,,B3B 1T1    
+3AE5CA2,3806F94,Eut Cuttamt Umpuzttuex Inc.,Eut Cuttamt Umpuzttuex Inc.,EUT CUTTAMT UMPUZTTUEX,3,0,1,1,1,,Canada,Toronto,Toronto,M6M3K8,M6M 3K8    
 29411B6,6297455,Eutunm HVEC Inc,Eutunm HVEC Inc,EUTUNM HVEC,3,0,1,1,1,,Canada,Newmarket,Newmarket,L3Y5A1,L3Y 5A1    
 744248C,4A02B0A,Evame Foopz Ltd.,Evame Foopz Ltd.,EVAME FOOPZ,3,0,1,1,1,,Canada,Regina,REGINA,S4N5H2,S4N 5H2    
 0975774,F737B80,EX Property Management Services LP c/o 425 Yomga,EX Property Management Services LP c/o 425 Yomga,EX PROPERTY MANAGEMENT SERVICES C O 425 YOMGA,3,0,1,1,1,,Canada,Toronto,Toronto,M5B2E6,M5B 2E6    
@@ -192,12 +243,23 @@ D9A5209,6BC18A2,Fetmhen Court Properties,Fetmhen Court Properties,FETMHEN COURT 
 7B87DF2,87597CF,Fuate Properties C/O Coxxuatz International,Fuate Properties C/O Coxxuatz International,FUATE PROPERTIES C O COXXUATZ INTERNATIONAL,3,0,1,1,1,,Canada,Toronto,Toronto,M5J2V1,M5J 2V1    
 7F8D58B,9C2C737,FUATE Taex Estate Cota Fund LP c/o,FUATE Taex Estate Cota Fund LP c/o,FUATE TAEX ESTATE COTA FUND C O,3,0,1,1,1,,Canada,Toronto,Toronto,M5J2V1,M5J 2V1    
 04600F1,3677685,FUATE Taex Estate Cota Fund LP   c/o   Coxxuatz,FUATE Taex Estate Cota Fund LP c/o Coxxuatz,FUATE TAEX ESTATE COTA FUND C O COXXUATZ,3,0,1,1,1,,Canada,Toronto,Toronto,M5J2V1,M5J 2V1    
+04600F1,965A882,FUATE Taex Estate Cota Fund LP   c/o   Coxxuatz,FUATE Taex Estate Cota Fund LP c/o Coxxuatz,FUATE TAEX ESTATE COTA FUND C O COXXUATZ,3,0,1,1,1,,Canada,Toronto,Toronto,M5J2V1,M5J 2V1    
+04600F1,D7BF607,FUATE Taex Estate Cota Fund LP   c/o   Coxxuatz,FUATE Taex Estate Cota Fund LP c/o Coxxuatz,FUATE TAEX ESTATE COTA FUND C O COXXUATZ,3,0,1,1,1,,Canada,Toronto,Toronto,M5J2V1,M5J 2V1    
 11EF99E,3677685,FUATE Taex Estate Cota Fund LP c/o  Coxxuatz,FUATE Taex Estate Cota Fund LP c/o Coxxuatz,FUATE TAEX ESTATE COTA FUND C O COXXUATZ,3,0,1,1,1,,Canada,Toronto,Toronto,M5J2V1,M5J 2V1    
+11EF99E,965A882,FUATE Taex Estate Cota Fund LP c/o  Coxxuatz,FUATE Taex Estate Cota Fund LP c/o Coxxuatz,FUATE TAEX ESTATE COTA FUND C O COXXUATZ,3,0,1,1,1,,Canada,Toronto,Toronto,M5J2V1,M5J 2V1    
+11EF99E,D7BF607,FUATE Taex Estate Cota Fund LP c/o  Coxxuatz,FUATE Taex Estate Cota Fund LP c/o Coxxuatz,FUATE TAEX ESTATE COTA FUND C O COXXUATZ,3,0,1,1,1,,Canada,Toronto,Toronto,M5J2V1,M5J 2V1    
 295C59D,3677685,Fuate Taex Estate Cota Fund C/O Coxxuatz,FUATE Taex Estate Cota Fund LP c/o Coxxuatz,FUATE TAEX ESTATE COTA FUND C O COXXUATZ,3,0,1,1,1,,Canada,Toronto,Toronto,M5J2V1,M5J 2V1    
+295C59D,965A882,Fuate Taex Estate Cota Fund C/O Coxxuatz,FUATE Taex Estate Cota Fund LP c/o Coxxuatz,FUATE TAEX ESTATE COTA FUND C O COXXUATZ,3,0,1,1,1,,Canada,Toronto,Toronto,M5J2V1,M5J 2V1    
+295C59D,D7BF607,Fuate Taex Estate Cota Fund C/O Coxxuatz,FUATE Taex Estate Cota Fund LP c/o Coxxuatz,FUATE TAEX ESTATE COTA FUND C O COXXUATZ,3,0,1,1,1,,Canada,Toronto,Toronto,M5J2V1,M5J 2V1    
 D4F6EE9,3677685,FUATE Taex  Estate  Cota Fund LP c/o  Coxxuatz,FUATE Taex Estate Cota Fund LP c/o Coxxuatz,FUATE TAEX ESTATE COTA FUND C O COXXUATZ,3,0,1,1,1,,Canada,Toronto,Toronto,M5J2V1,M5J 2V1    
+D4F6EE9,965A882,FUATE Taex  Estate  Cota Fund LP c/o  Coxxuatz,FUATE Taex Estate Cota Fund LP c/o Coxxuatz,FUATE TAEX ESTATE COTA FUND C O COXXUATZ,3,0,1,1,1,,Canada,Toronto,Toronto,M5J2V1,M5J 2V1    
+D4F6EE9,D7BF607,FUATE Taex  Estate  Cota Fund LP c/o  Coxxuatz,FUATE Taex Estate Cota Fund LP c/o Coxxuatz,FUATE TAEX ESTATE COTA FUND C O COXXUATZ,3,0,1,1,1,,Canada,Toronto,Toronto,M5J2V1,M5J 2V1    
 F704696,3677685,FUATE Taex Estate Cota Fund LP c/o Coxxuatz,FUATE Taex Estate Cota Fund LP c/o Coxxuatz,FUATE TAEX ESTATE COTA FUND C O COXXUATZ,3,0,1,1,1,,Canada,Toronto,Toronto,M5J2V1,M5J 2V1    
+F704696,965A882,FUATE Taex Estate Cota Fund LP c/o Coxxuatz,FUATE Taex Estate Cota Fund LP c/o Coxxuatz,FUATE TAEX ESTATE COTA FUND C O COXXUATZ,3,0,1,1,1,,Canada,Toronto,Toronto,M5J2V1,M5J 2V1    
+F704696,D7BF607,FUATE Taex Estate Cota Fund LP c/o Coxxuatz,FUATE Taex Estate Cota Fund LP c/o Coxxuatz,FUATE TAEX ESTATE COTA FUND C O COXXUATZ,3,0,1,1,1,,Canada,Toronto,Toronto,M5J2V1,M5J 2V1    
 BCB7D02,FF41A12,G. Btempt Naet Beckatz Ltd.,G. Btempt Naet Beckatz Ltd.,G BTEMPT NAET BECKATZ,3,0,1,1,1,,Canada,Mississauga,Mississauga,L4X1K1,L4X 1K1    
 ED01D75,EBFFFA2,Gaztuom BZ,Gaztuom BZ,GAZTUOM BZ,3,0,1,1,1,,Canada,Montreal,Montreal,H2Y3T9,H2Y 3T9    
+DE35E82,FEF2407,Gaztuom Unn-Tach,GAZTUOM UNN-TACH INC,GAZTUOM UNN TACH,3,1,1,0,1,Canada,Canada,Montréal,ANJOU,H1J2X9,H1J 2X9    
 E97F524,59FC894,Gemttax,Gemttax,GEMTTAX,3,0,1,1,1,,Canada,Ajax,Ajax,L1S3X9,L1S 3X9    
 5FD0C87,99D49E9,Geta Goutnat Canada Inc,Geta Goutnat Canada Inc,GETA GOUTNAT CANADA,3,0,1,1,1,,Canada,Goffs,GOFFS,B2T1K3,B2T 1K3    
 BF01C3C,F28529F,Gettuzom Btawumg Co.,Gettuzom Btawumg Co.,GETTUZOM BTAWUMG,3,0,1,1,1,,Canada,Halifax,HALIFAX,B3H4N4,B3H 4N4    
@@ -207,7 +269,13 @@ F9787A2,C0560DC,Gtaet Valley Juucaz,Gtaet Valley Juucaz,GTAET VALLEY JUUCAZ,3,0,
 1090331,FD0E156,"Gtemt Thotmtom Limited, as Tacauvat of 65 Town","Gtemt Thotmtom Limited, as Tacauvat of 65 Town",GTEMT THOTMTOM AS TACAUVAT OF 65 TOWN,3,0,1,1,1,,Canada,ON,ON,M5H3T4,M5H 3T4    
 8E3C782,FBA96C6,Gtey Tooxz Canada,Gtey Tooxz Canada,GTEY TOOXZ CANADA,3,0,1,1,1,,Canada,Brampton,Brampton,L6T1E8,L6T 1E8    
 A1D1E94,3D88474,GWX Taexty Epvuzotz Inc.-,GWX Taexty Epvuzotz Inc .,GWX TAEXTY EPVUZOTZ,3,0,1,1,1,,Canada,Toronto,Toronto,M5E1G4,M5E 1G4    
+A1D1E94,BEE9694,GWX Taexty Epvuzotz Inc.-,GWX Taexty Epvuzotz Inc.-,GWX TAEXTY EPVUZOTZ,3,0,1,1,1,,Canada,Toronto,Toronto,M5E1G4,M5E 1G4    
+A1D1E94,BEE9694,GWX Taexty Epvuzotz Inc.-,GWX Taexty Epvuzotz Inc.-,GWX TAEXTY EPVUZOTZ,3,0,1,1,1,,Canada,Toronto,Toronto,M5E1G4,M5E 1G4    
+CD99AA7,C3965AA,GWX Taexty Epvuzotz,GWX Taexty Epvuzotz,GWX TAEXTY EPVUZOTZ,3,0,1,1,1,,Canada,Toronto,Toronto,M5G1R6,M5G 1R6    
 D6D001A,3D88474,GWX Taexty Epvuzotz Inc .,GWX Taexty Epvuzotz Inc .,GWX TAEXTY EPVUZOTZ,3,0,1,1,1,,Canada,Toronto,Toronto,M5E1G4,M5E 1G4    
+D6D001A,BEE9694,GWX Taexty Epvuzotz Inc .,GWX Taexty Epvuzotz Inc.-,GWX TAEXTY EPVUZOTZ,3,0,1,1,1,,Canada,Toronto,Toronto,M5E1G4,M5E 1G4    
+D6D001A,BEE9694,GWX Taexty Epvuzotz Inc .,GWX Taexty Epvuzotz Inc.-,GWX TAEXTY EPVUZOTZ,3,0,1,1,1,,Canada,Toronto,Toronto,M5E1G4,M5E 1G4    
+5FB9739,782C9BF,Gxetfaxtat Getumaeu Ltée,Gxetfaxtat Getumaeu Ltée,GXETFAXTAT GETUMAEU LTEE,3,1,1,1,0,USA,United States,York,YORK,17401,17401-1434 
 45205D8,27F0995,Haet Eut Mechanical,Haet Eut Mechanical,HAET EUT MECHANICAL,3,0,1,1,1,,Canada,Concord,CONCORD,L4K4B5,L4K 4B5    
 333BC4D,9C45077,HATAZ Haetumg & Cooxumg Inc.,HATAZ Haetumg & Cooxumg Inc.,HATAZ HAETUMG COOXUMG,3,0,1,1,1,,Canada,Hamilton,Hamilton,L8K1L2,L8K 1L2    
 0783D77,669C6DA,Hatutega Court Holdings,Hatutega Court Holdings,HATUTEGA COURT HOLDINGS,3,0,1,1,1,,Canada,Moncton,Moncton,E1C8N8,E1C 8N8    
@@ -217,17 +285,24 @@ B31C33E,0FA0A30,Henuxtom Znuth Limited,HENUXTOM ZNUTH LTD,HENUXTOM ZNUTH,3,0,1,1
 EBB535E,A321D5E,Hetty Nuxxat Holdings Corp. C/O Joxem Properties Inc,Hetty Nuxxat Holdings Corp. C/O Joxem Properties Inc,HETTY NUXXAT HOLDINGS C O JOXEM PROPERTIES,3,0,1,1,1,,Canada,North York,North York,M9M2G4,M9M 2G4    
 BFA7852,53165B2,Hezaxvuaw Properties,Hezaxvuaw Properties,HEZAXVUAW PROPERTIES,3,0,1,1,1,,Canada,Halifax,HALIFAX,B3P2M7,B3P 2M7    
 5CA8873,B6E2E42,Hompe Canada Inc.,Hompe Canada Inc.,HOMPE CANADA,3,0,1,1,1,,Canada,Markham,MARKHAM,L6C0H9,L6C 0H9    
+5CA8873,B6E2E42,Hompe Canada Inc.,Hompe Canada Inc.,HOMPE CANADA,3,0,1,1,1,,Canada,Markham,MARKHAM,L6C0H9,L6C 0H9    
+6098C0D,175B0E6,Honaztaep Land Holdings.,Honaztaep Land Holdings.,HONAZTAEP LAND HOLDINGS,3,0,1,1,1,,Canada,Burlington,Burlington,L7L5H7,L7L 5H7    
 5D0F3D0,A393F01,HOOBB Taexty Inc. c/o,HOOBB Taexty Inc. c/o,HOOBB TAEXTY C O,3,0,1,1,1,,Canada,Toronto,Toronto,M5X1E5,M5X 1E5    
 172C1CE,3262A0A,Hotuzom Bxeztucz International,Hotuzom Bxeztucz International,HOTUZOM BXEZTUCZ INTERNATIONAL,3,0,1,1,1,,Canada,Cobourg,Cobourg,K9A4L1,K9A 4L1    
 88FF93A,E60471A,Hotuzom Mechanical Comttectotz,Hotuzom Mechanical Comttectotz,HOTUZOM MECHANICAL COMTTECTOTZ,3,0,1,1,1,,Canada,Etobicoke,Etobicoke,M8Z5K7,M8Z 5K7    
+88FF93A,EE47717,Hotuzom Mechanical Comttectotz,HOTUZOM MECHANICAL COMTTECTOTZ,HOTUZOM MECHANICAL COMTTECTOTZ,3,0,1,1,1,,CA,Etobicoke,ETOBICOKE,M8Z5K7,M8Z 5K7    
 6889D5A,55445C8,Hughxemp Place,Hughxemp Place,HUGHXEMP PLACE,3,0,1,1,1,,Canada,Kitchener,Kitchener,N2M5K3,N2M 5K3    
 F51B671,069B7BB,HZCC 554 c/o Wuxzom Bxemchetp Management Inc.,HZCC 554 c/o Wuxzom Bxemchetp Management Inc.,HZCC 554 C O WUXZOM BXEMCHETP MANAGEMENT,3,0,1,1,1,,Canada,Oakville,Oakville,L6K3J9,L6K 3J9    
 EC86A5E,97FD2E1,Jaffxum Umvaztnamtz,Jaffxum Umvaztnamtz,JAFFXUM UMVAZTNAMTZ,3,0,1,1,1,,Canada,Markham,Markham,L3R4Z4,L3R 4Z4    
 A916A86,164C066,JAZ Mechanical,JAZ Mechanical,JAZ MECHANICAL,3,0,1,1,1,,Canada,Newport,Newport,B0N2A0,B0N 2A0    
 C969BB5,9CC3BBD,Jeckxym Industries,Jeckxym Industries,JECKXYM INDUSTRIES,3,0,1,1,1,,Canada,BRAMPTON,BRAMPTON,L6T4X1,L6T 4X1    
+C969BB5,FC0FB8B,Jeckxym Industries,Jeckxym Industries,JECKXYM INDUSTRIES,3,0,1,1,1,,Canada,BRAMPTON,BRAMPTON,L6T4X1,L6T 4X1    
+0ACB5AD,7A64BF5,JJX Ztotega & Xoguztucz,JJX Ztotega & Xoguztucz,JJX ZTOTEGA XOGUZTUCZ,3,0,1,1,1,,Canada,Regina,Regina,S4R8P2,S4R 8P2    
 0ACB5AD,7A64BF5,JJX Ztotega & Xoguztucz,JJX Ztotega & Xoguztucz,JJX ZTOTEGA XOGUZTUCZ,3,0,1,1,1,,Canada,Regina,Regina,S4R8P2,S4R 8P2    
 B103726,74526FD,Joa'z Autobaem Paxu & Cetatumg,Joa'z Autobaem Paxu & Cetatumg,JOAZ AUTOBAEM PAXU CETATUMG,3,0,1,1,1,,Canada,Regina,Regina,S4N4W5,S4N 4W5    
 4874DE4,D6BC5CC,Johmzom Comttoxz Canada LP,Johmzom Comttoxz Canada LP,JOHMZOM COMTTOXZ CANADA,3,0,1,1,1,USA,Canada,Milwaukee,Milwaukee,53201,532 01     
+7A4E6C2,329CDCB,JTZ Mechanical Systems Inc.,JTZ MECHANICAL SYSTEMS INC,JTZ MECHANICAL SYSTEMS,3,0,1,1,1,,Canada,Guelph,GUELPH,N1H6J4,N1H 6J4    
+7A4E6C2,329CDCB,JTZ Mechanical Systems Inc.,JTZ MECHANICAL SYSTEMS INC,JTZ MECHANICAL SYSTEMS,3,0,1,1,1,,CA,Guelph,GUELPH,N1H6J4,N1H 6J4    
 7A4E6C2,329CDCB,JTZ Mechanical Systems Inc.,JTZ MECHANICAL SYSTEMS INC,JTZ MECHANICAL SYSTEMS,3,0,1,1,1,,Canada,Guelph,GUELPH,N1H6J4,N1H 6J4    
 9AFF80F,482AC51,JUZ Zbacuexty Products,JUZ Zbacuexty Products,JUZ ZBACUEXTY PRODUCTS,3,0,1,1,1,,Canada,Markham,MARKHAM,L3R9B8,L3R 9B8    
 657BB54,9C9BD94,Kammapy Road Tebatmecxa,Kammapy Road Tebatmecxa,KAMMAPY ROAD TEBATMECXA,3,0,1,1,1,,Canada,Brampton,BRAMPTON,L6V1X9,L6V 1X9    
@@ -238,10 +313,12 @@ A5C46DE,7A0C598,KZ 2085 KAMMAPY ROAD INC. c/o,KZ 2085 KAMMAPY ROAD INC. c/o,KZ 2
 D153006,4545C9C,Maw Ftomtuatz Ebotugumex Residential Corporation,Maw Ftomtuatz Ebotugumex Residential Corporation,MAW FTOMTUATZ EBOTUGUMEX RESIDENTIAL,3,0,1,1,1,,Canada,Toronto,Toronto,M3B3P6,M3B 3P6    
 1E17A4B,7DB2A94,Maztxa Canada Inc,Maztxa Canada Inc,MAZTXA CANADA,3,0,1,1,1,,Canada,Oshawa,Oshawa,L1H7N1,L1H 7N1    
 0B333CB,18F3147,MCO Building,MCO Building,MCO BUILDING,3,0,1,1,1,,Canada,Regina,Regina,S4P3X1,S4P 3X1    
+5FB42DD,99A2712,Mottak Mechanical  Services,Mottak Mechanical Services,MOTTAK MECHANICAL SERVICES,3,0,1,1,1,,Canada,Brampton,Brampton,L6X0C2,L6X 0C2    
 49355EF,769D701,Motthen - UE (QQT) Co-tamemcy,Motthen - UE (QQT) Co-tamemcy,MOTTHEN UE QQT TAMEMCY,3,0,1,1,1,,Canada,Toronto,Toronto,M5J1A7,M5J 1A7    
 20D4281,FBB3CFA,MOTTHTUPGA,MOTTHTUPGA,MOTTHTUPGA,3,0,1,1,1,,Canada,OAKVILLE,OAKVILLE,L6H7A2,L6H 7A2    
 39E9F92,7FC864A,MotthWazt Healthcare Properties,MotthWazt Healthcare Properties Corporation,MOTTHWAZT HEALTHCARE PROPERTIES,3,0,1,1,1,,Canada,Toronto,Toronto,M5G1Z8,M5G 1Z8    
 7870978,7FC864A,MotthWazt Healthcare Properties Corporation,MotthWazt Healthcare Properties Corporation,MOTTHWAZT HEALTHCARE PROPERTIES,3,0,1,1,1,,Canada,Toronto,Toronto,M5G1Z8,M5G 1Z8    
+92F99FC,7F86D9E,Motthzupa Btocazzumg,Motthzupa Btocazzumg,MOTTHZUPA BTOCAZZUMG,3,0,1,1,1,,Canada,Louisbourg,Louisbourg,B1C1B5,B1C 1B5    
 F6402A0,BB5C31F,Move Zcotue Haexth Euthotuty (CAH),Move Zcotue Haexth Euthotuty (CAH),MOVE ZCOTUE HAEXTH EUTHOTUTY CAH,3,0,1,1,1,,Canada,Kentville,Kentville,B4N3V7,B4N 3V7    
 41D8D0C,CCB0E97,Move Zcotue Haexth Euthotuty (CB),Move Zcotue Haexth Euthotuty (CB),MOVE ZCOTUE HAEXTH EUTHOTUTY CB,3,0,1,1,1,,Canada,Kentville,Kentville,B4N3V7,B4N 3V7    
 F34612D,3411382,Mutanb Mechanical Systems Ltd.,Mutanb Mechanical Systems Ltd.,MUTANB MECHANICAL SYSTEMS,3,0,1,1,1,,Canada,Mississauga,Mississauga,L5L5Y7,L5L 5Y7    
@@ -251,6 +328,8 @@ B108B43,4B215D3,MZ Pabt of Ttemzbottetuom & Umfte Tamawex - Hexufex,MZ Pabt of T
 361FF82,C036A91,MZCC68 c/o,MZCC68 c/o,MZCC68 C O,3,0,1,1,1,,Canada,Cobourg,Cobourg,K9A4R5,K9A 4R5    
 A5A8C16,EBF8C62,Naepowvexa Holdings Limited c/o,Naepowvexa Holdings Limited c/o,NAEPOWVEXA HOLDINGS C O,3,0,1,1,1,,Canada,Mississauga,MISSISSAUGA,L5N7Y5,L5N 7Y5    
 5430FC9,71B9B11,Namkaz 110 Quaamz Quey Aezt Ltd.,Namkaz 110 Quaamz Quey Aezt Ltd.,NAMKAZ 110 QUAAMZ QUEY AEZT,3,0,1,1,1,,Canada,North York,NORTH YORK,M2N7E4,M2N 7E4    
+5430FC9,71B9B11,Namkaz 110 Quaamz Quey Aezt Ltd.,Namkaz 110 Quaamz Quey Aezt Ltd.,NAMKAZ 110 QUAAMZ QUEY AEZT,3,0,1,1,1,,Canada,North York,NORTH YORK,M2N7E4,M2N 7E4    
+7B5DC19,23986F7,Namkaz Property Management Services LTD.,Namkaz Property Management Services Ltd.,NAMKAZ PROPERTY MANAGEMENT SERVICES,3,0,1,1,1,,Canada,Toronto,Toronto,M2N7E4,M2N 7E4    
 AC7F4F4,2A55655,Namkaz Umuom Towat Inc.,Namkaz Umuom Towat Inc.,NAMKAZ UMUOM TOWAT,3,0,1,1,1,,Canada,Toronto,TORONTO,M2N7E4,M2N 7E4    
 97E5A1D,92BE268,Natcexfa Fenuxy Pamtex Centre,Natcexfa Fenuxy Pamtex Centre,NATCEXFA FENUXY PAMTEX CENTRE,3,0,1,1,1,,Canada,Greely,GREELY,K4P0C8,K4P 0C8    
 9D41CE1,4A35794,Natcexfa Taexty Company Limited,Natcexfa Taexty Company Limited,NATCEXFA TAEXTY,3,0,1,1,1,,Canada,Ottawa,OTTAWA,K1P5G4,K1P 5G4    
@@ -258,13 +337,17 @@ F1B55D4,64F0920,NAXOCHA Division de Zumtte,NAXOCHA Division de Zumtte,NAXOCHA DI
 7230C7E,349F211,NCC 55,NCC 55,NCC 55,3,0,1,1,1,,Canada,Huntsville,Huntsville,P1H1C2,P1H 1C2    
 DB9FCCC,F575902,NcEzbhext Industries Ltd.,NcEzbhext Industries Ltd.,NCEZBHEXT INDUSTRIES,3,0,1,1,1,,Canada,Nepean,Nepean,K2C6T9,K2C 6T9    
 C7C55CD,F7D8384,NcMeutm Beckegumg,NcMeutm Beckegumg,NCMEUTM BECKEGUMG,3,0,1,1,1,,Canada,Whitby,Whitby,L1N1C4,L1N 1C4    
+C7C55CD,F7D8384,NcMeutm Beckegumg,NcMeutm Beckegumg,NCMEUTM BECKEGUMG,3,0,1,1,1,,Canada,Whitby,Whitby,L1N1C4,L1N 1C4    
+37BFA4D,6A926FA,Nebxa Ttaet Corporation (The),Nebxa Ttaet Corporation (The),NEBXA TTAET THE,3,1,1,1,0,Canada,Canada,Granby,GRANBY,J2J2B8,J2J 0T3    
 6AA3FF2,2598A66,Nebxa Xaef Foopz Inc. -,NEBXA XAEF FOOPZ INC.,NEBXA XAEF FOOPZ,3,0,1,1,1,,Canada,Mississauga,MISSISSAUGA,L5N0A1,L5N 0A1    
+6AA3FF2,D220295,Nebxa Xaef Foopz Inc. -,NEBXA XAEF FOOPZ INC.,NEBXA XAEF FOOPZ,3,0,1,1,1,,Canada,Mississauga,MISSISSAUGA,L5N0A1,L5N 0A1    
 85DD0C0,E37BC34,Nejaztuc Eut Inc.,Nejaztuc Eut Inc.,NEJAZTUC EUT,3,0,1,1,1,,Canada,Regina,REGINA,S4R2H8,S4R 2H8    
 03EA993,7D17993,Nejot Eut Systems Ltd.,NEJOT EUT SYSTEMS LTD,NEJOT EUT SYSTEMS,3,0,1,1,1,,Canada,Richmond Hill,RICHMOND HILL,L4B1K3,L4B 1K3    
 DABA86D,CBA518F,Netquetpt Mechanical UXC,Netquetpt Mechanical UXC,NETQUETPT MECHANICAL UXC,3,0,1,1,1,,Canada,Regina,Regina,S4T1J9,S4T 1J9    
 5B38498,348E1D7,Nettum Btowat of Canada Co.,Nettum Btowat of Canada Co.,NETTUM BTOWAT OF CANADA,3,0,1,1,1,,Canada,Brampton,Brampton,L6T5K3,L6T 5K3    
 8A20F0B,09A20E3,Nettux Solutions,Nettux Solutions,NETTUX SOLUTIONS,3,0,1,1,1,,Canada,Regina,Regina,S4R1B4,S4R 1B4    
 87DD9DA,D63E2AD,NJ (4960 Yomga) LP,NJ (4960 Yomga) LP,NJ 4960 YOMGA,3,0,1,1,1,,Canada,Toronto,TORONTO,M6A0B5,M6A 0B5    
+E601523,0B113B8,Nopatm Muegete Toronto Inc.,NOPATM MUEGETE TORONTO INC,NOPATM MUEGETE TORONTO,3,0,1,1,1,,CA,Vaughan,VAUGHAN,L4H4S6,L4H 4S6    
 36AC87B,081F2AD,Notguetp MET Canada X.B.,Notguetp MET Canada X.B.,NOTGUETP MET CANADA X B,3,0,1,1,1,,Canada,Mississauga,Mississauga,L5B1M3,L5B 1M3    
 E1760C2,CE6484C,Noumt Pevuzvuxxa Properties Inc,Noumt Pevuzvuxxa Properties Inc,NOUMT PEVUZVUXXA PROPERTIES,3,0,1,1,1,,Canada,Toronto,Toronto,M4S1H2,M4S 1H2    
 30D93D1,EDF60CF,Noxua'z Gtuxx & Bet,Noxua'z Gtuxx & Bet,NOXUAZ GTUXX BET,3,0,1,1,1,,Canada,Toronto,Toronto,M5J2M4,M5J 2M4    
@@ -272,6 +355,7 @@ F186A0B,B7829A7,NTCC 1063,NTCC 1063,NTCC 1063,3,0,1,1,1,,Canada,Etobicoke,Etobic
 CDAF422,3CB8DB6,NTCC 1346 C/O Zhaxtat Canadian Properties Ltd.,NTCC 1346 C/O Zhaxtat Canadian Properties Ltd.,NTCC 1346 C O ZHAXTAT CANADIAN PROPERTIES,3,0,1,1,1,,Canada,Toronto,Toronto,M5V2W7,M5V 2W7    
 F749093,8B3B117,NTCC 794,NTCC 794,NTCC 794,3,0,1,1,1,,Canada,Toronto,Toronto,M4N2L1,M4N 2L1    
 7D6528A,11F1118,NTCC 863,NTCC 863,NTCC 863,3,0,1,1,1,,Canada,Scarborough,Scarborough,M1S4V6,M1S 4V6    
+33623A1,5E4DE50,NTCC 868,NTCC 868,NTCC 868,3,0,1,1,1,,Canada,Toronto,Toronto,M6M5E7,M6M 5E7    
 7D77956,C7B7444,Nuc Nec Nexx Limited Bettmatzhub,Nuc Nec Nexx Limited Bettmatzhub,NUC NEC NEXX BETTMATZHUB,3,0,1,1,1,,Canada,Dartmouth,DARTMOUTH,B3A4N3,B3A 4N3    
 3EFF5D3,FA1BC37,Numucubexuté St-Chtyzoztona,Numucubexuté St-Chtyzoztona,NUMUCUBEXUTE ST CHTYZOZTONA,3,0,1,1,1,,Canada,St-Chrysotome,St-Chrysotome,J0S1R0,J0S 1R0    
 A876AAB,64CF549,Numutaneup Company/Feutxufa,Numutaneup Company/Feutxufa,NUMUTANEUP FEUTXUFA,3,0,1,1,1,,Canada,Peterborough,Peterborough,K9J1Z2,K9J 1Z2    
@@ -286,15 +370,22 @@ CB7E421,B90E59C,Obatetumg Amgumaatz,Obatetumg Amgumaatz,OBATETUMG AMGUMAATZ,3,0,
 AFDF462,89F3F24,Oek Tatteca Xomg Tatn Ceta,Oek Tatteca Xomg Tatn Ceta,OEK TATTECA XOMG TATN CETA,3,0,1,1,1,,Canada,Orillia,Orillia,L3V3B9,L3V 3B9    
 82662F4,C8269D9,Oma Yotk Street Inc.,Oma Yotk Street Inc.,OMA YOTK STREET,3,0,1,1,1,,Canada,Toronto,Toronto,M2N7E4,M2N 7E4    
 24A1FE7,B6A3A43,Omyx Mechanical,Omyx Mechanical,OMYX MECHANICAL,3,0,1,1,1,,Canada,Brampton,Brampton,L6T4M4,L6T 4M4    
+24A1FE7,DC85AFF,Omyx Mechanical,OMYX MECHANICAL,OMYX MECHANICAL,3,0,1,1,1,,Canada,Brampton,BRAMPTON,L6T4M4,L6T 4M4    
+24A1FE7,DC85AFF,Omyx Mechanical,OMYX MECHANICAL,OMYX MECHANICAL,3,0,1,1,1,,Canada,Brampton,BRAMPTON,L6T4M4,L6T 4M4    
 63CCFBC,B6A3A43,OMYX Mechanical Limited,Omyx Mechanical,OMYX MECHANICAL,3,0,1,1,1,,Canada,Brampton,Brampton,L6T4M4,L6T 4M4    
+63CCFBC,DC85AFF,OMYX Mechanical Limited,OMYX MECHANICAL,OMYX MECHANICAL,3,0,1,1,1,,Canada,Brampton,BRAMPTON,L6T4M4,L6T 4M4    
+63CCFBC,DC85AFF,OMYX Mechanical Limited,OMYX MECHANICAL,OMYX MECHANICAL,3,0,1,1,1,,Canada,Brampton,BRAMPTON,L6T4M4,L6T 4M4    
 E5F06AD,B06C087,OTCE 12 Neum,OTCE 12 Neum,OTCE 12 NEUM,3,0,1,1,1,,Canada,Toronto,Toronto,M4E2S2,M4E 2S2    
 9196210,AA0541E,Oxfotp Properties Group,OXFOTP PROPERTIES GROUP,OXFOTP PROPERTIES GROUP,3,0,1,1,1,,Canada,Toronto,TORONTO,M5C2J1,M5C 2J1    
+9196210,CA7FB8E,Oxfotp Properties Group,OXFOTP PROPERTIES GROUP,OXFOTP PROPERTIES GROUP,3,0,1,1,1,,Canada,Toronto,TORONTO,M5C2J1,M5C 2J1    
+9196210,FAD6BD9,Oxfotp Properties Group,OXFOTP PROPERTIES GROUP,OXFOTP PROPERTIES GROUP,3,0,1,1,1,,Canada,Toronto,TORONTO,M5C2J1,M5C 2J1    
 528F857,BD6952A,Paatfuaxp 13 GB Inc. (210 Paatfuaxp Tp),Paatfuaxp 13 GB Inc. (210 Paatfuaxp Tp),PAATFUAXP 13 GB 210 PAATFUAXP TP,3,0,1,1,1,,Canada,Toronto,Toronto,M5J0B6,M5J 0B6    
 04EB302,A749DA3,Panemp Eut,Panemp Eut,PANEMP EUT,3,0,1,1,1,,Canada,Mississauga,Mississauga,L5T2H4,L5T 2H4    
 C33FC47,57DEF42,Pem Tazupamca,Pem Tazupamca,PEM TAZUPAMCA,3,0,1,1,1,,Canada,Toronto,Toronto,M3B2A3,M3B 2A3    
 17FD951,5BA8F8A,Pettnouth Camttex B&H Inc.,Pettnouth Camttex B&H Inc.,PETTNOUTH CAMTTEX B H,3,0,1,1,1,,Canada,Eastern Passage,EASTERN PASSAGE,B3G1M6,B3G 1M6    
 010BFA7,567367A,Pettnouth Ctozzumg 14 Neztat LP,Pettnouth Ctozzumg 14 Neztat LP,PETTNOUTH CTOZZUMG 14 NEZTAT,3,0,1,1,1,,Canada,Dartmouth,Dartmouth,B3B0C8,B3B 0C8    
 9134C46,9816AAE,Po Xobztat,Po Xobztat,PO XOBZTAT,3,0,1,1,1,,Canada,Eastern Passage,Eastern Passage,B3G1M4,B3G 1M4    
+A14549F,4DE9555,Pomut Tuna,POMUT TUNA,POMUT TUNA,3,0,1,1,1,,Canada,Concord,CONCORD,L4K3C7,L4K 3C7    
 7E0301D,9A6D224,Pon Xube,Pon Xube,PON XUBE,3,0,1,1,1,,Canada,Toronto,Toronto,M9C1V7,M9C 1V7    
 3C4A296,126304F,Pougxez Plumbing and Haetumg,Pougxez Plumbing and Haetumg,POUGXEZ PLUMBING AND HAETUMG,3,0,1,1,1,,Canada,Vibank,Vibank,S0G4Y0,S0G 4Y0    
 C48CC8B,57BF35F,Powmzvuaw Xomg Tatn Ceta Centre,Powmzvuaw Xomg Tatn Ceta Centre,POWMZVUAW XOMG TATN CETA CENTRE,3,0,1,1,1,,Canada,North York,North York,M3J1M7,M3J 1M7    
@@ -315,6 +406,7 @@ E0ED074,FA75BB8,Tagume Eutbott Euthotuty,Tagume Eutbott Euthotuty,TAGUME EUTBOTT
 A79824B,5C5BF69,Tap xuma Mechanical/Fxowxbatt Inc.,Tap xuma Mechanical/Fxowxbatt Inc.,TAP XUMA MECHANICAL FXOWXBATT,3,0,1,1,1,,Canada,Mississauga,Mississauga,L5T1E1,L5T 1E1    
 3E490F7,DC43668,Tapboutma Netkhen Cochtema Co-owmatzhub,Tapboutma Netkhen Cochtema Co-owmatzhub,TAPBOUTMA NETKHEN COCHTEMA OWMATZHUB,3,0,1,1,1,,Canada,Markham,Markham,L3R0C9,L3R 0C9    
 7FE25CF,D4B9FFD,Tapboutma Netkhen Coxunbue Co-owmatzhub,Tapboutma Netkhen Coxunbue Co-owmatzhub,TAPBOUTMA NETKHEN COXUNBUE OWMATZHUB,3,0,1,1,1,,Canada,Markham,Markham,L3R0C9,L3R 0C9    
+7FE25CF,D4B9FFD,Tapboutma Netkhen Coxunbue Co-owmatzhub,Tapboutma Netkhen Coxunbue Co-owmatzhub,TAPBOUTMA NETKHEN COXUNBUE OWMATZHUB,3,0,1,1,1,,Canada,Markham,Markham,L3R0C9,L3R 0C9    
 015FD5E,A291BEB,Tattuat Properties,TATTUAT PROPERTIES,TATTUAT PROPERTIES,3,0,1,1,1,,Canada,Toronto,TORONTO,M5A1J3,M5A 1J3    
 F74DD87,310CAC3,Tavate (Zezk),Tavate (Zezk),TAVATE ZEZK,3,0,1,1,1,,Canada,Regina,REGINA,S4S0A3,S4S 0A3    
 15C1A05,51FA80B,Tazatvout Properties Ltd.,Tazatvout Properties Ltd.,TAZATVOUT PROPERTIES,3,0,1,1,1,,Canada,Ottawa,Ottawa,K2P1R3,K2P 1R3    
@@ -324,13 +416,25 @@ B9BDC52,9BDA956,"TBB UMVAZTNAMTZ  INC., BZZ UMVAZTNAMTZ INC.and THE","TBB UMVAZT
 5C3B223,46ED0F4,Tetenegoucha Btawaty,Tetenegoucha Btawaty,TETENEGOUCHA BTAWATY,3,0,1,1,1,,Canada,Tatamagouche,Tatamagouche,B0K1V0,B0K 1V0    
 E57FD1B,1B0DC71,Tey Cxunetuzetuom,Tey Cxunetuzetuom,TEY CXUNETUZETUOM,3,0,1,1,1,,Canada,Deison,Deison,J5B1X5,J5B 1X5    
 38F61D5,BB6B752,Thatno Coox Mechanical,THATNO COOX MECHANICAL LTD,THATNO COOX MECHANICAL,3,0,1,1,1,,Canada,Etobicoke,ETOBICOKE,M9W4P1,M9W 4P1    
+38F61D5,BB6B752,Thatno Coox Mechanical,THATNO COOX MECHANICAL LTD,THATNO COOX MECHANICAL,3,0,1,1,1,,Canada,Etobicoke,ETOBICOKE,M9W4P1,M9W 4P1    
 24FE49E,BF415B8,The Bekatfuaxp -Paatfuaxp 11 GB Inc.,The Bekatfuaxp -Paatfuaxp 11 GB Inc.,THE BEKATFUAXP PAATFUAXP 11 GB,3,0,1,1,1,,Canada,Toronto,Toronto,M5J0B6,M5J 0B6    
+086F207,04E9439,The  Canada  Xufa  Ezzutemca  Company,The Canada Xufa Ezzutemca Company.,THE CANADA XUFA EZZUTEMCA,3,0,1,1,1,,Canada,Toronto,Toronto,M2N6L9,M2N 6L9    
+086F207,DC44E4D,The  Canada  Xufa  Ezzutemca  Company,The Canada Xufa Ezzutemca Company,THE CANADA XUFA EZZUTEMCA,3,0,1,1,1,,Canada,Toronto,Toronto,M2N6L9,M2N 6L9    
+C828B7E,04E9439,The Canada Xufa Ezzutemca Company.,The Canada Xufa Ezzutemca Company.,THE CANADA XUFA EZZUTEMCA,3,0,1,1,1,,Canada,Toronto,Toronto,M2N6L9,M2N 6L9    
+C828B7E,DC44E4D,The Canada Xufa Ezzutemca Company.,The Canada Xufa Ezzutemca Company,THE CANADA XUFA EZZUTEMCA,3,0,1,1,1,,Canada,Toronto,Toronto,M2N6L9,M2N 6L9    
+E64D1E0,04E9439,The Canada Xufa Ezzutemca Company,The Canada Xufa Ezzutemca Company.,THE CANADA XUFA EZZUTEMCA,3,0,1,1,1,,Canada,Toronto,Toronto,M2N6L9,M2N 6L9    
+E64D1E0,DC44E4D,The Canada Xufa Ezzutemca Company,The Canada Xufa Ezzutemca Company,THE CANADA XUFA EZZUTEMCA,3,0,1,1,1,,Canada,Toronto,Toronto,M2N6L9,M2N 6L9    
+F2F7FC6,7184EBE,The Canada Xufa Ezzutemca,The Canada Xufa Ezzutemca,THE CANADA XUFA EZZUTEMCA,3,0,1,1,1,,Canada,Mississauga,Mississauga,L5B1M2,L5B 1M2    
+447774C,4E0673D,The Canada Xufa Ezzutemca Company c/o GWX Taexty,The Canada Xufa Ezzutemca Company c/o GWX Taexty,THE CANADA XUFA EZZUTEMCA C O GWX TAEXTY,3,0,1,1,1,,Canada,Toronto,Toronto,M5G1R8,M5G 1R8    
 8EB2129,00E10DD,The Cenbbaxx- TEZ 309CE Corp.,The Cenbbaxx- TEZ 309CE Corp.,THE CENBBAXX TEZ 309CE,3,0,1,1,1,,Canada,Toronto,Toronto,M5J0B6,M5J 0B6    
 5B789E1,EE79657,The Cepuxxec Feutvuaw Cotbotetap Limited,The Cepuxxec Feutvuaw Cotbotetap Limited,THE CEPUXXEC FEUTVUAW COTBOTETAP,3,0,1,1,1,,Canada,Toronto,TORONTO,M5J0G4,M5J 0G4    
 4D42089,6E1F2DF,The Chtomucxa Hatexp Btumtumg Service,The Chtomucxa Hatexp Btumtumg Service,THE CHTOMUCXA HATEXP BTUMTUMG SERVICE,3,0,1,1,1,,Canada,Bedford,Bedford,B4B1J6,B4B 1J6    
 BEB7776,D9FDA90,The Etnout Group,The Etnout Group,THE ETNOUT GROUP,3,0,1,1,1,,Canada,Halifax,HALIFAX,B3J2T3,B3J 2T3    
 E1E48E6,2FEB79A,Tobatte Place Tatutanamt Xopga Inc.,TOBATTE PLACE TATUTANAMT XOPGA INC,TOBATTE PLACE TATUTANAMT XOPGA,3,0,1,1,1,,Canada,Barrie,BARRIE,L4N9E4,L4N 9E4    
+2697140,5E69222,Ttema Canada UXC,TTEMA CANADA UXC,TTEMA CANADA UXC,3,0,1,1,1,,CA,Markham,MARKHAM,L3R8E3,L3R 8E3    
 943AAE9,E1C8E6E,Ttemzcomtumamtex Btumtumg 2015 G.B.,Ttemzcomtumamtex Btumtumg 2015 G.B.,TTEMZCOMTUMAMTEX BTUMTUMG 2015 G B,3,0,1,1,1,,Canada,Saint-Laurent,SAINT-LAURENT,H4N1X7,H4N 1X7    
+87C7A67,C461DA3,Ttuovazt Taexty Epvuzotz Inc.,Ttuovazt Taexty Epvuzotz Inc.,TTUOVAZT TAEXTY EPVUZOTZ,3,0,1,1,1,,Canada,Toronto,Toronto,M5J1T1,M5J 1T1    
+87C7A67,C461DA3,Ttuovazt Taexty Epvuzotz Inc.,Ttuovazt Taexty Epvuzotz Inc.,TTUOVAZT TAEXTY EPVUZOTZ,3,0,1,1,1,,Canada,Toronto,Toronto,M5J1T1,M5J 1T1    
 87C7A67,C461DA3,Ttuovazt Taexty Epvuzotz Inc.,Ttuovazt Taexty Epvuzotz Inc.,TTUOVAZT TAEXTY EPVUZOTZ,3,0,1,1,1,,Canada,Toronto,Toronto,M5J1T1,M5J 1T1    
 C20C0C0,4780E16,Ttuovazt Taexty Epvuzotz Inc./21 Kumg Aquutuaz Inc.,Ttuovazt Taexty Epvuzotz Inc./21 Kumg Aquutuaz Inc.,TTUOVAZT TAEXTY EPVUZOTZ 21 KUMG AQUUTUAZ,3,0,1,1,1,,Canada,Toronto,Toronto,M5J1T1,M5J 1T1    
 AA194B6,0D3F328,Tuchcteft Properties,Tuchcteft Properties Ltd,TUCHCTEFT PROPERTIES,3,0,1,1,1,,Canada,Ottawa,Ottawa,K1G4K1,K1G 4K1    
@@ -339,6 +443,7 @@ BB29C71,A02A32D,Tupgavuaw XTCC,Tupgavuaw XTCC,TUPGAVUAW XTCC,3,0,1,1,1,,Canada,S
 3CC848D,328AFB9,TZCC 1597,TZCC 1597,TZCC 1597,3,0,1,1,1,,Canada,TORONTO,TORONTO,M2N7C5,M2N 7C5    
 9165E56,D562B75,TZCC 2955,TZCC 2955,TZCC 2955,3,0,1,1,1,,Canada,Toronto,Toronto,M5A0K9,M5A 0K9    
 16BE70C,5DF352E,U.G. Umvaztnamt Management Ltd,U.G. Umvaztnamt Management Ltd,U G UMVAZTNAMT MANAGEMENT,3,0,1,1,1,,Canada,Toronto,Toronto,M5J2H7,M5J 2H7    
+ABE0D55,9F490A7,U.G Umvaztnamt Management Ltd.,U.G Umvaztnamt Management Ltd.,U G UMVAZTNAMT MANAGEMENT,3,0,1,1,1,,Canada,Toronto,Toronto,M5E1G4,M5E 1G4    
 2F23CB8,55FE760,Ubzttaat Cteft Btawumg,Ubzttaat Cteft Btawumg,UBZTTAAT CTEFT BTAWUMG,3,0,1,1,1,,Canada,Charlottetown,Charlottetown,C1A2V6,C1A 2V6    
 210AF69,C326381,Ummocom Connuzzuomat-,Ummocom Connuzzuomat-,UMMOCOM CONNUZZUOMAT,3,0,1,1,1,,Canada,Toronto,Toronto,M4M1A5,M4M 1A5    
 8E1C036,4A741B1,Umzught Technologies Construction Corp.,Umzught Technologies Construction Corp.,UMZUGHT TECHNOLOGIES CONSTRUCTION,3,0,1,1,1,,Canada,Toronto,Toronto,M9V4R9,M9V 4R9    
@@ -346,12 +451,14 @@ DCDB0BA,100FA29,University Plumbing & Haetumg ltd.,University Plumbing & Haetumg
 101060F,0B62EAD,Upaex Comctata Ltd.,Upaex Comctata Ltd.,UPAEX COMCTATA,3,0,1,1,1,,Canada,Southwest Mabou,Southwest Mabou,B0E1X0,B0E 1X0    
 2807079,9019D0B,UWK Haexth Centre,UWK Haexth Centre,UWK HAEXTH CENTRE,3,0,1,1,1,,Canada,Halifax,HALIFAX,B3K6R8,B3K 6R8    
 4870A96,D855B49,Uxtuneta Mechanical Services Inc.,Uxtuneta Mechanical Services Inc.,UXTUNETA MECHANICAL SERVICES,3,0,1,1,1,,Canada,Mississauga,Mississauga,L4X2G6,L4X 2G6    
+DE07C09,7186F0B,Uzoxux -Nemufectutumg/GTBtocazzumg/Woopbuma Natexz,Uzoxux -Nemufectutumg/GTBtocazzumg/Woopbuma Natexz,UZOXUX NEMUFECTUTUMG GTBTOCAZZUMG WOOPBUMA NATEXZ,3,0,1,1,1,,Canada,Markham,Markham,L6E1A4,L6E 1A4    
 3F7CB30,9C3F200,Vage Holdings,Vage Holdings,VAGE HOLDINGS,3,0,1,1,1,,Canada,Halifax,HALIFAX,B3S0E5,B3S 0E5    
 CFDC0E0,41273F0,Vaomaat Canada Zefaty Systems Inc.,Vaomaat Canada Zefaty Systems Inc.,VAOMAAT CANADA ZEFATY SYSTEMS,3,0,1,1,1,,Canada,Markham,MARKHAM,L3R5C2,L3R 5C2    
 FD606E8,2D92590,Vaxocuty Mechanical Solutions,Vaxocuty Mechanical Solutions,VAXOCUTY MECHANICAL SOLUTIONS,3,0,1,1,1,,Canada,Regina,Regina,S4R2G4,S4R 2G4    
 F701BF5,9C13E2D,VT Mechanical Solutions Inc.,VT MECHANICAL SOLUTIONS INC,VT MECHANICAL SOLUTIONS,3,0,1,1,1,,ca,Ajax,AJAX,L1T3A3,L1T 3A3    
 C88335A,2CA8FE8,VTN Mechanical,VTN Mechanical,VTN MECHANICAL,3,0,1,1,1,,Canada,Etobicoke,Etobicoke,M9C2K5,M9C 2K5    
 30E80D6,3ABE890,Vuamme Naet - Zofume Foopz Inc.,Vuamme Naet - Zofume Foopz Inc.,VUAMME NAET ZOFUME FOOPZ,3,0,1,1,1,,Canada,Scarborough,SCARBOROUGH,M1S3A7,M1S 3A7    
+30E80D6,3ABE890,Vuamme Naet - Zofume Foopz Inc.,Vuamme Naet - Zofume Foopz Inc.,VUAMME NAET ZOFUME FOOPZ,3,0,1,1,1,,Canada,Scarborough,Scarborough,M1S3A7,M1S 3A7    
 4C92EC7,27B6DD3,VUE Teux c/o Eumzwotth Facility Service Pazk,VUE Teux c/o Eumzwotth Facility Service Pazk,VUE TEUX C O EUMZWOTTH FACILITY SERVICE PAZK,3,0,1,1,1,,Canada,Ottawa,Ottawa,K2E7Z2,K2E 7Z2    
 7F3723B,4821EC3,"Vuezyztanz Technologies, Toronto","Vuezyztanz Technologies, Toronto",VUEZYZTANZ TECHNOLOGIES TORONTO,3,0,1,1,1,,Canada,Toronto,Toronto,M1B5K2,M1B 5K2    
 A400A2A,CD387E6,WAZTOM GETPAMZ,WAZTOM GETPAMZ,WAZTOM GETPAMZ,3,0,1,1,1,,Canada,TORONTO,TORONTO,M6L3C1,M6L 3C1    
@@ -360,10 +467,13 @@ A400A2A,CD387E6,WAZTOM GETPAMZ,WAZTOM GETPAMZ,WAZTOM GETPAMZ,3,0,1,1,1,,Canada,T
 DF7857B,F2666E9,Wetmat Industries,Wetmat Industries,WETMAT INDUSTRIES,3,0,1,1,1,,Canada,Regina,Regina,S4W4Z6,S4W 4Z6    
 78397F9,6F673A1,Wevatxy Nemot,Wevatxy Nemot,WEVATXY NEMOT,3,0,1,1,1,,Canada,Regina,Regina,S4P1C2,S4P 1C2    
 57329EB,4FA7042,Wexkat'z Wetat Systems,Wexkat'z Wetat Systems,WEXKATZ WETAT SYSTEMS,3,0,1,1,1,,Canada,Kipling,KIPLING,S0G2S0,S0G 2S0    
+1A1FF14,2D0DB8A,WoopGtaam,WoopGtaam,WOOPGTAAM,3,0,1,1,1,,Canada,Toronto,TORONTO,M4J1L2,M4J 1L2    
 EF324A1,09D7AF9,WPK Management,WPK Management,WPK MANAGEMENT,3,0,1,1,1,,Canada,Toronto,Toronto,M5B1T8,M5B 1T8    
 45BCA09,C2DFEBD,Wuttumgtom Properties Limited  Ontario Region,Wuttumgtom Properties Limited Ontario Region,WUTTUMGTOM PROPERTIES ONTARIO REGION,3,0,1,1,1,,Canada,Toronto,Toronto,M4T2S5,M4T 2S5    
 D0A3E54,C341DD2,X.G. Ttezk Holdings Limited,X.G. Ttezk Holdings Limited,X G TTEZK HOLDINGS,3,0,1,1,1,,Canada,Yarmouth,YARMOUTH,B5A1E9,B5A 1E9    
 A717A0A,2AB026B,X.J. Bettom Mechanical Inc.,X. J. BETTOM MECHANICAL INC.,X J BETTOM MECHANICAL,3,0,1,1,1,,Canada,Ancaster,ANCASTER,L9G4V5,L9G 4V5    
+A717A0A,2AB026B,X.J. Bettom Mechanical Inc.,X. J. BETTOM MECHANICAL INC.,X J BETTOM MECHANICAL,3,0,1,1,1,,Canada,Ancaster,ANCASTER,L9G4V5,L9G 4V5    
+A717A0A,C10EA5E,X.J. Bettom Mechanical Inc.,X J BETTOM MECHANICAL INC,X J BETTOM MECHANICAL,3,0,1,1,1,,Canada,Ancaster,ANCASTER,L9G4V5,L9G 4V5    
 9BE3A51,36A4635,X.J Tobuchaeu & Zom Fuzhatuaz Ltd.,X.J Tobuchaeu & Zom Fuzhatuaz Ltd.,X J TOBUCHAEU ZOM FUZHATUAZ,3,0,1,1,1,,Canada,Middleton,Middleton,B0S1P0,B0S 1P0    
 4245752,C9B7E56,XAV MYC LP,XAV MYC LP,XAV MYC,3,0,1,1,1,,Canada,TORONTO,TORONTO,M6A3B4,M6A 3B4    
 8E8FC11,5C0F1CF,XAX Ucomuc Properties Inc.,XAX Ucomuc Properties Inc.,XAX UCOMUC PROPERTIES,3,0,1,1,1,,Canada,Regina,Regina,S4P2H8,S4P 2H8    
@@ -388,6 +498,10 @@ B5EF994,E1A0D8F,Zemte Netue Zamuot Cutuzamz Hona,Zemte Netue Zamuot Cutuzamz Hon
 D2D4C4F,ABC31BB,ZezkAmatgy Incorporated,ZezkAmatgy Incorporated,ZEZKAMATGY INCORPORATED,3,0,1,1,1,,Canada,Regina,Regina,S4P4K5,S4P 4K5    
 F25BBF1,4F7CC7E,Zezketchawem Haexth Euthotuty - Betkzupa,Zezketchawem Haexth Euthotuty - Betkzupa,ZEZKETCHAWEM HAEXTH EUTHOTUTY BETKZUPA,3,0,1,1,1,,Canada,Regina,REGINA,S4S3B4,S4S 3B4    
 395632E,79206FE,ZezkTax,ZezkTax,ZEZKTAX,3,0,1,1,1,Contract #CW2259399,Canada,Regina,Regina,S4P3Y2,S4P 3Y2    
+3B6A7A1,BF8E9AE,Zhewcot Ltd.,ZHEWCOT LTD,ZHEWCOT,3,0,1,1,1,,Canada,Toronto,TORONTO,M9W1M7,M9W 1M7    
+0DA92BE,CC6E5B6,ZMC-Xevexum Obatetuomz&Neumtamemca Inc,ZMC - XEVEXUM OBATETUOMZ & NEUMTAMEMCA INC.,ZMC XEVEXUM OBATETUOMZ NEUMTAMEMCA,3,0,1,1,1,,Canada,Ottawa,OTTAWA,K1Z1G3,K1Z 1G3    
+0DA92BE,E7E42F6,ZMC-Xevexum Obatetuomz&Neumtamemca Inc,ZMC - XEVEXUM OBATETUOMZ & NEUMTAMEMCA INC.,ZMC XEVEXUM OBATETUOMZ NEUMTAMEMCA,3,0,1,1,1,,Canada,Ottawa,OTTAWA,K1Z1G3,K1Z 1G3    
+0DA92BE,E7E42F6,ZMC-Xevexum Obatetuomz&Neumtamemca Inc,ZMC - XEVEXUM OBATETUOMZ & NEUMTAMEMCA INC.,ZMC XEVEXUM OBATETUOMZ NEUMTAMEMCA,3,0,1,1,1,,Canada,Ottawa,OTTAWA,K1Z1G3,K1Z 1G3    
 DF71939,E4867D1,Zofume Foopz Inc. (Btenbtom),Zofume Foopz Inc. (Btenbtom),ZOFUME FOOPZ BTENBTOM,3,0,1,1,1,,Canada,Brampton,BRAMPTON,L6T1B9,L6T 1B9    
 343B494,80D9ED4,Zofume Foopz Inc. (Nuzzuzzeuge),Zofume Foopz Inc. (Nuzzuzzeuge),ZOFUME FOOPZ NUZZUZZEUGE,3,0,1,1,1,,Canada,Mississauga,Mississauga,L4V1C7,L4V 1C7    
 7903E4A,2F25CA7,Zofume Foopz Inc. (Xompom),Zofume Foopz Inc. (Xompom),ZOFUME FOOPZ XOMPOM,3,0,1,1,1,,Canada,London,LONDON,N5Z1H5,N5Z 1H5    
@@ -398,71 +512,218 @@ C2309C9,C0B32A3,Zoutca Etxemtuc - Noumt Umuecka,Zoutca Etxemtuc - Noumt Umuecka,
 C21372B,87904E5,Zubat-Bufft Zmeckz Corp.,Zubat-Bufft Zmeckz Corp.,ZUBAT BUFFT ZMECKZ,3,0,1,1,1,,Canada,Mississauga,Mississauga,L5S1N8,L5S 1N8    
 82A86BF,4E73B4D,ZUNEC XOPGA,ZUNEC XOPGA,ZUNEC XOPGA,3,0,1,1,1,,Canada,SARNIA,SARNIA,N7S5M4,N7S 5M4    
 0FBBCFF,844FCA8,Zympucet du 66-70 St-Hamtu,Zympucet du 66-70 St-Hamtu,ZYMPUCET DU 66 70 ST HAMTU,3,0,1,1,1,,Canada,Riviere-du-Loup,Riviere-du-Loup,G5R3Z5,G5R 3Z5    
-84901DF,38884C8,Amvuto Commaxuomz,Amvuto Commaxuomz,AMVUTO COMMAXUOMZ,2,1,0,0,0,,,Boisbriand,,J7H1H7,           
+DD5AF52,F03CECE,9252-5323 Quebec Inc.,9252-5323 Quebec Inc.,9252 5323 QUEBEC,2,1,1,0,0,Canada,Canada,Bureau 600,MONTREAL,H2Y2G3,H3C 1L9    
 1DADD3A,2EA6825,Axttana Eut Systems Ltd.,AXTTANA EUT SYSTEMS LTD,AXTTANA EUT SYSTEMS,2,0,1,0,1,,Canada,Scarborough,TORONTO,M1X1N4,M1X 1N4    
 7D28807,ED12C9C,Batom Vechom Inc,Batom Vechom Inc,BATOM VECHOM,2,0,1,0,1,,Canada,Laconception,LA CONCEPTION,J0T1M0,J0T 1M0    
-2054EF7,5C3D968,Betze Kaxxy / Cetu-Cem Coobatetuva Honaz Inc.,Betze Kaxxy / Cetu-Cem Coobatetuva Honaz Inc.,BETZE KAXXY CETU CEM COOBATETUVA HONAZ,2,1,0,0,0,,,Etobicoke,,M8V3Y9,           
-0FF2BC3,3ED77D3,Bucoma Pounut Holdings Inc.,Bucoma Pounut Holdings Inc.,BUCOMA POUNUT HOLDINGS,2,1,0,0,0,Canada,Canada,Montréal,Ottawa,H3B3C3,K1V 7Z4    
+94BA188,F2D9CF2,Butmec Btopuca Limited,Butmec Btopuca Limited,BUTMEC BTOPUCA,2,0,1,0,1,,Canada,Vaughan,Vaughn,L4H3H1,L4H 3H1    
+D1C28B1,6202996,Bxeck & NcPomexp *,Bxeck & NcPomexp *,BXECK NCPOMEXP,2,0,1,1,0,,Canada,Ottawa,Ottawa,K1H1E1,K2J 4S1    
+DA432F2,3FC2A04,BXECK & NCPOMEXP LIMITED,BXECK & NCPOMEXP LTD,BXECK NCPOMEXP,2,0,1,1,0,,Canada,Scarborough,SCARBOROUGH,M1X1E4,M1X 2E4    
+DFE9843,B73DC34,Canada HBZ Homaywaxx Umtx.,CANADA HBZ HOMAYWAXX UMT'X,CANADA HBZ HOMAYWAXX UMTX,2,1,0,1,0,USA,United States,El Paso,EL PASO,799982304,79998      
+18B25C7,6F96C77,Cebtaut LP,CEBTAUT,CEBTAUT,2,0,1,1,0,,Canada,Halifax,HALIFAX,B3J0C5,B3M 4H7    
+18B25C7,6F96C77,Cebtaut LP,CEBTAUT,CEBTAUT,2,0,1,1,0,,Canada,Halifax,HALIFAX,B3J0C5,B3J 3L8    
 7F6314E,CD26CF7,Cebtaut Limited Bettmatzhub,CEBTAUT LIMITED BETTMATZHUB,CEBTAUT BETTMATZHUB,2,0,1,1,0,,Canada,Toronto,TORONTO,M5E1W1,M1J 1J3    
+3BA644A,91DFD65,Cetnucheax Amgumaatumg Ltd.,Cetnucheax Amgumaatumg Ltd.,CETNUCHEAX AMGUMAATUMG,2,0,1,1,0,,Canada,Mississauga,Mississauga,L4X2G6,L4X 2G1    
+A96EC0F,1B3D637,Cettuat Connatcuex Service,CETTUAT CONNATCUEX SERVICE,CETTUAT CONNATCUEX SERVICE,2,0,0,1,1,,Canada,Mississauga,MISSISSAUGA,L5S1Y8,L5S 1Y8    
 A78BF29,E12EEB5,Church Btawumg,Church Btawumg,CHURCH BTAWUMG,2,0,1,1,0,,Canada,Wolfville,WOLFVILLE,B4P1C4,B4P 1C8    
+0B2C7B3,2D83331,Coox Chack Eut Computuomumg,COOX CHACK EUT COMPUTUOMUMG LTD,COOX CHACK EUT COMPUTUOMUMG,2,0,1,0,1,,Canada,Etobicoke,TORONTO,M8Z2L8,M8Z 2L8    
 0B2C7B3,2D83331,Coox Chack Eut Computuomumg,COOX CHACK EUT COMPUTUOMUMG LTD,COOX CHACK EUT COMPUTUOMUMG,2,0,1,0,1,,Canada,Etobicoke,TORONTO,M8Z2L8,M8Z 2L8    
 EFF87AF,F783507,Coxxuatz International*,COXXUATZ INTERNATIONAL,COXXUATZ INTERNATIONAL,2,0,1,1,0,,Canada,Toronto,TORONTO,M5J2V1,M5J 2T3    
 4F3095A,869A565,CXUC & CXEC,CXUC & CXEC,CXUC CXEC,2,0,1,1,0,,Canada,Toronto,TORONTO,M5B2H4,M5S 2S3    
 0BBDBD1,7DFDE7C,Ebbxuap Systems Technologies Inc.,EBBXUAP SYSTEMS TECHNOLOGIES INC.,EBBXUAP SYSTEMS TECHNOLOGIES,2,0,1,1,0,,Canada,Woodbridge,Woodbridge,L4L6E1,L4L 5W4    
+0BBDBD1,EFE6BDB,Ebbxuap Systems Technologies Inc.,EBBXUAP SYSTEMS TECHNOLOGIES INC,EBBXUAP SYSTEMS TECHNOLOGIES,2,0,1,1,0,,Canada,Woodbridge,WOODBRIDGE,L4L6E1,L4L 5W4    
+0BBDBD1,EFE6BDB,Ebbxuap Systems Technologies Inc.,EBBXUAP SYSTEMS TECHNOLOGIES INC,EBBXUAP SYSTEMS TECHNOLOGIES,2,0,1,1,0,,CA,Woodbridge,WOODBRIDGE,L4L6E1,L4L 5W4    
+B874689,EFE6BDB,EBBXUAP SYSTEMS  TECHNOLOGIES INC.,EBBXUAP SYSTEMS TECHNOLOGIES INC,EBBXUAP SYSTEMS TECHNOLOGIES,2,0,1,1,0,,Canada,Woodbridge,WOODBRIDGE,L4L5W4,L4L 6E1    
 5D1DDE4,14C909B,Emttun Mechanical,EMTTUN MECHANICAL LTD,EMTTUN MECHANICAL,2,0,1,1,0,,Canada,Brampton,BRAMPTON,L6T5C8,L6T 5C9    
-3AE5CA2,3806F94,Eut Cuttamt Umpuzttuex Inc.,Eut Cuttamt Umpuzttuex Inc.,EUT CUTTAMT UMPUZTTUEX,2,1,0,0,0,,,Toronto,,M6M3K8,           
+51629AF,A3E0A94,Eumzwotth Inc.,EUMZWOTTH INC,EUMZWOTTH,2,1,1,0,0,Canada,Canada,Mississauga,TORONTO,L4V1H3,M4A 1X4    
+51629AF,A3E0A94,Eumzwotth Inc.,EUMZWOTTH INC,EUMZWOTTH,2,1,1,0,0,Canada,Canada,Mississauga,TORONTO,L4V1H3,M4A 1X4    
+51629AF,F62EA71,Eumzwotth Inc.,EUMZWOTTH INC,EUMZWOTTH,2,1,1,0,0,Canada,Canada,Mississauga,TORONTO,L4V1H3,M4A 1X4    
+51629AF,F62EA71,Eumzwotth Inc.,EUMZWOTTH INC,EUMZWOTTH,2,1,1,0,0,Canada,Canada,Mississauga,NIAGARA ON THE LAKE,L4V1H3,L0S 1J0    
+51629AF,F62EA71,Eumzwotth Inc.,EUMZWOTTH INC,EUMZWOTTH,2,1,1,0,0,Canada,Canada,Mississauga,TORONTO,L4V1H3,M4A 1X4    
+51629AF,F62EA71,Eumzwotth Inc.,EUMZWOTTH INC,EUMZWOTTH,2,1,1,0,0,Canada,Canada,Mississauga,TORONTO,L4V1H3,M4A 1X4    
+51629AF,F62EA71,Eumzwotth Inc.,EUMZWOTTH INC,EUMZWOTTH,2,1,1,0,0,Canada,Canada,Mississauga,TORONTO,L4V1H3,M4A 1X4    
+51629AF,F62EA71,Eumzwotth Inc.,EUMZWOTTH INC,EUMZWOTTH,2,1,1,0,0,Canada,Canada,Mississauga,TORONTO,L4V1H3,M5C 2L7    
+A39AAAE,45EF056,Eumzwotth Inc.-,EUMZWOTTH INC,EUMZWOTTH,2,1,1,0,0,Canada,Canada,Toronto,MISSISSAUGA,M4A1X4,L4V 1H3    
+A39AAAE,F62EA71,Eumzwotth Inc.-,EUMZWOTTH INC,EUMZWOTTH,2,1,1,0,0,Canada,Canada,Toronto,NIAGARA ON THE LAKE,M4A1X4,L0S 1J0    
+04600F1,5F09A77,FUATE Taex Estate Cota Fund LP   c/o   Coxxuatz,FUATE Taex Estate Cota Fund LP c/o Coxxuatz,FUATE TAEX ESTATE COTA FUND C O COXXUATZ,2,0,1,1,0,,Canada,Toronto,TORONTO,M5J2V1,M5J 2T3    
+11EF99E,5F09A77,FUATE Taex Estate Cota Fund LP c/o  Coxxuatz,FUATE Taex Estate Cota Fund LP c/o Coxxuatz,FUATE TAEX ESTATE COTA FUND C O COXXUATZ,2,0,1,1,0,,Canada,Toronto,TORONTO,M5J2V1,M5J 2T3    
+295C59D,5F09A77,Fuate Taex Estate Cota Fund C/O Coxxuatz,FUATE Taex Estate Cota Fund LP c/o Coxxuatz,FUATE TAEX ESTATE COTA FUND C O COXXUATZ,2,0,1,1,0,,Canada,Toronto,TORONTO,M5J2V1,M5J 2T3    
+D4F6EE9,5F09A77,FUATE Taex  Estate  Cota Fund LP c/o  Coxxuatz,FUATE Taex Estate Cota Fund LP c/o Coxxuatz,FUATE TAEX ESTATE COTA FUND C O COXXUATZ,2,0,1,1,0,,Canada,Toronto,TORONTO,M5J2V1,M5J 2T3    
+F704696,5F09A77,FUATE Taex Estate Cota Fund LP c/o Coxxuatz,FUATE Taex Estate Cota Fund LP c/o Coxxuatz,FUATE TAEX ESTATE COTA FUND C O COXXUATZ,2,0,1,1,0,,Canada,Toronto,TORONTO,M5J2V1,M5J 2T3    
 2899F99,3D88474,GWX Taexty Epvuzotz Inc..,GWX Taexty Epvuzotz Inc .,GWX TAEXTY EPVUZOTZ,2,0,1,1,0,,Canada,Toronto,Toronto,M5G1R8,M5E 1G4    
+2899F99,BEE9694,GWX Taexty Epvuzotz Inc..,GWX Taexty Epvuzotz Inc.-,GWX TAEXTY EPVUZOTZ,2,0,1,1,0,,Canada,Toronto,Toronto,M5G1R8,M5E 1G4    
+2899F99,BEE9694,GWX Taexty Epvuzotz Inc..,GWX Taexty Epvuzotz Inc.-,GWX TAEXTY EPVUZOTZ,2,0,1,1,0,,Canada,Toronto,Toronto,M5G1R8,M5E 1G4    
+2899F99,C3965AA,GWX Taexty Epvuzotz Inc..,GWX Taexty Epvuzotz,GWX TAEXTY EPVUZOTZ,2,0,1,1,0,,Canada,Toronto,Toronto,M5G1R8,M5G 1R6    
 7D5BE92,3D88474,"GWX Taexty Epvuzotz Inc.,",GWX Taexty Epvuzotz Inc .,GWX TAEXTY EPVUZOTZ,2,0,1,1,0,,Canada,Toronto,Toronto,M2N7E9,M5E 1G4    
+7D5BE92,BEE9694,"GWX Taexty Epvuzotz Inc.,",GWX Taexty Epvuzotz Inc.-,GWX TAEXTY EPVUZOTZ,2,0,1,1,0,,Canada,Toronto,Toronto,M2N7E9,M5E 1G4    
+7D5BE92,BEE9694,"GWX Taexty Epvuzotz Inc.,",GWX Taexty Epvuzotz Inc.-,GWX TAEXTY EPVUZOTZ,2,0,1,1,0,,Canada,Toronto,Toronto,M2N7E9,M5E 1G4    
+7D5BE92,C3965AA,"GWX Taexty Epvuzotz Inc.,",GWX Taexty Epvuzotz,GWX TAEXTY EPVUZOTZ,2,0,1,1,0,,Canada,Toronto,Toronto,M2N7E9,M5G 1R6    
+A1D1E94,C3965AA,GWX Taexty Epvuzotz Inc.-,GWX Taexty Epvuzotz,GWX TAEXTY EPVUZOTZ,2,0,1,1,0,,Canada,Toronto,Toronto,M5E1G4,M5G 1R6    
 CD99AA7,3D88474,GWX Taexty Epvuzotz,GWX Taexty Epvuzotz Inc .,GWX TAEXTY EPVUZOTZ,2,0,1,1,0,,Canada,Toronto,Toronto,M5G1R6,M5E 1G4    
+CD99AA7,BEE9694,GWX Taexty Epvuzotz,GWX Taexty Epvuzotz Inc.-,GWX TAEXTY EPVUZOTZ,2,0,1,1,0,,Canada,Toronto,Toronto,M5G1R6,M5E 1G4    
+CD99AA7,BEE9694,GWX Taexty Epvuzotz,GWX Taexty Epvuzotz Inc.-,GWX TAEXTY EPVUZOTZ,2,0,1,1,0,,Canada,Toronto,Toronto,M5G1R6,M5E 1G4    
+D6D001A,C3965AA,GWX Taexty Epvuzotz Inc .,GWX Taexty Epvuzotz,GWX TAEXTY EPVUZOTZ,2,0,1,1,0,,Canada,Toronto,Toronto,M5E1G4,M5G 1R6    
 EB4807B,3D88474,GWX Taexty Epvuzotz Inc*,GWX Taexty Epvuzotz Inc .,GWX TAEXTY EPVUZOTZ,2,0,1,1,0,,Canada,Toronto,Toronto,M5G1R8,M5E 1G4    
+EB4807B,BEE9694,GWX Taexty Epvuzotz Inc*,GWX Taexty Epvuzotz Inc.-,GWX TAEXTY EPVUZOTZ,2,0,1,1,0,,Canada,Toronto,Toronto,M5G1R8,M5E 1G4    
+EB4807B,BEE9694,GWX Taexty Epvuzotz Inc*,GWX Taexty Epvuzotz Inc.-,GWX TAEXTY EPVUZOTZ,2,0,1,1,0,,Canada,Toronto,Toronto,M5G1R8,M5E 1G4    
+EB4807B,C3965AA,GWX Taexty Epvuzotz Inc*,GWX Taexty Epvuzotz,GWX TAEXTY EPVUZOTZ,2,0,1,1,0,,Canada,Toronto,Toronto,M5G1R8,M5G 1R6    
 3402FDC,5110265,HCCC #295 c/o,HCCC #295 c/o,HCCC 295 C O,2,0,1,1,0,,Canada,Dartmouth,DARTMOUTH,,B2Y 1M1    
 A36A625,6951E6F,HCCC #378,HCCC #378,HCCC 378,2,0,1,1,0,,Canada,Dartmouth,DARTMOUTH,B2Y2N6,B2Y 2N4    
+401D350,175B0E6,Honaztaep Land Holdings',Honaztaep Land Holdings.,HONAZTAEP LAND HOLDINGS,2,1,1,0,0,Canada,Canada,London,Burlington,N5V2Z8,L7L 5H7    
+401D350,A9D771A,Honaztaep Land Holdings',Honaztaep Land Holdings Limited,HONAZTAEP LAND HOLDINGS,2,1,1,0,0,Canada,Canada,London,OTTAWA,N5V2Z8,K1Z 8M5    
+401D350,D240197,Honaztaep Land Holdings',Honaztaep Land Holdings Ltd.,HONAZTAEP LAND HOLDINGS,2,1,1,0,0,Canada,Canada,London,KINGSTON,N5V2Z8,K7L 1X7    
+A9A6412,D240197,Honaztaep Land Holdings Ltd.,Honaztaep Land Holdings Ltd.,HONAZTAEP LAND HOLDINGS,2,0,1,1,0,,Canada,Kingston,KINGSTON,K7L2Z8,K7L 1X7    
 C1507EC,43354F4,HTZ Amgumaatumg Ltd.,HTZ AMGUMAATUMG LTD,HTZ AMGUMAATUMG,2,0,1,0,1,,Canada,Toronto,NORTH YORK,M3N1W8,M3N 1W8    
 919551F,21FAEB5,Jezz Evuetuom LP,Jezz Evuetuom LP,JEZZ EVUETUOM,2,0,1,0,1,,Canada,Dartmouth,GOFFS,B2T1M6,B2T 1M6    
 85CE470,80B2BCD,Kambuat Umvazt Ltd. - PoubxaTtaa,Kambuat Umvazt Ltd. - PoubxaTtaa,KAMBUAT UMVAZT POUBXATTAA,2,0,0,1,1,,Canada,Gatineau,Gatineau,J9H7L3,J9H 7L3    
+F34612D,B894BA9,Mutanb Mechanical Systems Ltd.,MUTANB MECHANICAL SYSTEMS LTD,MUTANB MECHANICAL SYSTEMS,2,0,1,1,0,,Canada,Mississauga,MISSISSAUGA,L5L5Y7,L5L 5YL    
 7B5DC19,23986F7,Namkaz Property Management Services LTD.,Namkaz Property Management Services Ltd.,NAMKAZ PROPERTY MANAGEMENT SERVICES,2,0,1,1,0,,Canada,Toronto,Toronto,M2N7E4,M2N 6K8    
-8056457,A8C0B93,Nopatm Muegete Building Services - Kumgztom,Nopatm Muegete Building Services - Kumgztom,NOPATM MUEGETE BUILDING SERVICES KUMGZTOM,2,1,0,0,0,,,Kingston,,K7P2R9,           
 33623A1,5E4DE50,NTCC 868,NTCC 868,NTCC 868,2,0,1,1,0,,Canada,Toronto,Toronto,M6M5E7,           
 102966D,E3DB4AE,Pexay Btoz Plumbing & Haetumg Ltd,Pexay Btoz Plumbing & Haetumg Ltd,PEXAY BTOZ PLUMBING HAETUMG,2,0,1,0,1,,Canada,Halifax,HATCHET LAKE,B3T1P6,B3T 1P6    
 A14549F,3D9AB23,Pomut Tuna,Pomut Tuna,POMUT TUNA,2,0,1,1,0,,Canada,Concord,CONCORD,L4K3C7,L4K 2G5    
-5B6DBAD,025CE43,"The Canada Xufa Ezzutemca Company.,",THE CANADA XUFA EZZUTEMCA COMPANY,THE CANADA XUFA EZZUTEMCA,2,1,0,0,0,Canada,Canada,Regina,WINNIPEG,S4P4L4,R3C 3A5    
+55943D0,04E9439,The Canada  Xufa Ezzutemca Company,The Canada Xufa Ezzutemca Company.,THE CANADA XUFA EZZUTEMCA,2,0,1,1,0,,Canada,Toronto,Toronto,M5C2V9,M2N 6L9    
+55943D0,DC44E4D,The Canada  Xufa Ezzutemca Company,The Canada Xufa Ezzutemca Company,THE CANADA XUFA EZZUTEMCA,2,0,1,1,0,,Canada,Toronto,Toronto,M5C2V9,M2N 6L9    
 447774C,4E0673D,The Canada Xufa Ezzutemca Company c/o GWX Taexty,The Canada Xufa Ezzutemca Company c/o GWX Taexty,THE CANADA XUFA EZZUTEMCA C O GWX TAEXTY,2,0,1,1,0,,Canada,Toronto,Toronto,M5G1R8,M2N 6L9    
+2697140,5E69222,Ttema Canada UXC,TTEMA CANADA UXC,TTEMA CANADA UXC,2,0,1,1,0,,Canada,Markham,MARKHAM,L3R8E3,L3R 8E8    
+16BE70C,9F490A7,U.G. Umvaztnamt Management Ltd,U.G Umvaztnamt Management Ltd.,U G UMVAZTNAMT MANAGEMENT,2,0,1,1,0,,Canada,Toronto,Toronto,M5J2H7,M5E 1G4    
 ABE0D55,5DF352E,U.G Umvaztnamt Management Ltd.,U.G. Umvaztnamt Management Ltd,U G UMVAZTNAMT MANAGEMENT,2,0,1,1,0,,Canada,Toronto,Toronto,M5E1G4,M5J 2H7    
 DD9CB38,D44AA60,Umtatbtovumcuex Naet Service,Umtatbtovumcuex Naet Service,UMTATBTOVUMCUEX NAET SERVICE,2,0,1,1,0,,Canada,Dartmouth,DARTMOUTH,,B3B 1R9    
-DE07C09,7186F0B,Uzoxux -Nemufectutumg/GTBtocazzumg/Woopbuma Natexz,Uzoxux -Nemufectutumg/GTBtocazzumg/Woopbuma Natexz,UZOXUX NEMUFECTUTUMG GTBTOCAZZUMG WOOPBUMA NATEXZ,2,1,0,0,0,,,Markham,,L6E1A4,           
 24D2147,7978D83,Zaguum  Nottuz,Zaguum Nottuz,ZAGUUM NOTTUZ,2,0,1,1,0,,Canada,Mississauga,MISSISSAUGA,L5L5S7,L5L 5R4    
+24D2147,D08340E,Zaguum  Nottuz,Zaguum Nottuz,ZAGUUM NOTTUZ,2,0,1,1,0,,CANADA,Mississauga,MISSISSAUGA,L5L5S7,L5L 5R4    
 3B6A7A1,500E29B,Zhewcot Ltd.,ZHEWCOT LTD,ZHEWCOT,2,0,1,0,1,,Canada,Toronto,ETOBICOKE,M9W1M7,M9W 1M7    
 0DA92BE,377A5B8,ZMC-Xevexum Obatetuomz&Neumtamemca Inc,ZMC - XEVEXUM OBATETUOMZ & NEUMTAMEMCA INC.,ZMC XEVEXUM OBATETUOMZ NEUMTAMEMCA,2,0,1,1,0,,Canada,Ottawa,OTTAWA,K1Z1G3,K1A 0T6    
+0DA92BE,3B6D4A1,ZMC-Xevexum Obatetuomz&Neumtamemca Inc,ZMC - XEVEXUM OBATETUOMZ & NEUMTAMEMCA INC.,ZMC XEVEXUM OBATETUOMZ NEUMTAMEMCA,2,0,1,1,0,,Canada,Ottawa,OTTAWA,K1Z1G3,K1A 0E8    
+0DA92BE,CC6E5B6,ZMC-Xevexum Obatetuomz&Neumtamemca Inc,ZMC - XEVEXUM OBATETUOMZ & NEUMTAMEMCA INC.,ZMC XEVEXUM OBATETUOMZ NEUMTAMEMCA,2,0,1,1,0,,Canada,Ottawa,OTTAWA,K1Z1G3,K1N 8X5    
+0DA92BE,CC6E5B6,ZMC-Xevexum Obatetuomz&Neumtamemca Inc,ZMC - XEVEXUM OBATETUOMZ & NEUMTAMEMCA INC.,ZMC XEVEXUM OBATETUOMZ NEUMTAMEMCA,2,0,1,1,0,,Canada,Ottawa,OTTAWA,K1Z1G3,K1A 0R2    
+A9B12FA,C524ED5,Zubatuot Bouxat Wotkz & Waxpumg Ltd.,ZUBATUOT BOUXAT WOTKZ & WAXPUMG,ZUBATUOT BOUXAT WOTKZ WAXPUMG,2,0,1,0,1,,Canada,Stonery Creek,STONEY CREEK,L8E5H4,L8E 5H4    
+A9B12FA,C524ED5,Zubatuot Bouxat Wotkz & Waxpumg Ltd.,ZUBATUOT BOUXAT WOTKZ & WAXPUMG,ZUBATUOT BOUXAT WOTKZ WAXPUMG,2,0,1,0,1,,Canada,Stonery Creek,STONEY CREEK,L8E5H4,L8E 5H4    
 A9B12FA,C524ED5,Zubatuot Bouxat Wotkz & Waxpumg Ltd.,ZUBATUOT BOUXAT WOTKZ & WAXPUMG,ZUBATUOT BOUXAT WOTKZ WAXPUMG,2,0,1,0,1,,Canada,Stonery Creek,STONEY CREEK,L8E5H4,L8E 5H4    
 CE5E1DC,B48E08D,Zympucet De La Cobtobtuété Le Vuu,Zympucet de la Cobtobtuété Le Vuu,ZYMPUCET DE LA COBTOBTUETE LE VUU,2,0,1,1,0,J8X 3V1,Canada,Gatineau,GATINEAU,,J8X 0B2    
 23DC05A,BDB50E9,A.Z. Fox Limited,A.Z. FOX LIMITED,A Z FOX,1,0,1,0,0,,Canada,Kingston,OAKVILLE,K7K6C2,L6H 5R7    
+84901DF,38884C8,Amvuto Commaxuomz,Amvuto Commaxuomz,AMVUTO COMMAXUOMZ,1,1,0,0,0,,,Boisbriand,,J7H1H7,           
 81C5271,92B6F19,BCUNC Taexty Corp.,bcUNC Taexty Corp -,BCUNC TAEXTY,1,0,1,0,0,,Canada,North York,TORONTO,M2N6K1,M5L 1E2    
+81C5271,92B6F19,BCUNC Taexty Corp.,bcUNC Taexty Corp -,BCUNC TAEXTY,1,0,1,0,0,,Canada,North York,TORONTO,M2N6K1,M5L 1E2    
+81C5271,E735724,BCUNC Taexty Corp.,BCUNC TAEXTY CORPORATION,BCUNC TAEXTY,1,0,1,0,0,,Canada,North York,TORONTO,M2N6K1,M5L 1E2    
+2054EF7,5C3D968,Betze Kaxxy / Cetu-Cem Coobatetuva Honaz Inc.,Betze Kaxxy / Cetu-Cem Coobatetuva Honaz Inc.,BETZE KAXXY CETU CEM COOBATETUVA HONAZ,1,1,0,0,0,,,Etobicoke,,M8V3Y9,           
 5FA3E46,15D2486,BGUZ*,BGUZ,BGUZ,1,0,1,0,0,,Canada,Markham,THUNDER BAY,L3R0J2,P7C 0A3    
 71F8E01,15D2486,BGUZ -,BGUZ,BGUZ,1,0,1,0,0,,Canada,Borden,THUNDER BAY,L0M1C0,P7C 0A3    
+6B2A0FC,0A5C99C,BGUZ Canada LP ta. Bank of Nomttaex (for O&N),BGUZ Canada LP ta. Bank of Nomttaex (for O&N),BGUZ CANADA TA BANK OF NOMTTAEX FOR O N,1,0,1,0,0,,Canada,Markham,Toronto,L3R0Y7,M5X 1A1    
 FA4B8B7,C3E9A1F,BNO c/o BGUZ Canada LP.-_,BNO c/o BGUZ Canada LP,BNO C O BGUZ CANADA,1,0,1,0,0,,Canada,Scarborough,Markham,M1W3E8,L3R 0Y7    
+0FF2BC3,3ED77D3,Bucoma Pounut Holdings Inc.,Bucoma Pounut Holdings Inc.,BUCOMA POUNUT HOLDINGS,1,1,0,0,0,Canada,Canada,Montréal,Ottawa,H3B3C3,K1V 7Z4    
+54548F6,3FC2A04,Bxeck & NcPomexp,BXECK & NCPOMEXP LTD,BXECK NCPOMEXP,1,0,1,0,0,,Canada,Stoney Creek,SCARBOROUGH,L8E2B2,M1X 2E4    
+54548F6,6202996,Bxeck & NcPomexp,Bxeck & NcPomexp *,BXECK NCPOMEXP,1,0,1,0,0,,Canada,Stoney Creek,Ottawa,L8E2B2,K2J 4S1    
+54548F6,723AD4A,Bxeck & NcPomexp,BXECK & NCPOMEXP LTD,BXECK NCPOMEXP,1,0,1,0,0,,Canada,Stoney Creek,OTTAWA,L8E2B2,K1H 1E1    
+54548F6,F68B6D5,Bxeck & NcPomexp,BXECK & NCPOMEXP LTD.,BXECK NCPOMEXP,1,0,1,0,0,,Canada,Stoney Creek,SCARBOROUGH,L8E2B2,M1X 1E4    
+54548F6,F68B6D5,Bxeck & NcPomexp,BXECK & NCPOMEXP LTD.,BXECK NCPOMEXP,1,0,1,0,0,,Canada,Stoney Creek,SCARBOROUGH,L8E2B2,M1X 1E4    
+54548F6,F68B6D5,Bxeck & NcPomexp,BXECK & NCPOMEXP LTD.,BXECK NCPOMEXP,1,0,1,0,0,,Canada,Stoney Creek,MARKHAM,L8E2B2,L3T 7N9    
+54548F6,F68B6D5,Bxeck & NcPomexp,BXECK & NCPOMEXP LTD.,BXECK NCPOMEXP,1,0,1,0,0,,Canada,Stoney Creek,Markham,L8E2B2,L3T 7N9    
 BC63E83,02635C9,Bxeck & NcPomexp Ltd.,Bxeck & NcPomexp,BXECK NCPOMEXP,1,0,1,0,0,,Canada,Markham,Stoney Creek,L3T7N9,L8E 2B2    
+BC63E83,3FC2A04,Bxeck & NcPomexp Ltd.,BXECK & NCPOMEXP LTD,BXECK NCPOMEXP,1,0,1,0,0,,Canada,Markham,SCARBOROUGH,L3T7N9,M1X 2E4    
+BC63E83,6202996,Bxeck & NcPomexp Ltd.,Bxeck & NcPomexp *,BXECK NCPOMEXP,1,0,1,0,0,,Canada,Markham,Ottawa,L3T7N9,K2J 4S1    
+BC63E83,723AD4A,Bxeck & NcPomexp Ltd.,BXECK & NCPOMEXP LTD,BXECK NCPOMEXP,1,0,1,0,0,,Canada,Markham,OTTAWA,L3T7N9,K1H 1E1    
+BC63E83,DA1FA00,Bxeck & NcPomexp Ltd.,BXECK & NCPOMEXP LTD.,BXECK NCPOMEXP,1,0,1,0,0,,Canada,Markham,STONEY CREEK,L3T7N9,L8E 2B2    
+BC63E83,F68B6D5,Bxeck & NcPomexp Ltd.,BXECK & NCPOMEXP LTD.,BXECK NCPOMEXP,1,0,1,0,0,,Canada,Markham,SCARBOROUGH,L3T7N9,M1X 1E4    
+BC63E83,F68B6D5,Bxeck & NcPomexp Ltd.,BXECK & NCPOMEXP LTD.,BXECK NCPOMEXP,1,0,1,0,0,,Canada,Markham,SCARBOROUGH,L3T7N9,M1X 1E4    
 D1C28B1,02635C9,Bxeck & NcPomexp *,Bxeck & NcPomexp,BXECK NCPOMEXP,1,0,1,0,0,,Canada,Ottawa,Stoney Creek,K1H1E1,L8E 2B2    
+D1C28B1,3FC2A04,Bxeck & NcPomexp *,BXECK & NCPOMEXP LTD,BXECK NCPOMEXP,1,0,1,0,0,,Canada,Ottawa,SCARBOROUGH,K1H1E1,M1X 2E4    
+D1C28B1,DA1FA00,Bxeck & NcPomexp *,BXECK & NCPOMEXP LTD.,BXECK NCPOMEXP,1,0,1,0,0,,Canada,Ottawa,STONEY CREEK,K1H1E1,L8E 2B2    
+D1C28B1,F68B6D5,Bxeck & NcPomexp *,BXECK & NCPOMEXP LTD.,BXECK NCPOMEXP,1,0,1,0,0,,Canada,Ottawa,SCARBOROUGH,K1H1E1,M1X 1E4    
+D1C28B1,F68B6D5,Bxeck & NcPomexp *,BXECK & NCPOMEXP LTD.,BXECK NCPOMEXP,1,0,1,0,0,,Canada,Ottawa,SCARBOROUGH,K1H1E1,M1X 1E4    
+D1C28B1,F68B6D5,Bxeck & NcPomexp *,BXECK & NCPOMEXP LTD.,BXECK NCPOMEXP,1,0,1,0,0,,Canada,Ottawa,MARKHAM,K1H1E1,L3T 7N9    
+D1C28B1,F68B6D5,Bxeck & NcPomexp *,BXECK & NCPOMEXP LTD.,BXECK NCPOMEXP,1,0,1,0,0,,Canada,Ottawa,Markham,K1H1E1,L3T 7N9    
 DA432F2,02635C9,BXECK & NCPOMEXP LIMITED,Bxeck & NcPomexp,BXECK NCPOMEXP,1,0,1,0,0,,Canada,Scarborough,Stoney Creek,M1X1E4,L8E 2B2    
+DA432F2,6202996,BXECK & NCPOMEXP LIMITED,Bxeck & NcPomexp *,BXECK NCPOMEXP,1,0,1,0,0,,Canada,Scarborough,Ottawa,M1X1E4,K2J 4S1    
+DA432F2,723AD4A,BXECK & NCPOMEXP LIMITED,BXECK & NCPOMEXP LTD,BXECK NCPOMEXP,1,0,1,0,0,,Canada,Scarborough,OTTAWA,M1X1E4,K1H 1E1    
+DA432F2,DA1FA00,BXECK & NCPOMEXP LIMITED,BXECK & NCPOMEXP LTD.,BXECK NCPOMEXP,1,0,1,0,0,,Canada,Scarborough,STONEY CREEK,M1X1E4,L8E 2B2    
+DA432F2,F68B6D5,BXECK & NCPOMEXP LIMITED,BXECK & NCPOMEXP LTD.,BXECK NCPOMEXP,1,0,1,0,0,,Canada,Scarborough,MARKHAM,M1X1E4,L3T 7N9    
+DA432F2,F68B6D5,BXECK & NCPOMEXP LIMITED,BXECK & NCPOMEXP LTD.,BXECK NCPOMEXP,1,0,1,0,0,,Canada,Scarborough,Markham,M1X1E4,L3T 7N9    
 3659A0E,0463491,Cetnucheax Amgumaatumg,CETNUCHEAX AMGUMAATUMG LTD,CETNUCHEAX AMGUMAATUMG,1,0,1,0,0,,CA,Windsor,TORONTO,N8X4W3,M5A 0L1    
+3659A0E,0463491,Cetnucheax Amgumaatumg,CETNUCHEAX AMGUMAATUMG LTD,CETNUCHEAX AMGUMAATUMG,1,0,1,0,0,,Canada,Windsor,TORONTO,N8X4W3,M5S 3A8    
+3659A0E,0463491,Cetnucheax Amgumaatumg,CETNUCHEAX AMGUMAATUMG LTD,CETNUCHEAX AMGUMAATUMG,1,0,1,0,0,,Canada,Windsor,TORONTO,N8X4W3,M4S 3G9    
+3659A0E,0463491,Cetnucheax Amgumaatumg,CETNUCHEAX AMGUMAATUMG LTD,CETNUCHEAX AMGUMAATUMG,1,0,1,0,0,,Canada,Windsor,TORONTO,N8X4W3,M5R 1M2    
+3659A0E,0463491,Cetnucheax Amgumaatumg,CETNUCHEAX AMGUMAATUMG LTD,CETNUCHEAX AMGUMAATUMG,1,0,1,0,0,,Canada,Windsor,MISSISSAUGA,N8X4W3,L4X 2G6    
+3659A0E,35EE2DD,Cetnucheax Amgumaatumg,Cetnucheax Amgumaatumg Ltd,CETNUCHEAX AMGUMAATUMG,1,1,0,0,0,,,Windsor,,N8X4W3,           
+3659A0E,35EE2DD,Cetnucheax Amgumaatumg,Cetnucheax Amgumaatumg Ltd,CETNUCHEAX AMGUMAATUMG,1,0,1,0,0,,Canada,Windsor,London,N8X4W3,N5W 6G9    
+3659A0E,91DFD65,Cetnucheax Amgumaatumg,Cetnucheax Amgumaatumg Ltd.,CETNUCHEAX AMGUMAATUMG,1,0,1,0,0,,Canada,Windsor,Mississauga,N8X4W3,L4X 2G1    
 3BA644A,0463491,Cetnucheax Amgumaatumg Ltd.,CETNUCHEAX AMGUMAATUMG LTD,CETNUCHEAX AMGUMAATUMG,1,0,1,0,0,,CA,Mississauga,TORONTO,L4X2G6,M5A 0L1    
+3BA644A,0463491,Cetnucheax Amgumaatumg Ltd.,CETNUCHEAX AMGUMAATUMG LTD,CETNUCHEAX AMGUMAATUMG,1,0,1,0,0,,Canada,Mississauga,TORONTO,L4X2G6,M5S 3A8    
+3BA644A,0463491,Cetnucheax Amgumaatumg Ltd.,CETNUCHEAX AMGUMAATUMG LTD,CETNUCHEAX AMGUMAATUMG,1,0,1,0,0,,Canada,Mississauga,TORONTO,L4X2G6,M4S 3G9    
+3BA644A,0463491,Cetnucheax Amgumaatumg Ltd.,CETNUCHEAX AMGUMAATUMG LTD,CETNUCHEAX AMGUMAATUMG,1,0,1,0,0,,Canada,Mississauga,TORONTO,L4X2G6,M5R 1M2    
+3BA644A,2398E69,Cetnucheax Amgumaatumg Ltd.,Cetnucheax Amgumaatumg,CETNUCHEAX AMGUMAATUMG,1,0,1,0,0,,Canada,Mississauga,Windsor,L4X2G6,N8X 4W3    
+3BA644A,35EE2DD,Cetnucheax Amgumaatumg Ltd.,Cetnucheax Amgumaatumg Ltd,CETNUCHEAX AMGUMAATUMG,1,1,0,0,0,,,Mississauga,,L4X2G6,           
+3BA644A,35EE2DD,Cetnucheax Amgumaatumg Ltd.,Cetnucheax Amgumaatumg Ltd,CETNUCHEAX AMGUMAATUMG,1,0,1,0,0,,Canada,Mississauga,London,L4X2G6,N5W 6G9    
 E05FFAD,0463491,Cetnucheax  Amgumaatumg  Ltd,CETNUCHEAX AMGUMAATUMG LTD,CETNUCHEAX AMGUMAATUMG,1,0,1,0,0,,CA,London,TORONTO,N5W6G9,M5A 0L1    
+E05FFAD,0463491,Cetnucheax  Amgumaatumg  Ltd,CETNUCHEAX AMGUMAATUMG LTD,CETNUCHEAX AMGUMAATUMG,1,0,1,0,0,,Canada,London,TORONTO,N5W6G9,M5S 3A8    
+E05FFAD,0463491,Cetnucheax  Amgumaatumg  Ltd,CETNUCHEAX AMGUMAATUMG LTD,CETNUCHEAX AMGUMAATUMG,1,0,1,0,0,,Canada,London,TORONTO,N5W6G9,M4S 3G9    
+E05FFAD,0463491,Cetnucheax  Amgumaatumg  Ltd,CETNUCHEAX AMGUMAATUMG LTD,CETNUCHEAX AMGUMAATUMG,1,0,1,0,0,,Canada,London,TORONTO,N5W6G9,M5R 1M2    
+E05FFAD,0463491,Cetnucheax  Amgumaatumg  Ltd,CETNUCHEAX AMGUMAATUMG LTD,CETNUCHEAX AMGUMAATUMG,1,0,1,0,0,,Canada,London,MISSISSAUGA,N5W6G9,L4X 2G6    
+E05FFAD,2398E69,Cetnucheax  Amgumaatumg  Ltd,Cetnucheax Amgumaatumg,CETNUCHEAX AMGUMAATUMG,1,0,1,0,0,,Canada,London,Windsor,N5W6G9,N8X 4W3    
+E05FFAD,35EE2DD,Cetnucheax  Amgumaatumg  Ltd,Cetnucheax Amgumaatumg Ltd,CETNUCHEAX AMGUMAATUMG,1,1,0,0,0,,,London,,N5W6G9,           
+E05FFAD,91DFD65,Cetnucheax  Amgumaatumg  Ltd,Cetnucheax Amgumaatumg Ltd.,CETNUCHEAX AMGUMAATUMG,1,0,1,0,0,,Canada,London,Mississauga,N5W6G9,L4X 2G1    
+A96EC0F,1B3D637,Cettuat Connatcuex Service,CETTUAT CONNATCUEX SERVICE,CETTUAT CONNATCUEX SERVICE,1,0,0,1,0,,Canada,Mississauga,MISSISSAUGA,L5S1Y8,M9W 5Z9    
+A96EC0F,D8B1E07,Cettuat Connatcuex Service,CETTUAT CONNATCUEX SERVICE,CETTUAT CONNATCUEX SERVICE,1,0,0,1,0,,Canada,Mississauga,MISSISSAUGA,L5S1Y8,L4W 4X3    
 CD42D7A,CA083EC,Cettuat Connatcuex Service C/O Compuamt,Cettuat Connatcuex Service C/O Compuamt,CETTUAT CONNATCUEX SERVICE C O COMPUAMT,1,0,1,0,0,,Canada,Mississauga,Scarborough,L4W4X3,M1W 3X9    
+0BBDBD1,EFE6BDB,Ebbxuap Systems Technologies Inc.,EBBXUAP SYSTEMS TECHNOLOGIES INC,EBBXUAP SYSTEMS TECHNOLOGIES,1,0,1,0,0,,Canada,Woodbridge,TORONTO,L4L6E1,M5H 2M5    
+0BBDBD1,EFE6BDB,Ebbxuap Systems Technologies Inc.,EBBXUAP SYSTEMS TECHNOLOGIES INC,EBBXUAP SYSTEMS TECHNOLOGIES,1,0,1,0,0,,Canada,Woodbridge,MILTON,L4L6E1,L9T 6H7    
+B874689,EFE6BDB,EBBXUAP SYSTEMS  TECHNOLOGIES INC.,EBBXUAP SYSTEMS TECHNOLOGIES INC,EBBXUAP SYSTEMS TECHNOLOGIES,1,0,1,0,0,,Canada,Woodbridge,TORONTO,L4L5W4,M5H 2M5    
+B874689,EFE6BDB,EBBXUAP SYSTEMS  TECHNOLOGIES INC.,EBBXUAP SYSTEMS TECHNOLOGIES INC,EBBXUAP SYSTEMS TECHNOLOGIES,1,0,1,0,0,,Canada,Woodbridge,MILTON,L4L5W4,L9T 6H7    
+3BF230F,70E8239,Enbuamt Mechanical Ltd.,ENBUAMT MECHANICAL LTD,ENBUAMT MECHANICAL,1,0,1,0,0,,Canada,Concord,TORONTO,L4K4A1,M5A 4L8    
+3BF230F,70E8239,Enbuamt Mechanical Ltd.,ENBUAMT MECHANICAL LTD,ENBUAMT MECHANICAL,1,0,1,0,0,,Canada,Concord,TORONTO,L4K4A1,M5A 3M4    
+51629AF,45EF056,Eumzwotth Inc.,EUMZWOTTH INC,EUMZWOTTH,1,1,0,0,0,Canada,Canada,Mississauga,REPENTIGNY,L4V1H3,J6A 5N4    
+A39AAAE,45EF056,Eumzwotth Inc.-,EUMZWOTTH INC,EUMZWOTTH,1,1,0,0,0,Canada,Canada,Toronto,REPENTIGNY,M4A1X4,J6A 5N4    
+3AE5CA2,3806F94,Eut Cuttamt Umpuzttuex Inc.,Eut Cuttamt Umpuzttuex Inc.,EUT CUTTAMT UMPUZTTUEX,1,1,0,0,0,,,Toronto,,M6M3K8,           
+2899F99,C37292B,GWX Taexty Epvuzotz Inc..,"GWX Taexty Epvuzotz Inc.,",GWX TAEXTY EPVUZOTZ,1,1,0,0,0,,,Toronto,,M5G1R8,           
+7D5BE92,C37292B,"GWX Taexty Epvuzotz Inc.,","GWX Taexty Epvuzotz Inc.,",GWX TAEXTY EPVUZOTZ,1,1,0,0,0,,,Toronto,,M2N7E9,           
+A1D1E94,C37292B,GWX Taexty Epvuzotz Inc.-,"GWX Taexty Epvuzotz Inc.,",GWX TAEXTY EPVUZOTZ,1,1,0,0,0,,,Toronto,,M5E1G4,           
+CD99AA7,C37292B,GWX Taexty Epvuzotz,"GWX Taexty Epvuzotz Inc.,",GWX TAEXTY EPVUZOTZ,1,1,0,0,0,,,Toronto,,M5G1R6,           
+D6D001A,C37292B,GWX Taexty Epvuzotz Inc .,"GWX Taexty Epvuzotz Inc.,",GWX TAEXTY EPVUZOTZ,1,1,0,0,0,,,Toronto,,M5E1G4,           
+EB4807B,C37292B,GWX Taexty Epvuzotz Inc*,"GWX Taexty Epvuzotz Inc.,",GWX TAEXTY EPVUZOTZ,1,1,0,0,0,,,Toronto,,M5G1R8,           
 6098C0D,045A940,Honaztaep Land Holdings.,Honaztaep Land Holdings',HONAZTAEP LAND HOLDINGS,1,0,1,0,0,,Canada,Burlington,London,L7L5H7,N5V 2Z8    
+6098C0D,A9D771A,Honaztaep Land Holdings.,Honaztaep Land Holdings Limited,HONAZTAEP LAND HOLDINGS,1,0,1,0,0,,Canada,Burlington,OTTAWA,L7L5H7,K1Z 8M5    
+6098C0D,D240197,Honaztaep Land Holdings.,Honaztaep Land Holdings Ltd.,HONAZTAEP LAND HOLDINGS,1,0,1,0,0,,Canada,Burlington,KINGSTON,L7L5H7,K7L 1X7    
 A9A6412,045A940,Honaztaep Land Holdings Ltd.,Honaztaep Land Holdings',HONAZTAEP LAND HOLDINGS,1,0,1,0,0,,Canada,Kingston,London,K7L2Z8,N5V 2Z8    
+A9A6412,175B0E6,Honaztaep Land Holdings Ltd.,Honaztaep Land Holdings.,HONAZTAEP LAND HOLDINGS,1,0,1,0,0,,Canada,Kingston,Burlington,K7L2Z8,L7L 5H7    
+A9A6412,A9D771A,Honaztaep Land Holdings Ltd.,Honaztaep Land Holdings Limited,HONAZTAEP LAND HOLDINGS,1,0,1,0,0,,Canada,Kingston,OTTAWA,K7L2Z8,K1Z 8M5    
+7A4E6C2,329CDCB,JTZ Mechanical Systems Inc.,JTZ MECHANICAL SYSTEMS INC,JTZ MECHANICAL SYSTEMS,1,0,1,0,0,,Canada,Guelph,LISTOWEL,N1H6J4,N4W 0J5    
 842F202,30EEBAF,Kaxzom Mechanical Inc.,KAXZOM MECHANICAL INC,KAXZOM MECHANICAL,1,0,1,0,0,,CA,Sharon,SCARBOROUGH,L0G1V0,M1V 1S6    
+842F202,30EEBAF,Kaxzom Mechanical Inc.,KAXZOM MECHANICAL INC,KAXZOM MECHANICAL,1,0,1,0,0,,Canada,Sharon,TORONTO,L0G1V0,M5V 1E3    
 5FB42DD,2126CBA,Mottak Mechanical  Services,MOTTAK MECHANICAL SERVICES,MOTTAK MECHANICAL SERVICES,1,0,1,0,0,,Canada,Brampton,TORONTO,L6X0C2,M5C 3G8    
 92F99FC,7F86D9E,Motthzupa Btocazzumg,Motthzupa Btocazzumg,MOTTHZUPA BTOCAZZUMG,1,0,1,0,0,,Canada,Louisbourg,North Sydney,B1C1B5,B2A 1A9    
 630C414,D020EDF,Motthzypa Btocazzumg,Motthzypa Btocazzumg,MOTTHZYPA BTOCAZZUMG,1,0,1,0,0,,Canada,North Sydney,Louisbourg,B2A1A9,B1C 1B5    
+F34612D,B894BA9,Mutanb Mechanical Systems Ltd.,MUTANB MECHANICAL SYSTEMS LTD,MUTANB MECHANICAL SYSTEMS,1,0,1,0,0,,Canada,Mississauga,OAKVILLE,L5L5Y7,L6K 0A7    
+F34612D,B894BA9,Mutanb Mechanical Systems Ltd.,MUTANB MECHANICAL SYSTEMS LTD,MUTANB MECHANICAL SYSTEMS,1,0,1,0,0,,CA,Mississauga,OAKVILLE,L5L5Y7,L6K 0A7    
+03EA993,7D17993,Nejot Eut Systems Ltd.,NEJOT EUT SYSTEMS LTD,NEJOT EUT SYSTEMS,1,0,1,0,0,,Canada,Richmond Hill,MISSISSAUGA,L4B1K3,L5B 0C8    
+8056457,A8C0B93,Nopatm Muegete Building Services - Kumgztom,Nopatm Muegete Building Services - Kumgztom,NOPATM MUEGETE BUILDING SERVICES KUMGZTOM,1,1,0,0,0,,,Kingston,,K7P2R9,           
 E601523,0B113B8,Nopatm Muegete Toronto Inc.,NOPATM MUEGETE TORONTO INC,NOPATM MUEGETE TORONTO,1,0,1,0,0,,Canada,Vaughan,TORONTO,L4H4S6,M3J 2T7    
 F301B93,4E7A139,Pax Property Management,PAX PROPERTY MANAGEMENT,PAX PROPERTY MANAGEMENT,1,0,1,0,0,,Canada,Toronto,SCARBOROUGH,M5T3J9,M1S 0L7    
+F301B93,FFFB857,Pax Property Management,Pax Property Management Inc.-,PAX PROPERTY MANAGEMENT,1,0,1,0,0,,Canada,Toronto,Scarborough,M5T3J9,M1S 0N4    
 DDA0330,4329172,Tatteca Aezt,Tatteca Aezt,TATTECA AEZT,1,0,1,0,0,,Canada,Moosejaw,Moose Jaw,,S6H 0E1    
+38F61D5,BB6B752,Thatno Coox Mechanical,THATNO COOX MECHANICAL LTD,THATNO COOX MECHANICAL,1,0,1,0,0,,Canada,Etobicoke,TORONTO,M9W4P1,M6S 5B5    
+38F61D5,BB6B752,Thatno Coox Mechanical,THATNO COOX MECHANICAL LTD,THATNO COOX MECHANICAL,1,0,1,0,0,,Canada,Etobicoke,BURLINGTON,M9W4P1,L7R 0G9    
+38F61D5,BB6B752,Thatno Coox Mechanical,THATNO COOX MECHANICAL LTD,THATNO COOX MECHANICAL,1,0,1,0,0,,Canada,Etobicoke,TORONTO,M9W4P1,M5C 1M2    
+38F61D5,BB6B752,Thatno Coox Mechanical,THATNO COOX MECHANICAL LTD,THATNO COOX MECHANICAL,1,0,1,0,0,,Canada,Etobicoke,MISSISSAUGA,M9W4P1,L5G 4B1    
+38F61D5,BB6B752,Thatno Coox Mechanical,THATNO COOX MECHANICAL LTD,THATNO COOX MECHANICAL,1,0,1,0,0,,CA,Etobicoke,TORONTO,M9W4P1,M4S 2A7    
+086F207,7184EBE,The  Canada  Xufa  Ezzutemca  Company,The Canada Xufa Ezzutemca,THE CANADA XUFA EZZUTEMCA,1,0,1,0,0,,Canada,Toronto,Mississauga,M2N6L9,L5B 1M2    
+55943D0,7184EBE,The Canada  Xufa Ezzutemca Company,The Canada Xufa Ezzutemca,THE CANADA XUFA EZZUTEMCA,1,0,1,0,0,,Canada,Toronto,Mississauga,M5C2V9,L5B 1M2    
+5B6DBAD,025CE43,"The Canada Xufa Ezzutemca Company.,",THE CANADA XUFA EZZUTEMCA COMPANY,THE CANADA XUFA EZZUTEMCA,1,1,0,0,0,Canada,Canada,Regina,WINNIPEG,S4P4L4,R3C 3A5    
+5B6DBAD,04E9439,"The Canada Xufa Ezzutemca Company.,",The Canada Xufa Ezzutemca Company.,THE CANADA XUFA EZZUTEMCA,1,1,0,0,0,Canada,Canada,Regina,Toronto,S4P4L4,M2N 6L9    
+5B6DBAD,7184EBE,"The Canada Xufa Ezzutemca Company.,",The Canada Xufa Ezzutemca,THE CANADA XUFA EZZUTEMCA,1,1,0,0,0,Canada,Canada,Regina,Mississauga,S4P4L4,L5B 1M2    
+5B6DBAD,DC44E4D,"The Canada Xufa Ezzutemca Company.,",The Canada Xufa Ezzutemca Company,THE CANADA XUFA EZZUTEMCA,1,1,0,0,0,Canada,Canada,Regina,Toronto,S4P4L4,M2N 6L9    
+C828B7E,7184EBE,The Canada Xufa Ezzutemca Company.,The Canada Xufa Ezzutemca,THE CANADA XUFA EZZUTEMCA,1,0,1,0,0,,Canada,Toronto,Mississauga,M2N6L9,L5B 1M2    
+E64D1E0,7184EBE,The Canada Xufa Ezzutemca Company,The Canada Xufa Ezzutemca,THE CANADA XUFA EZZUTEMCA,1,0,1,0,0,,Canada,Toronto,Mississauga,M2N6L9,L5B 1M2    
+F2F7FC6,04E9439,The Canada Xufa Ezzutemca,The Canada Xufa Ezzutemca Company.,THE CANADA XUFA EZZUTEMCA,1,0,1,0,0,,Canada,Mississauga,Toronto,L5B1M2,M2N 6L9    
+F2F7FC6,DC44E4D,The Canada Xufa Ezzutemca,The Canada Xufa Ezzutemca Company,THE CANADA XUFA EZZUTEMCA,1,0,1,0,0,,Canada,Mississauga,Toronto,L5B1M2,M2N 6L9    
 2697140,396BCA0,Ttema Canada UXC,TTEMA CANADA UXC,TTEMA CANADA UXC,1,0,1,0,0,,Canada,Markham,OTTAWA,L3R8E3,K2H 8K7    
+2697140,396BCA0,Ttema Canada UXC,TTEMA CANADA UXC,TTEMA CANADA UXC,1,0,1,0,0,,Canada,Markham,OTTAWA,L3R8E3,K1P 5H6    
+2697140,F498420,Ttema Canada UXC,Ttema Canada UXC,TTEMA CANADA UXC,1,0,1,0,0,,Canada,Markham,Innisfil,L3R8E3,L9S 1K8    
+2697140,F498420,Ttema Canada UXC,Ttema Canada UXC,TTEMA CANADA UXC,1,0,1,0,0,,CANADA,Markham,BRANTFORD,L3R8E3,N3R 1G9    
 8B71A0D,AB255F0,Ttuco Consulting Services Inc,TTUCO CONSULTING SERVICES INC,TTUCO CONSULTING SERVICES,1,0,1,0,0,,Canada,Holland Landing,Concord,L9N1C8,L4K 5A6    
 A63ABE3,DDBD9F8,UTBEM Mechanical Comttectumg Inc.,UTBEM MECHANICAL COMTTECTUMG LTD,UTBEM MECHANICAL COMTTECTUMG,1,0,1,0,0,,Canada,Etobicoke,SCARBOROUGH,M9W5B2,M1H 2X3    
+DE07C09,7186F0B,Uzoxux -Nemufectutumg/GTBtocazzumg/Woopbuma Natexz,Uzoxux -Nemufectutumg/GTBtocazzumg/Woopbuma Natexz,UZOXUX NEMUFECTUTUMG GTBTOCAZZUMG WOOPBUMA NATEXZ,1,1,0,0,0,,,Markham,,L6E1A4,           
 1A1FF14,2D0DB8A,WoopGtaam,WoopGtaam,WOOPGTAAM,1,0,1,0,0,,Canada,Toronto,YORK,M4J1L2,M9N 3R7    
 1F5AFD1,D850FA6,Xobxewz  Inc.,Xobxewz Inc.,XOBXEWZ,1,0,1,0,0,,Canada,Hamilton,Brampton,L8W3N1,L6Y 5S5    
 88FBE8D,3273BC1,Xobxewz Inc. (Bxeumz Road),Xobxewz Inc. (Bxeumz Road),XOBXEWZ BXEUMZ ROAD,1,0,1,0,0,,Canada,Hamilton,Burlington,L8W3N1,L7T 4K1    
 B4A499E,7978D83,Zaguum Nottuz,Zaguum Nottuz,ZAGUUM NOTTUZ,1,0,1,0,0,,Canada,Ottawa,MISSISSAUGA,K1B4L2,L5L 5R4    
+B4A499E,D08340E,Zaguum Nottuz,Zaguum Nottuz,ZAGUUM NOTTUZ,1,0,1,0,0,,CANADA,Ottawa,MISSISSAUGA,K1B4L2,L5L 5R4    
 1DF2EEB,,110/140 Coxommepa Road Taguomex Inc.,,110 140 COXOMMEPA ROAD TAGUOMEX,0,0,0,0,0,,,Ottawa,,K2C0P9,
 4F516A9,,110 CVPW LP,,110 CVPW,0,0,0,0,0,,,Markham,,L3T0A1,
 1954396,,1106832 Ontario Ltd.,,1106832 ONTARIO,0,0,0,0,0,,,Oakville,,L6J1H9,
@@ -555,6 +816,10 @@ F0F65A1,,Butp Mechanical Ltd,,BUTP MECHANICAL,0,0,0,0,0,,,Dartmouth,,B3B1S1,
 8C71929,,Buxa O'Bomaz Btawumg Company,,BUXA OBOMAZ BTAWUMG,0,0,0,0,0,,,Regina,,S4P7R7,
 AB1A645,,Buxxnetuc Nemufectutumg -,,BUXXNETUC NEMUFECTUTUMG,0,0,0,0,0,Canada,,Unionville,,L3R8E3,
 DA5CF21,,Buzze Move (Xewtamca Ave),,BUZZE MOVE XEWTAMCA AVE,0,0,0,0,0,,,Toronto,,M3A1C4,
+54548F6,8509F07,Bxeck & NcPomexp,BXECK & NCPOMEXP LTD.,BXECK NCPOMEXP,0,0,0,0,0,,Canada,Stoney Creek,SAINTE ADELE,L8E2B2,J8B 1A2    
+BC63E83,8509F07,Bxeck & NcPomexp Ltd.,BXECK & NCPOMEXP LTD.,BXECK NCPOMEXP,0,0,0,0,0,,Canada,Markham,SAINTE ADELE,L3T7N9,J8B 1A2    
+D1C28B1,8509F07,Bxeck & NcPomexp *,BXECK & NCPOMEXP LTD.,BXECK NCPOMEXP,0,0,0,0,0,,Canada,Ottawa,SAINTE ADELE,K1H1E1,J8B 1A2    
+DA432F2,8509F07,BXECK & NCPOMEXP LIMITED,BXECK & NCPOMEXP LTD.,BXECK NCPOMEXP,0,0,0,0,0,,Canada,Scarborough,SAINTE ADELE,M1X1E4,J8B 1A2    
 D23CF84,,Bxua Solutions Canada Inc.,,BXUA SOLUTIONS CANADA,0,0,0,0,0,Canada,,Boucherville,,J4B2Z7,
 81D0B46,,BZBC,,BZBC,0,0,0,0,0,,,Summerside,,C1N5Z7,
 8EBDBFC,,BZCC 730,,BZCC 730,0,0,0,0,0,,,Mississauga,,L5B4M2,
@@ -578,10 +843,28 @@ DD71ED3,,CBH Neztat Limited Bettmatzhub Ontario Region - CBH,,CBH NEZTAT BETTMAT
 6831DCD,,"CBNU as egamt for KZ 310,312 &314 The Aezt Nexx Inc.",,CBNU AS EGAMT FOR KZ 310 312 314 THE AEZT NEXX,0,0,0,0,0,,,Etobicoke,,M9C5K6,
 5B0D5DC,,CBZU Haetumg & Eut Comp._,,CBZU HAETUMG EUT COMP,0,0,0,0,0,,,Uxbridge,,L9P1W5,
 18B25C7,6F96C77,Cebtaut LP,CEBTAUT,CEBTAUT,0,0,0,0,0,,Canada,Halifax,CALGARY,B3J0C5,T2J 6S6    
+18B25C7,6F96C77,Cebtaut LP,CEBTAUT,CEBTAUT,0,0,0,0,0,,Canada,Halifax,BURNABY,B3J0C5,V3N 4P7    
+18B25C7,6F96C77,Cebtaut LP,CEBTAUT,CEBTAUT,0,0,0,0,0,,Canada,Halifax,NEW WESTMINSTER,B3J0C5,V3M 1Z9    
+18B25C7,6F96C77,Cebtaut LP,CEBTAUT,CEBTAUT,0,0,0,0,0,,Canada,Halifax,TORONTO,B3J0C5,M1R 1S3    
+18B25C7,6F96C77,Cebtaut LP,CEBTAUT,CEBTAUT,0,0,0,0,0,,Canada,Halifax,TORONTO,B3J0C5,M8V 3B6    
+18B25C7,6F96C77,Cebtaut LP,CEBTAUT,CEBTAUT,0,0,0,0,0,,Canada,Halifax,BURLINGTON,B3J0C5,L7P 1N3    
+18B25C7,6F96C77,Cebtaut LP,CEBTAUT,CEBTAUT,0,0,0,0,0,,Canada,Halifax,COQUITLAM,B3J0C5,V3J 3V3    
+18B25C7,6F96C77,Cebtaut LP,CEBTAUT,CEBTAUT,0,0,0,0,0,,Canada,Halifax,TORONTO,B3J0C5,M5E 1W1    
+18B25C7,6F96C77,Cebtaut LP,CEBTAUT,CEBTAUT,0,0,0,0,0,,Canada,Halifax,TORONTO,B3J0C5,M8V 3B6    
 14475CD,,Cempup Btawumg Company,,CEMPUP BTAWUMG,0,0,0,0,0,,,Antigonish,,B2G2H8,
 6B42E80,,Cenexot Nfg. Inc,,CENEXOT NFG,0,0,0,0,0,Canada,,Mississauga,,L5J2Z5,
 7871B6F,,Cete Eutxuma Solutions,,CETE EUTXUMA SOLUTIONS,0,0,0,0,0,,,Mississauga,,L4W2P7,
+3659A0E,0F15387,Cetnucheax Amgumaatumg,CETNUCHEAX AMGUMAATUMG LTD,CETNUCHEAX AMGUMAATUMG,0,0,0,0,0,,Canada,Windsor,RICHMOND,N8X4W3,V6Y 1Y2    
+3BA644A,0F15387,Cetnucheax Amgumaatumg Ltd.,CETNUCHEAX AMGUMAATUMG LTD,CETNUCHEAX AMGUMAATUMG,0,0,0,0,0,,Canada,Mississauga,RICHMOND,L4X2G6,V6Y 1Y2    
+E05FFAD,0F15387,Cetnucheax  Amgumaatumg  Ltd,CETNUCHEAX AMGUMAATUMG LTD,CETNUCHEAX AMGUMAATUMG,0,0,0,0,0,,Canada,London,RICHMOND,N5W6G9,V6Y 1Y2    
 A96EC0F,1B3D637,Cettuat Connatcuex Service,CETTUAT CONNATCUEX SERVICE,CETTUAT CONNATCUEX SERVICE,0,0,0,0,0,,Canada,Mississauga,NORTH YORK,L5S1Y8,M2K 2Z7    
+A96EC0F,1B3D637,Cettuat Connatcuex Service,CETTUAT CONNATCUEX SERVICE,CETTUAT CONNATCUEX SERVICE,0,0,0,0,0,,Canada,Mississauga,TORONTO,L5S1Y8,M5V 3V5    
+A96EC0F,1B3D637,Cettuat Connatcuex Service,CETTUAT CONNATCUEX SERVICE,CETTUAT CONNATCUEX SERVICE,0,0,0,0,0,,Canada,Mississauga,TORONTO,L5S1Y8,M5V 3K4    
+A96EC0F,1B3D637,Cettuat Connatcuex Service,CETTUAT CONNATCUEX SERVICE,CETTUAT CONNATCUEX SERVICE,0,0,0,0,0,,Canada,Mississauga,TORONTO,L5S1Y8,M4Y 2S2    
+A96EC0F,1B3D637,Cettuat Connatcuex Service,CETTUAT CONNATCUEX SERVICE,CETTUAT CONNATCUEX SERVICE,0,0,0,0,0,,Canada,Mississauga,TORONTO,L5S1Y8,M1S 5T1    
+A96EC0F,1B3D637,Cettuat Connatcuex Service,CETTUAT CONNATCUEX SERVICE,CETTUAT CONNATCUEX SERVICE,0,0,0,0,0,,Canada,Mississauga,TORONTO,L5S1Y8,M4S 2A9    
+A96EC0F,1B3D637,Cettuat Connatcuex Service,CETTUAT CONNATCUEX SERVICE,CETTUAT CONNATCUEX SERVICE,0,0,0,0,0,,Canada,Mississauga,SCARBOROUGH,L5S1Y8,M1V 5M2    
+A96EC0F,78A81EC,Cettuat Connatcuex Service,CETTUAT CONNATCUEX SERVICE,CETTUAT CONNATCUEX SERVICE,0,0,0,0,0,,Canada,Mississauga,Winnipeg,L5S1Y8,R3P 1B2    
 6FDA7F1,,Cetxatom University,,CETXATOM UNIVERSITY,0,0,0,0,0,USA,,Auburndale,,02466,
 95BC3F3,,CEXVETY CHURCH,,CEXVETY CHURCH,0,0,0,0,0,,,TORONTO,,M4K3S7,
 754AA04,,CHAN ACOX,,CHAN ACOX,0,0,0,0,0,,,Cobourg,,K9A5H5,
@@ -868,10 +1151,20 @@ B211C2A,,Teuxxafat Plumbing and Haetumg,,TEUXXAFAT PLUMBING AND HAETUMG,0,0,0,0,
 00CD59C,,The Avenue,,THE AVENUE,0,0,0,0,0,,,Toronto,,M4V1P7,
 CFDF8F1,,The Beumtap Betezox,,THE BEUMTAP BETEZOX,0,0,0,0,0,,,Lumsden,,S0G3C0,
 086F207,025CE43,The  Canada  Xufa  Ezzutemca  Company,THE CANADA XUFA EZZUTEMCA COMPANY,THE CANADA XUFA EZZUTEMCA,0,0,0,0,0,,Canada,Toronto,WINNIPEG,M2N6L9,R3C 3A5    
+086F207,5E81BF8,The  Canada  Xufa  Ezzutemca  Company,The Canada Xufa Ezzutemca Company,THE CANADA XUFA EZZUTEMCA,0,0,0,0,0,,CANADA,Toronto,Regina,M2N6L9,S4P 4L4    
+086F207,650E0F0,The  Canada  Xufa  Ezzutemca  Company,"The Canada Xufa Ezzutemca Company.,",THE CANADA XUFA EZZUTEMCA,0,0,0,0,0,,Canada,Toronto,Regina,M2N6L9,S4P 4L4    
 55943D0,025CE43,The Canada  Xufa Ezzutemca Company,THE CANADA XUFA EZZUTEMCA COMPANY,THE CANADA XUFA EZZUTEMCA,0,0,0,0,0,,Canada,Toronto,WINNIPEG,M5C2V9,R3C 3A5    
+55943D0,5E81BF8,The Canada  Xufa Ezzutemca Company,The Canada Xufa Ezzutemca Company,THE CANADA XUFA EZZUTEMCA,0,0,0,0,0,,CANADA,Toronto,Regina,M5C2V9,S4P 4L4    
+55943D0,650E0F0,The Canada  Xufa Ezzutemca Company,"The Canada Xufa Ezzutemca Company.,",THE CANADA XUFA EZZUTEMCA,0,0,0,0,0,,Canada,Toronto,Regina,M5C2V9,S4P 4L4    
 C828B7E,025CE43,The Canada Xufa Ezzutemca Company.,THE CANADA XUFA EZZUTEMCA COMPANY,THE CANADA XUFA EZZUTEMCA,0,0,0,0,0,,Canada,Toronto,WINNIPEG,M2N6L9,R3C 3A5    
+C828B7E,5E81BF8,The Canada Xufa Ezzutemca Company.,The Canada Xufa Ezzutemca Company,THE CANADA XUFA EZZUTEMCA,0,0,0,0,0,,CANADA,Toronto,Regina,M2N6L9,S4P 4L4    
+C828B7E,650E0F0,The Canada Xufa Ezzutemca Company.,"The Canada Xufa Ezzutemca Company.,",THE CANADA XUFA EZZUTEMCA,0,0,0,0,0,,Canada,Toronto,Regina,M2N6L9,S4P 4L4    
 E64D1E0,025CE43,The Canada Xufa Ezzutemca Company,THE CANADA XUFA EZZUTEMCA COMPANY,THE CANADA XUFA EZZUTEMCA,0,0,0,0,0,,Canada,Toronto,WINNIPEG,M2N6L9,R3C 3A5    
+E64D1E0,5E81BF8,The Canada Xufa Ezzutemca Company,The Canada Xufa Ezzutemca Company,THE CANADA XUFA EZZUTEMCA,0,0,0,0,0,,CANADA,Toronto,Regina,M2N6L9,S4P 4L4    
+E64D1E0,650E0F0,The Canada Xufa Ezzutemca Company,"The Canada Xufa Ezzutemca Company.,",THE CANADA XUFA EZZUTEMCA,0,0,0,0,0,,Canada,Toronto,Regina,M2N6L9,S4P 4L4    
 F2F7FC6,025CE43,The Canada Xufa Ezzutemca,THE CANADA XUFA EZZUTEMCA COMPANY,THE CANADA XUFA EZZUTEMCA,0,0,0,0,0,,Canada,Mississauga,WINNIPEG,L5B1M2,R3C 3A5    
+F2F7FC6,5E81BF8,The Canada Xufa Ezzutemca,The Canada Xufa Ezzutemca Company,THE CANADA XUFA EZZUTEMCA,0,0,0,0,0,,CANADA,Mississauga,Regina,L5B1M2,S4P 4L4    
+F2F7FC6,650E0F0,The Canada Xufa Ezzutemca,"The Canada Xufa Ezzutemca Company.,",THE CANADA XUFA EZZUTEMCA,0,0,0,0,0,,Canada,Mississauga,Regina,L5B1M2,S4P 4L4    
 466E32B,,The Church Btawumg Co.,,THE CHURCH BTAWUMG,0,0,0,0,0,,,Wolfville,,B4P1C4,
 18183F0,,The Etxez,,THE ETXEZ,0,0,0,0,0,,,Regina,,,
 12778C7,,The Ftaapon Centre,,THE FTAAPON CENTRE,0,0,0,0,0,,,Mississauga,,L5H1G3,
@@ -977,6 +1270,9 @@ B0BBD0B,,Xebotetoutaz Onage Xtaa,,XEBOTETOUTAZ ONAGE XTAA,0,0,0,0,0,Canada,,Mont
 D71490F,,Xempnetk Tazupamca,,XEMPNETK TAZUPAMCA,0,0,0,0,0,,,Kingston,,K7L4V8,
 F3E7C1C,,Xet-Nax Mechanical,,XET NAX MECHANICAL,0,0,0,0,0,,,Ottawa,,K1J9J8,
 3498CCF,,XeZexxa Umvaztnamt Management (Canada) Inc.,,XEZEXXA UMVAZTNAMT MANAGEMENT CANADA,0,0,0,0,0,,,Markham,,L3R0C9,
+1F5AFD1,E76A672,Xobxewz  Inc.,XOBXEW'Z INC.,XOBXEWZ,0,0,0,0,0,,Canada,Hamilton,WINNIPEG,L8W3N1,R3E 2T4    
+7AF7F7D,E76A672,Xobxewz Inc,XOBXEW'Z INC.,XOBXEWZ,0,0,0,0,0,,Canada,Brampton,WINNIPEG,L6Y5S5,R3E 2T4    
+F4986B9,E76A672,Xobxewz Inc.,XOBXEW'Z INC.,XOBXEWZ,0,0,0,0,0,,Canada,Brampton,WINNIPEG,L6Y5S5,R3E 2T4    
 4C8FF5E,,Xobxewz Inc.  (Hughwey 17 & Emzxay 2014),,XOBXEWZ HUGHWEY 17 EMZXAY 2014,0,0,0,0,0,,,Hamilton,,L8W3N1,
 432652E,,Xobxewz Inc.  (Noumteumezh 2026),,XOBXEWZ NOUMTEUMEZH 2026,0,0,0,0,0,,,Hamilton,,L8W3N1,
 0CAF7CE,,Xobxewz Inc. (Quaamz Bxeta),,XOBXEWZ QUAAMZ BXETA,0,0,0,0,0,,,Hamilton,,L8W3N1,
@@ -1024,6 +1320,7 @@ B30CC3C,,Zezketchawem Haexth Euthotuty - Tagume,,ZEZKETCHAWEM HAEXTH EUTHOTUTY T
 58A33E2,,Zhatwoop Court Xomg Tatn Ceta Centre,,ZHATWOOP COURT XOMG TATN CETA CENTRE,0,0,0,0,0,,,Maple,,L6A3P8,
 28C0484,,ZMC-Xevexum Obatetuomz,,ZMC XEVEXUM OBATETUOMZ,0,0,0,0,0,,,Ottawa,,K1A0T6,
 D995DDF,,ZMC-Xevexum Obatetuomz &,,ZMC XEVEXUM OBATETUOMZ,0,0,0,0,0,,,Gatineau,,J8T8B7,
+0DA92BE,E7E42F6,ZMC-Xevexum Obatetuomz&Neumtamemca Inc,ZMC - XEVEXUM OBATETUOMZ & NEUMTAMEMCA INC.,ZMC XEVEXUM OBATETUOMZ NEUMTAMEMCA,0,0,0,0,0,,Canada,Ottawa,GATINEAU,K1Z1G3,J8T 8B7    
 938318F,,Znett Building Services - W/O,,ZNETT BUILDING SERVICES W O,0,0,0,0,0,,,Aurora,,L4G6H8,
 7F1C31E,,Znokumg Gum Puztuxxaty,,ZNOKUMG GUM PUZTUXXATY,0,0,0,0,0,,,,,S0G2V0,
 1162B57,,Znuth & Xomg,,ZNUTH XOMG,0,0,0,0,0,,,Markham,,L3R1A9,

@@ -50,7 +50,7 @@ SELECT
     name_ds1,
     trim(replace(replace(replace(replace(name_ds2,'  ',' '),'  ',' '),'  ',' '),'  ',' ')) AS name_ds2_cl,
     name_clean_ds1,
-    (match_country+ match_country + match_state + match_city + match_zip) AS location_match,
+    (match_country + match_state + match_city + match_zip) AS location_match,
     match_country,
     match_state,
     match_city,
@@ -62,6 +62,6 @@ SELECT
     zip_ds1,
     zip_ds2
 FROM row_n
-WHERE rn = 1
+--WHERE rn = 1
 ORDER BY location_match DESC, name_clean_ds1
 
