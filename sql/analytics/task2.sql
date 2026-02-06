@@ -83,6 +83,7 @@ ds1_dedup AS (
     FROM ds1_dedup as dd1
 
 
+
     UNION ALL
 
     SELECT
@@ -100,6 +101,7 @@ ds1_dedup AS (
          dd2.zip_clean,
          'ds2' AS source
     FROM ds2_dedup AS dd2
+
 
 
 

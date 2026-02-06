@@ -18,11 +18,15 @@ WITH base AS (
 count_m AS (
     SELECT
         SUM(has_match) AS count_match,
-        COUNT(*) AS total_company
+        COUNT(*) AS total_company,
+        SUM (CASE WHEN has_match = 0 THEN 1 ELSE 0 END) AS unmatch_company
     FROM base
 )
 SELECT
     count_match,
-    ROUND(100.0 * count_match / total_company, 2) AS match_percent
+    unmatch_company,
+    total_company,
+    ROUND(100.0 * count_match / total_company, 2) AS match_percent,
+    ROUND(100.0 * unmatch_company / total_company, 2) AS unmatch_percent
 FROM count_m;
 

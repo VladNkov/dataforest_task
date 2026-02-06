@@ -43,6 +43,7 @@ def main():
         run_folder(conn, clean)
         run_folder(conn, analytics)
         export_table(conn, 'task1', 'data/output/task1.csv')
+        export_table(conn, 'task2', 'data/output/task2.csv')
 
 
 if __name__ == "__main__":
