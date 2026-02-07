@@ -1,2 +1,2 @@
-match_company,unmatch_company,total_company,one_to_many_company,match_percent,unmatch_percent,one_to_many_percent,four_location_match_persent,three_location_match_persent,two_location_match_persent,one_location_match_persent
-474,576,1050,99,45.14,54.86,9.43,6.1,34.67,2.57,1.52
+match_company,unmatch_company,total_company,one_to_many_company,match_max_company_ds2,match_2plus_company_ds2,match_3plus_company_ds2,match_percent,unmatch_percent,one_to_many_percent,four_location_match_persent,three_location_match_persent,two_location_match_persent,one_location_match_persent,match_2plus_company_ds2_persent,match_3plus_company_ds2_persent
+474,576,1050,99,11,99,52,45.14,54.86,9.43,6.1,34.67,2.57,1.52,9.43,4.95
