@@ -16,9 +16,13 @@ docker build -t dataforest .
 docker run --rm -v $(pwd)/data:/app/data dataforest
 ```
 
-Результати зберігаються у папці `data/`:
-- `merged_dataset.csv` — об'єднаний датасет
-- `metrics.csv` — розраховані метрики
+Результати зберігаються у папці `data/output`:
+
+| Файл | Опис |
+|------|------|
+| `task1.csv` | Зіставлення компаній DS1 з DS2 (LEFT JOIN за назвою) |
+| `task2.csv` | Об'єднаний набір даних (всі DS1 + збіги з DS2) |
+| `task3.csv` | Розраховані метрики |
 
 ## Запуск без Docker
 

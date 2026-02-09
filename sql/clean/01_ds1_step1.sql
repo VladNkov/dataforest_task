@@ -4,9 +4,9 @@ CREATE TABLE ds1_step1 AS
 SELECT custnmbr, addrcode, custname, sStreet1, sStreet2, sCity, sProvState, sCountry, sPostalZip,
 
 -- убираю мусорные символы и заменяю на пробелы
-  trim(replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(
+  trim(replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(
     upper(trim(coalesce(custname,''))),
-    '"',''), char(39), ''), '*',''), '#',''), '+',' '), '-',' '), ',',' '), '.',' '), '_',' '), '%',' ')
+    '"',''), char(39), ''), '*',''), '#',''), '+',' '), '-',' '), ',',' '), '.',' '), '_',' '), '%',' '), '/',' '), '&',' '), '(',' '), ')',' ')
   ) AS name_step1,
 
   trim(replace(replace(replace(replace(

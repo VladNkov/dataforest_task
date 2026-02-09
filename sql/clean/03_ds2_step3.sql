@@ -66,4 +66,5 @@ SELECT
   state_clean, country_clean, zip_step1
   AS zip_clean
 
-FROM b;
+FROM b
+ORDER BY name_clean;
